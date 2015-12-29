@@ -9,7 +9,15 @@ class Nomination
 	end
 
 	def assign_year(raw_year)
-		@year = raw_year.gsub(/ \(....\)/, "")
+		@year = raw_year.gsub(/ \(....\)/, "").to_i
+	end
+
+	def ditch_year?
+		@year.to_i < 1945
+	end
+
+	def ditch_film?
+		film.to_i
 	end
 
 	def is_tech_or_honorary?

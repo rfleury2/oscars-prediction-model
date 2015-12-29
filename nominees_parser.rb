@@ -1,5 +1,6 @@
 require_relative 'tmdb_getter'
 require_relative 'nomination'
+require 'byebug'
 
 require 'csv'
 require 'nokogiri'
@@ -7,9 +8,10 @@ require 'nokogiri'
 class NomineesParser
 	def initialize
 		@nominations = []
-		parse_nominations
-		parse_best_picture
-		generate_csv
+		# parse_nominations
+		# parse_best_picture
+		parse_best_actor
+		# generate_csv
 	end
 
 	def parse_best_picture
@@ -30,6 +32,51 @@ class NomineesParser
 				@nominations << nomination
 			end
 		end
+	end
+
+	def parse_best_actor
+		# https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture#Winners_and_nominees
+		doc = Nokogiri::HTML(File.open("best_actor_winners_wikipedia.html"))
+		table = doc.xpath("//table").css('.wikitable.sortable.jquery-tablesorter')
+
+		table.xpath('//tbody/tr').each do |award_year|
+			nomination = Nomination.new
+			year = award_year.xpath('th').text
+			nomination.assign_year(year)
+			next if nomination.ditch_year?
+			nomination.year
+			nomination.category = "Best Picture"
+			
+			actor = award_year.xpath('td/span/a').inner_text
+			nomination.nominee = actor
+			puts nomination.nominee
+			
+			film = award_year.xpath('td/span/i/a')
+			# puts film
+			# next if nomination.ditch_film?
+			# byebug
+			
+			# nomination.film = movie_name.text
+			# if index == 0	
+			# 	nomination.is_winner = true
+			# else 
+			# 	nomination.is_winner = false
+			# end
+			# @nominations << nomination
+
+		end
+
+
+		# puts nomination.year
+
+		# .each do |table|
+		# 	year = table.xpath("caption/big/a").text 
+		# 	winner = table.xpath("tbody/tr/td/i/a").each_with_index do |movie_name, index|
+		# 		nomination = Nomination.new
+		# 		nomination.assign_year(year)
+		# 		
+		# 	end
+		# end
 	end
 
 	def parse_nominations
