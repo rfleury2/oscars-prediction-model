@@ -1,1 +1,2126 @@
 year,category,film,nominee,character_name,is_winner
+1945,Best Picture,The Lost Weekend,The Lost Weekend,,true
+1945,Best Picture,Anchors Aweigh,Anchors Aweigh,,false
+1945,Best Picture,The Bells of St. Mary's,The Bells of St. Mary's,,false
+1945,Best Picture,Mildred Pierce,Mildred Pierce,,false
+1945,Best Picture,Spellbound,Spellbound,,false
+1946,Best Picture,The Best Years of Our Lives,The Best Years of Our Lives,,true
+1946,Best Picture,Henry V,Henry V,,false
+1946,Best Picture,It's a Wonderful Life,It's a Wonderful Life,,false
+1946,Best Picture,The Razor's Edge,The Razor's Edge,,false
+1946,Best Picture,The Yearling,The Yearling,,false
+1947,Best Picture,Gentleman's Agreement,Gentleman's Agreement,,true
+1947,Best Picture,The Bishop's Wife,The Bishop's Wife,,false
+1947,Best Picture,Crossfire,Crossfire,,false
+1947,Best Picture,Great Expectations,Great Expectations,,false
+1947,Best Picture,Miracle on 34th Street,Miracle on 34th Street,,false
+1948,Best Picture,Hamlet,Hamlet,,true
+1948,Best Picture,Johnny Belinda,Johnny Belinda,,false
+1948,Best Picture,The Red Shoes,The Red Shoes,,false
+1948,Best Picture,The Snake Pit,The Snake Pit,,false
+1948,Best Picture,The Treasure of the Sierra Madre,The Treasure of the Sierra Madre,,false
+1949,Best Picture,All the King's Men,All the King's Men,,true
+1949,Best Picture,Battleground,Battleground,,false
+1949,Best Picture,The Heiress,The Heiress,,false
+1949,Best Picture,A Letter to Three Wives,A Letter to Three Wives,,false
+1949,Best Picture,Twelve O'Clock High,Twelve O'Clock High,,false
+1950,Best Picture,All About Eve,All About Eve,,true
+1950,Best Picture,Born Yesterday,Born Yesterday,,false
+1950,Best Picture,Father of the Bride,Father of the Bride,,false
+1950,Best Picture,King Solomon's Mines,King Solomon's Mines,,false
+1950,Best Picture,Sunset Boulevard,Sunset Boulevard,,false
+1951,Best Picture,An American in Paris,An American in Paris,,true
+1951,Best Picture,Decision Before Dawn,Decision Before Dawn,,false
+1951,Best Picture,A Place in the Sun,A Place in the Sun,,false
+1951,Best Picture,Quo Vadis,Quo Vadis,,false
+1951,Best Picture,A Streetcar Named Desire,A Streetcar Named Desire,,false
+1952,Best Picture,The Greatest Show on Earth,The Greatest Show on Earth,,true
+1952,Best Picture,High Noon,High Noon,,false
+1952,Best Picture,Ivanhoe,Ivanhoe,,false
+1952,Best Picture,Moulin Rouge,Moulin Rouge,,false
+1952,Best Picture,The Quiet Man,The Quiet Man,,false
+1953,Best Picture,From Here to Eternity,From Here to Eternity,,true
+1953,Best Picture,Julius Caesar,Julius Caesar,,false
+1953,Best Picture,The Robe,The Robe,,false
+1953,Best Picture,Roman Holiday,Roman Holiday,,false
+1953,Best Picture,Shane,Shane,,false
+1954,Best Picture,On the Waterfront,On the Waterfront,,true
+1954,Best Picture,The Caine Mutiny,The Caine Mutiny,,false
+1954,Best Picture,The Country Girl,The Country Girl,,false
+1954,Best Picture,Seven Brides for Seven Brothers,Seven Brides for Seven Brothers,,false
+1954,Best Picture,Three Coins in the Fountain,Three Coins in the Fountain,,false
+1955,Best Picture,Marty,Marty,,true
+1955,Best Picture,Love Is a Many-Splendored Thing,Love Is a Many-Splendored Thing,,false
+1955,Best Picture,Mister Roberts,Mister Roberts,,false
+1955,Best Picture,Picnic,Picnic,,false
+1955,Best Picture,The Rose Tattoo,The Rose Tattoo,,false
+1956,Best Picture,Around the World in 80 Days,Around the World in 80 Days,,true
+1956,Best Picture,Friendly Persuasion,Friendly Persuasion,,false
+1956,Best Picture,Giant,Giant,,false
+1956,Best Picture,The King and I,The King and I,,false
+1956,Best Picture,The Ten Commandments,The Ten Commandments,,false
+1957,Best Picture,The Bridge on the River Kwai,The Bridge on the River Kwai,,true
+1957,Best Picture,12 Angry Men,12 Angry Men,,false
+1957,Best Picture,Peyton Place,Peyton Place,,false
+1957,Best Picture,Sayonara,Sayonara,,false
+1957,Best Picture,Witness for the Prosecution,Witness for the Prosecution,,false
+1958,Best Picture,Gigi,Gigi,,true
+1958,Best Picture,Auntie Mame,Auntie Mame,,false
+1958,Best Picture,Cat on a Hot Tin Roof,Cat on a Hot Tin Roof,,false
+1958,Best Picture,The Defiant Ones,The Defiant Ones,,false
+1958,Best Picture,Separate Tables,Separate Tables,,false
+1959,Best Picture,Ben-Hur,Ben-Hur,,true
+1959,Best Picture,Anatomy of a Murder,Anatomy of a Murder,,false
+1959,Best Picture,The Diary of Anne Frank,The Diary of Anne Frank,,false
+1959,Best Picture,The Nun's Story,The Nun's Story,,false
+1959,Best Picture,Room at the Top,Room at the Top,,false
+1960,Best Picture,The Apartment,The Apartment,,true
+1960,Best Picture,The Alamo,The Alamo,,false
+1960,Best Picture,Elmer Gantry,Elmer Gantry,,false
+1960,Best Picture,Sons and Lovers,Sons and Lovers,,false
+1960,Best Picture,The Sundowners,The Sundowners,,false
+1961,Best Picture,West Side Story,West Side Story,,true
+1961,Best Picture,Fanny,Fanny,,false
+1961,Best Picture,The Guns of Navarone,The Guns of Navarone,,false
+1961,Best Picture,The Hustler,The Hustler,,false
+1961,Best Picture,Judgment at Nuremberg,Judgment at Nuremberg,,false
+1962,Best Picture,Lawrence of Arabia,Lawrence of Arabia,,true
+1962,Best Picture,The Longest Day,The Longest Day,,false
+1962,Best Picture,The Music Man,The Music Man,,false
+1962,Best Picture,Mutiny on the Bounty,Mutiny on the Bounty,,false
+1962,Best Picture,To Kill a Mockingbird,To Kill a Mockingbird,,false
+1963,Best Picture,Tom Jones,Tom Jones,,true
+1963,Best Picture,"America, America","America, America",,false
+1963,Best Picture,Cleopatra,Cleopatra,,false
+1963,Best Picture,How the West Was Won,How the West Was Won,,false
+1963,Best Picture,Lilies of the Field,Lilies of the Field,,false
+1964,Best Picture,My Fair Lady,My Fair Lady,,true
+1964,Best Picture,Becket,Becket,,false
+1964,Best Picture,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,,false
+1964,Best Picture,Mary Poppins,Mary Poppins,,false
+1964,Best Picture,Zorba the Greek,Zorba the Greek,,false
+1965,Best Picture,The Sound of Music,The Sound of Music,,true
+1965,Best Picture,Darling,Darling,,false
+1965,Best Picture,Doctor Zhivago,Doctor Zhivago,,false
+1965,Best Picture,Ship of Fools,Ship of Fools,,false
+1965,Best Picture,A Thousand Clowns,A Thousand Clowns,,false
+1966,Best Picture,A Man for All Seasons,A Man for All Seasons,,true
+1966,Best Picture,Alfie,Alfie,,false
+1966,Best Picture,"The Russians Are Coming, the Russians Are Coming","The Russians Are Coming, the Russians Are Coming",,false
+1966,Best Picture,The Sand Pebbles,The Sand Pebbles,,false
+1966,Best Picture,Who's Afraid of Virginia Woolf?,Who's Afraid of Virginia Woolf?,,false
+1967,Best Picture,In the Heat of the Night,In the Heat of the Night,,true
+1967,Best Picture,Bonnie and Clyde,Bonnie and Clyde,,false
+1967,Best Picture,Doctor Dolittle,Doctor Dolittle,,false
+1967,Best Picture,The Graduate,The Graduate,,false
+1967,Best Picture,Guess Who's Coming to Dinner,Guess Who's Coming to Dinner,,false
+1968,Best Picture,Oliver!,Oliver!,,true
+1968,Best Picture,Funny Girl,Funny Girl,,false
+1968,Best Picture,The Lion in Winter,The Lion in Winter,,false
+1968,Best Picture,"Rachel, Rachel","Rachel, Rachel",,false
+1968,Best Picture,Romeo and Juliet,Romeo and Juliet,,false
+1969,Best Picture,Midnight Cowboy,Midnight Cowboy,,true
+1969,Best Picture,Anne of the Thousand Days,Anne of the Thousand Days,,false
+1969,Best Picture,Butch Cassidy and the Sundance Kid,Butch Cassidy and the Sundance Kid,,false
+1969,Best Picture,"Hello, Dolly!","Hello, Dolly!",,false
+1969,Best Picture,Z,Z,,false
+1970,Best Picture,Patton,Patton,,true
+1970,Best Picture,Airport,Airport,,false
+1970,Best Picture,Five Easy Pieces,Five Easy Pieces,,false
+1970,Best Picture,Love Story,Love Story,,false
+1970,Best Picture,MASH,MASH,,false
+1971,Best Picture,The French Connection,The French Connection,,true
+1971,Best Picture,A Clockwork Orange,A Clockwork Orange,,false
+1971,Best Picture,Fiddler on the Roof,Fiddler on the Roof,,false
+1971,Best Picture,The Last Picture Show,The Last Picture Show,,false
+1971,Best Picture,Nicholas and Alexandra,Nicholas and Alexandra,,false
+1972,Best Picture,The Godfather,The Godfather,,true
+1972,Best Picture,Cabaret,Cabaret,,false
+1972,Best Picture,Deliverance,Deliverance,,false
+1972,Best Picture,The Emigrants,The Emigrants,,false
+1972,Best Picture,Sounder,Sounder,,false
+1973,Best Picture,The Sting,The Sting,,true
+1973,Best Picture,American Graffiti,American Graffiti,,false
+1973,Best Picture,Cries and Whispers,Cries and Whispers,,false
+1973,Best Picture,The Exorcist,The Exorcist,,false
+1973,Best Picture,A Touch of Class,A Touch of Class,,false
+1974,Best Picture,The Godfather Part II,The Godfather Part II,,true
+1974,Best Picture,Chinatown,Chinatown,,false
+1974,Best Picture,The Conversation,The Conversation,,false
+1974,Best Picture,Lenny,Lenny,,false
+1974,Best Picture,The Towering Inferno,The Towering Inferno,,false
+1975,Best Picture,One Flew Over the Cuckoo's Nest,One Flew Over the Cuckoo's Nest,,true
+1975,Best Picture,Barry Lyndon,Barry Lyndon,,false
+1975,Best Picture,Dog Day Afternoon,Dog Day Afternoon,,false
+1975,Best Picture,Jaws,Jaws,,false
+1975,Best Picture,Nashville,Nashville,,false
+1976,Best Picture,Rocky,Rocky,,true
+1976,Best Picture,All the President's Men,All the President's Men,,false
+1976,Best Picture,Bound for Glory,Bound for Glory,,false
+1976,Best Picture,Network,Network,,false
+1976,Best Picture,Taxi Driver,Taxi Driver,,false
+1977,Best Picture,Annie Hall,Annie Hall,,true
+1977,Best Picture,The Goodbye Girl,The Goodbye Girl,,false
+1977,Best Picture,Julia,Julia,,false
+1977,Best Picture,Star Wars,Star Wars,,false
+1977,Best Picture,The Turning Point,The Turning Point,,false
+1978,Best Picture,The Deer Hunter,The Deer Hunter,,true
+1978,Best Picture,Coming Home,Coming Home,,false
+1978,Best Picture,Heaven Can Wait,Heaven Can Wait,,false
+1978,Best Picture,Midnight Express,Midnight Express,,false
+1978,Best Picture,An Unmarried Woman,An Unmarried Woman,,false
+1979,Best Picture,Kramer vs. Kramer,Kramer vs. Kramer,,true
+1979,Best Picture,All That Jazz,All That Jazz,,false
+1979,Best Picture,Apocalypse Now,Apocalypse Now,,false
+1979,Best Picture,Breaking Away,Breaking Away,,false
+1979,Best Picture,Norma Rae,Norma Rae,,false
+1980,Best Picture,Ordinary People,Ordinary People,,true
+1980,Best Picture,Coal Miner's Daughter,Coal Miner's Daughter,,false
+1980,Best Picture,The Elephant Man,The Elephant Man,,false
+1980,Best Picture,Raging Bull,Raging Bull,,false
+1980,Best Picture,Tess,Tess,,false
+1981,Best Picture,Chariots of Fire,Chariots of Fire,,true
+1981,Best Picture,Atlantic City,Atlantic City,,false
+1981,Best Picture,On Golden Pond,On Golden Pond,,false
+1981,Best Picture,Raiders of the Lost Ark,Raiders of the Lost Ark,,false
+1981,Best Picture,Reds,Reds,,false
+1982,Best Picture,Gandhi,Gandhi,,true
+1982,Best Picture,E.T. the Extra-Terrestrial,E.T. the Extra-Terrestrial,,false
+1982,Best Picture,Missing,Missing,,false
+1982,Best Picture,Tootsie,Tootsie,,false
+1982,Best Picture,The Verdict,The Verdict,,false
+1983,Best Picture,Terms of Endearment,Terms of Endearment,,true
+1983,Best Picture,The Big Chill,The Big Chill,,false
+1983,Best Picture,The Dresser,The Dresser,,false
+1983,Best Picture,The Right Stuff,The Right Stuff,,false
+1983,Best Picture,Tender Mercies,Tender Mercies,,false
+1984,Best Picture,Amadeus,Amadeus,,true
+1984,Best Picture,The Killing Fields,The Killing Fields,,false
+1984,Best Picture,A Passage to India,A Passage to India,,false
+1984,Best Picture,Places in the Heart,Places in the Heart,,false
+1984,Best Picture,A Soldier's Story,A Soldier's Story,,false
+1985,Best Picture,Out of Africa,Out of Africa,,true
+1985,Best Picture,The Color Purple,The Color Purple,,false
+1985,Best Picture,Kiss of the Spider Woman,Kiss of the Spider Woman,,false
+1985,Best Picture,Prizzi's Honor,Prizzi's Honor,,false
+1985,Best Picture,Witness,Witness,,false
+1986,Best Picture,Platoon,Platoon,,true
+1986,Best Picture,Children of a Lesser God,Children of a Lesser God,,false
+1986,Best Picture,Hannah and Her Sisters,Hannah and Her Sisters,,false
+1986,Best Picture,The Mission,The Mission,,false
+1986,Best Picture,A Room with a View,A Room with a View,,false
+1987,Best Picture,The Last Emperor,The Last Emperor,,true
+1987,Best Picture,Broadcast News,Broadcast News,,false
+1987,Best Picture,Fatal Attraction,Fatal Attraction,,false
+1987,Best Picture,Hope and Glory,Hope and Glory,,false
+1987,Best Picture,Moonstruck,Moonstruck,,false
+1988,Best Picture,Rain Man,Rain Man,,true
+1988,Best Picture,The Accidental Tourist,The Accidental Tourist,,false
+1988,Best Picture,Dangerous Liaisons,Dangerous Liaisons,,false
+1988,Best Picture,Mississippi Burning,Mississippi Burning,,false
+1988,Best Picture,Working Girl,Working Girl,,false
+1989,Best Picture,Driving Miss Daisy,Driving Miss Daisy,,true
+1989,Best Picture,Born on the Fourth of July,Born on the Fourth of July,,false
+1989,Best Picture,Dead Poets Society,Dead Poets Society,,false
+1989,Best Picture,Field of Dreams,Field of Dreams,,false
+1989,Best Picture,My Left Foot,My Left Foot,,false
+1990,Best Picture,Dances with Wolves,Dances with Wolves,,true
+1990,Best Picture,Awakenings,Awakenings,,false
+1990,Best Picture,Ghost,Ghost,,false
+1990,Best Picture,The Godfather Part III,The Godfather Part III,,false
+1990,Best Picture,Goodfellas,Goodfellas,,false
+1991,Best Picture,The Silence of the Lambs,The Silence of the Lambs,,true
+1991,Best Picture,Beauty and the Beast,Beauty and the Beast,,false
+1991,Best Picture,Bugsy,Bugsy,,false
+1991,Best Picture,JFK,JFK,,false
+1991,Best Picture,The Prince of Tides,The Prince of Tides,,false
+1992,Best Picture,Unforgiven,Unforgiven,,true
+1992,Best Picture,The Crying Game,The Crying Game,,false
+1992,Best Picture,A Few Good Men,A Few Good Men,,false
+1992,Best Picture,Howards End,Howards End,,false
+1992,Best Picture,Scent of a Woman,Scent of a Woman,,false
+1993,Best Picture,Schindler's List,Schindler's List,,true
+1993,Best Picture,The Fugitive,The Fugitive,,false
+1993,Best Picture,In the Name of the Father,In the Name of the Father,,false
+1993,Best Picture,The Piano,The Piano,,false
+1993,Best Picture,The Remains of the Day,The Remains of the Day,,false
+1994,Best Picture,Forrest Gump,Forrest Gump,,true
+1994,Best Picture,Four Weddings and a Funeral,Four Weddings and a Funeral,,false
+1994,Best Picture,Pulp Fiction,Pulp Fiction,,false
+1994,Best Picture,Quiz Show,Quiz Show,,false
+1994,Best Picture,The Shawshank Redemption,The Shawshank Redemption,,false
+1995,Best Picture,Braveheart,Braveheart,,true
+1995,Best Picture,Apollo 13,Apollo 13,,false
+1995,Best Picture,Babe,Babe,,false
+1995,Best Picture,Il Postino: The Postman,Il Postino: The Postman,,false
+1995,Best Picture,Sense and Sensibility,Sense and Sensibility,,false
+1996,Best Picture,The English Patient,The English Patient,,true
+1996,Best Picture,Fargo,Fargo,,false
+1996,Best Picture,Jerry Maguire,Jerry Maguire,,false
+1996,Best Picture,Secrets & Lies,Secrets & Lies,,false
+1996,Best Picture,Shine,Shine,,false
+1997,Best Picture,Titanic,Titanic,,true
+1997,Best Picture,As Good as It Gets,As Good as It Gets,,false
+1997,Best Picture,The Full Monty,The Full Monty,,false
+1997,Best Picture,Good Will Hunting,Good Will Hunting,,false
+1997,Best Picture,L.A. Confidential,L.A. Confidential,,false
+1998,Best Picture,Shakespeare in Love,Shakespeare in Love,,true
+1998,Best Picture,Elizabeth,Elizabeth,,false
+1998,Best Picture,Life Is Beautiful,Life Is Beautiful,,false
+1998,Best Picture,Saving Private Ryan,Saving Private Ryan,,false
+1998,Best Picture,The Thin Red Line,The Thin Red Line,,false
+1999,Best Picture,American Beauty,American Beauty,,true
+1999,Best Picture,The Cider House Rules,The Cider House Rules,,false
+1999,Best Picture,The Green Mile,The Green Mile,,false
+1999,Best Picture,The Insider,The Insider,,false
+1999,Best Picture,The Sixth Sense,The Sixth Sense,,false
+2000,Best Picture,Gladiator,Gladiator,,true
+2000,Best Picture,Chocolat,Chocolat,,false
+2000,Best Picture,"Crouching Tiger, Hidden Dragon","Crouching Tiger, Hidden Dragon",,false
+2000,Best Picture,Erin Brockovich,Erin Brockovich,,false
+2000,Best Picture,Traffic,Traffic,,false
+2001,Best Picture,A Beautiful Mind,A Beautiful Mind,,true
+2001,Best Picture,Gosford Park,Gosford Park,,false
+2001,Best Picture,In the Bedroom,In the Bedroom,,false
+2001,Best Picture,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,,false
+2001,Best Picture,Moulin Rouge!,Moulin Rouge!,,false
+2002,Best Picture,Chicago,Chicago,,true
+2002,Best Picture,Gangs of New York,Gangs of New York,,false
+2002,Best Picture,The Hours,The Hours,,false
+2002,Best Picture,The Lord of the Rings: The Two Towers,The Lord of the Rings: The Two Towers,,false
+2002,Best Picture,The Pianist,The Pianist,,false
+2003,Best Picture,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,,true
+2003,Best Picture,Lost in Translation,Lost in Translation,,false
+2003,Best Picture,Master and Commander: The Far Side of the World,Master and Commander: The Far Side of the World,,false
+2003,Best Picture,Mystic River,Mystic River,,false
+2003,Best Picture,Seabiscuit,Seabiscuit,,false
+2004,Best Picture,Million Dollar Baby,Million Dollar Baby,,true
+2004,Best Picture,The Aviator,The Aviator,,false
+2004,Best Picture,Finding Neverland,Finding Neverland,,false
+2004,Best Picture,Ray,Ray,,false
+2004,Best Picture,Sideways,Sideways,,false
+2005,Best Picture,Crash,Crash,,true
+2005,Best Picture,Brokeback Mountain,Brokeback Mountain,,false
+2005,Best Picture,Capote,Capote,,false
+2005,Best Picture,"Good Night, and Good Luck","Good Night, and Good Luck",,false
+2005,Best Picture,Munich,Munich,,false
+2006,Best Picture,The Departed,The Departed,,true
+2006,Best Picture,Babel,Babel,,false
+2006,Best Picture,Letters from Iwo Jima,Letters from Iwo Jima,,false
+2006,Best Picture,Little Miss Sunshine,Little Miss Sunshine,,false
+2006,Best Picture,The Queen,The Queen,,false
+2007,Best Picture,No Country for Old Men,No Country for Old Men,,true
+2007,Best Picture,Atonement,Atonement,,false
+2007,Best Picture,Juno,Juno,,false
+2007,Best Picture,Michael Clayton,Michael Clayton,,false
+2007,Best Picture,There Will Be Blood,There Will Be Blood,,false
+2008,Best Picture,Slumdog Millionaire,Slumdog Millionaire,,true
+2008,Best Picture,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button,,false
+2008,Best Picture,Frost/Nixon,Frost/Nixon,,false
+2008,Best Picture,Milk,Milk,,false
+2008,Best Picture,The Reader,The Reader,,false
+2009,Best Picture,The Hurt Locker,The Hurt Locker,,true
+2009,Best Picture,Avatar,Avatar,,false
+2009,Best Picture,The Blind Side,The Blind Side,,false
+2009,Best Picture,District 9,District 9,,false
+2009,Best Picture,An Education,An Education,,false
+2009,Best Picture,Inglourious Basterds,Inglourious Basterds,,false
+2009,Best Picture,"Precious: Based on the Novel ""Push"" by Sapphire","Precious: Based on the Novel ""Push"" by Sapphire",,false
+2009,Best Picture,A Serious Man,A Serious Man,,false
+2009,Best Picture,Up,Up,,false
+2009,Best Picture,Up in the Air,Up in the Air,,false
+2010,Best Picture,The King's Speech,The King's Speech,,true
+2010,Best Picture,127 Hours,127 Hours,,false
+2010,Best Picture,Black Swan,Black Swan,,false
+2010,Best Picture,The Fighter,The Fighter,,false
+2010,Best Picture,Inception,Inception,,false
+2010,Best Picture,The Kids Are All Right,The Kids Are All Right,,false
+2010,Best Picture,The Social Network,The Social Network,,false
+2010,Best Picture,Toy Story 3,Toy Story 3,,false
+2010,Best Picture,True Grit,True Grit,,false
+2010,Best Picture,Winter's Bone,Winter's Bone,,false
+2011,Best Picture,The Artist,The Artist,,true
+2011,Best Picture,The Descendants,The Descendants,,false
+2011,Best Picture,Extremely Loud and Incredibly Close,Extremely Loud and Incredibly Close,,false
+2011,Best Picture,The Help,The Help,,false
+2011,Best Picture,Hugo,Hugo,,false
+2011,Best Picture,Midnight in Paris,Midnight in Paris,,false
+2011,Best Picture,Moneyball,Moneyball,,false
+2011,Best Picture,The Tree of Life,The Tree of Life,,false
+2011,Best Picture,War Horse,War Horse,,false
+2012,Best Picture,Argo,Argo,,true
+2012,Best Picture,Amour,Amour,,false
+2012,Best Picture,Beasts of the Southern Wild,Beasts of the Southern Wild,,false
+2012,Best Picture,Django Unchained,Django Unchained,,false
+2012,Best Picture,Les MisÃ©rables,Les MisÃ©rables,,false
+2012,Best Picture,Life of Pi,Life of Pi,,false
+2012,Best Picture,Lincoln,Lincoln,,false
+2012,Best Picture,Silver Linings Playbook,Silver Linings Playbook,,false
+2012,Best Picture,Zero Dark Thirty,Zero Dark Thirty,,false
+2013,Best Picture,12 Years a Slave,12 Years a Slave,,true
+2013,Best Picture,American Hustle,American Hustle,,false
+2013,Best Picture,Captain Phillips,Captain Phillips,,false
+2013,Best Picture,Dallas Buyers Club,Dallas Buyers Club,,false
+2013,Best Picture,Gravity,Gravity,,false
+2013,Best Picture,Her,Her,,false
+2013,Best Picture,Nebraska,Nebraska,,false
+2013,Best Picture,Philomena,Philomena,,false
+2013,Best Picture,The Wolf of Wall Street,The Wolf of Wall Street,,false
+2014,Best Picture,Birdman or (The Unexpected Virtue of Ignorance),Birdman or (The Unexpected Virtue of Ignorance),,true
+2014,Best Picture,American Sniper,American Sniper,,false
+2014,Best Picture,Boyhood,Boyhood,,false
+2014,Best Picture,The Grand Budapest Hotel,The Grand Budapest Hotel,,false
+2014,Best Picture,The Imitation Game,The Imitation Game,,false
+2014,Best Picture,Selma,Selma,,false
+2014,Best Picture,The Theory of Everything,The Theory of Everything,,false
+2014,Best Picture,Whiplash,Whiplash,,false
+2002,Actor -- Leading Role,The Pianist,Adrien Brody,W_adys_aw Szpilman,true
+1973,Actor -- Leading Role,Serpico,Al Pacino,Frank Serpico,false
+1974,Actor -- Leading Role,The Godfather Part II,Al Pacino,Michael Corleone,false
+1975,Actor -- Leading Role,Dog Day Afternoon,Al Pacino,Sonny Wortzik,false
+1979,Actor -- Leading Role,...And Justice for All,Al Pacino,Arthur Kirkland,false
+1992,Actor -- Leading Role,Scent of a Woman,Al Pacino,Lieutenant Colonel Frank Slade,true
+1966,Actor -- Leading Role,The Russians Are Coming the Russians Are Coming,Alan Arkin,Lt. Rozanov,false
+1968,Actor -- Leading Role,The Heart Is a Lonely Hunter,Alan Arkin,John Singer,false
+1968,Actor -- Leading Role,The Fixer,Alan Bates,Yakov Bok,false
+1984,Actor -- Leading Role,Under the Volcano,Albert Finney,Geoffrey Firmin,false
+1963,Actor -- Leading Role,Tom Jones,Albert Finney,Tom Jones,false
+1974,Actor -- Leading Role,Murder on the Orient Express,Albert Finney,Hercule Poirot,false
+1983,Actor -- Leading Role,The Dresser,Albert Finney,Sir,false
+1952,Actor -- Leading Role,The Lavender Hill Mob,Alec Guinness,Holland,false
+1957,Actor -- Leading Role,The Bridge on the River Kwai,Alec Guinness,Lt. Colonel L. Nicholson D.S.O.,true
+1957,Actor -- Leading Role,A Hatful of Rain,Anthony Franciosa,Polo Pope,false
+1993,Actor -- Leading Role,The Remains of the Day,Anthony Hopkins,James Stevens,false
+1995,Actor -- Leading Role,Nixon,Anthony Hopkins,Richard Nixon,false
+1991,Actor -- Leading Role,The Silence of the Lambs,Anthony Hopkins,Dr. Hannibal Lecter,true
+1964,Actor -- Leading Role,Zorba the Greek,Anthony Quinn,Alexis Zorba,false
+1957,Actor -- Leading Role,Wild Is the Wind,Anthony Quinn,Gino,false
+1974,Actor -- Leading Role,Harry and Tonto,Art Carney,Harry Coombes,true
+1951,Actor -- Leading Role,Bright Victory,Arthur Kennedy,Larry Nevins,false
+2003,Actor -- Leading Role,House of Sand and Fog,Ben Kingsley,Massoud Amir Behrani,false
+1982,Actor -- Leading Role,Gandhi,Ben Kingsley,Mohandas Karamchand Gandhi,true
+2014,Actor -- Leading Role,The Imitation Game,Benedict Cumberbatch,Alan Turing,false
+2003,Actor -- Leading Role,Lost in Translation,Bill Murray,Bob Harris,false
+1996,Actor -- Leading Role,Sling Blade,Billy Bob Thornton,Karl Childers,false
+1954,Actor -- Leading Role,The Country Girl,Bing Crosby,Frank Elgin,false
+1945,Actor -- Leading Role,The Bells of St. Mary's,Bing Crosby,Father Chuck O'Malley,false
+1986,Actor -- Leading Role,Mona Lisa,Bob Hoskins,George,false
+2011,Actor -- Leading Role,Moneyball,Brad Pitt,Billy Beane,false
+2008,Actor -- Leading Role,The Curious Case of Benjamin Button,Brad Pitt,Benjamin Button,false
+2012,Actor -- Leading Role,Silver Linings Playbook,Bradley Cooper,"Patrizio ""Pat"" Solitano Jr.",false
+2014,Actor -- Leading Role,American Sniper,Bradley Cooper,Chris Kyle,false
+1949,Actor -- Leading Role,All the King's Men,Broderick Crawford,Willie Stark,true
+2013,Actor -- Leading Role,Nebraska,Bruce Dern,"Woodrow T. ""Woody"" Grant",false
+1953,Actor -- Leading Role,From Here to Eternity,Burt Lancaster,1st Sgt. Milton Warden,false
+1962,Actor -- Leading Role,Birdman of Alcatraz,Burt Lancaster,Robert Franklin Stroud,false
+1981,Actor -- Leading Role,Atlantic City,Burt Lancaster,Lou Pascal,false
+1960,Actor -- Leading Role,Elmer Gantry,Burt Lancaster,Elmer Gantry,true
+1961,Actor -- Leading Role,Fanny,Charles Boyer,Cesar,false
+1957,Actor -- Leading Role,Witness for the Prosecution,Charles Laughton,Sir Wilfrid Robarts,false
+1959,Actor -- Leading Role,Ben-Hur,Charlton Heston,Judah Ben-Hur,true
+2013,Actor -- Leading Role,12 Years a Slave,Chiwetel Ejiofor,Solomon Northup,false
+2013,Actor -- Leading Role,American Hustle,Christian Bale,Irving Rosenfeld,false
+1968,Actor -- Leading Role,Charly,Cliff Robertson,Charly Gordon,true
+1948,Actor -- Leading Role,Sitting Pretty,Clifton Webb,Lynn Aloysius Belvedere,false
+1992,Actor -- Leading Role,Unforgiven,Clint Eastwood,"William ""Will"" Munny",false
+2004,Actor -- Leading Role,Million Dollar Baby,Clint Eastwood,Frankie Dunn,false
+2009,Actor -- Leading Role,A Single Man,Colin Firth,George Falconer,false
+2010,Actor -- Leading Role,The King's Speech,Colin Firth,King George VI,true
+1945,Actor -- Leading Role,A Song to Remember,Cornel Wilde,Frederic Chopin,false
+1948,Actor -- Leading Role,When My Baby Smiles at Me,Dan Dailey,Skid Johnson,false
+1954,Actor -- Leading Role,Adventures of Robinson Crusoe,Dan O'Herlihy,Robinson Crusoe,false
+1993,Actor -- Leading Role,In the Name of the Father,Daniel Day-Lewis,Gerry Conlon,false
+2002,Actor -- Leading Role,Gangs of New York,Daniel Day-Lewis,"William ""Bill the Butcher"" Cutting",false
+2007,Actor -- Leading Role,There Will Be Blood,Daniel Day-Lewis,Daniel Plainview,true
+1989,Actor -- Leading Role,My Left Foot,Daniel Day-Lewis,Christy Brown,true
+2012,Actor -- Leading Role,Lincoln,Daniel Day-Lewis,Abraham Lincoln,true
+1958,Actor -- Leading Role,Separate Tables,David Niven,Major Angus Pollock,true
+2005,Actor -- Leading Role,Good Night and Good Luck,David Strathairn,Edward R. Murrow,false
+2011,Actor -- Leading Role,A Better Life,Demian Bichir,Carlos Galindo,false
+1992,Actor -- Leading Role,Malcolm X,Denzel Washington,Malcolm X,false
+1999,Actor -- Leading Role,The Hurricane,Denzel Washington,"Rubin ""The Hurricane"" Carter",false
+2012,Actor -- Leading Role,Flight,Denzel Washington,"William ""Whip"" Whitaker Sr.",false
+2001,Actor -- Leading Role,Training Day,Denzel Washington,Detective Alonzo Harris,true
+1986,Actor -- Leading Role,Round Midnight,Dexter Gordon,Dale Turner,false
+2004,Actor -- Leading Role,Hotel Rwanda,Don Cheadle,Paul Rusesabagina,false
+1981,Actor -- Leading Role,Arthur,Dudley Moore,Arthur Bach,false
+1997,Actor -- Leading Role,Wag the Dog,Dustin Hoffman,Stanley Motss,false
+1982,Actor -- Leading Role,Tootsie,Dustin Hoffman,Michael Dorsey aka Dorothy Michaels,false
+1969,Actor -- Leading Role,Midnight Cowboy,Dustin Hoffman,"Enrico Salvatore ""Ratso"" ""Rico"" Rizzo",false
+1974,Actor -- Leading Role,Lenny,Dustin Hoffman,Lenny Bruce,false
+1967,Actor -- Leading Role,The Graduate,Dustin Hoffman,Benjamin Braddock,false
+1988,Actor -- Leading Role,Rain Man,Dustin Hoffman,Raymond Babbitt,true
+1979,Actor -- Leading Role,Kramer vs. Kramer,Dustin Hoffman,Ted Kramer,true
+2000,Actor -- Leading Role,Pollock,Ed Harris,Jackson Pollock,false
+2014,Actor -- Leading Role,The Theory of Everything,Eddie Redmayne,Stephen Hawking,true
+1988,Actor -- Leading Role,Stand and Deliver,Edward James Olmos,Jaime Escalante,false
+1998,Actor -- Leading Role,American History X,Edward Norton,Derek Vinyard,false
+1955,Actor -- Leading Role,Marty,Ernest Borgnine,Marty Piletti,true
+1984,Actor -- Leading Role,Amadeus,F. Murray Abraham,Antonio Salieri,true
+2006,Actor -- Leading Role,The Last King of Scotland,Forest Whitaker,Idi Amin,true
+2008,Actor -- Leading Role,Frost/Nixon,Frank Langella,Richard Nixon,false
+1955,Actor -- Leading Role,The Man with the Golden Arm,Frank Sinatra,Frankie Machine,false
+1951,Actor -- Leading Role,Death of a Salesman,Fredric March,Willy Loman,false
+1946,Actor -- Leading Role,The Best Years of Our Lives,Fredric March,Al Stephenson,true
+1978,Actor -- Leading Role,The Buddy Holly Story,Gary Busey,Buddy Holly,false
+1952,Actor -- Leading Role,High Noon,Gary Cooper,Marshal Will Kane,true
+2011,Actor -- Leading Role,Tinker Tailor Soldier Spy,Gary Oldman,George Smiley,false
+1988,Actor -- Leading Role,Mississippi Burning,Gene Hackman,Agent Rupert Anderson,false
+1971,Actor -- Leading Role,The French Connection,Gene Hackman,"Detective Jimmy ""Popeye"" Doyle",true
+1945,Actor -- Leading Role,Anchors Aweigh,Gene Kelly,Joseph Brady,false
+2000,Actor -- Leading Role,Quills,Geoffrey Rush,The Marquis de Sade,false
+1996,Actor -- Leading Role,Shine,Geoffrey Rush,David Helfgott,true
+1971,Actor -- Leading Role,The Hospital,George C. Scott,Dr. Herbert Bock,false
+1970,Actor -- Leading Role,Patton,George C. Scott,General George S. Patton Jr.,false
+2009,Actor -- Leading Role,Up in the Air,George Clooney,Ryan Bingham,false
+2007,Actor -- Leading Role,Michael Clayton,George Clooney,Michael Clayton,false
+2011,Actor -- Leading Role,The Descendants,George Clooney,Matthew King,false
+1990,Actor -- Leading Role,Cyrano de Bergerac,Gerard Depardieu,Cyrano de Bergerac,false
+1976,Actor -- Leading Role,Seven Beauties,Giancarlo Giannini,Pasqualino Frafuso,false
+1946,Actor -- Leading Role,The Yearling,Gregory Peck,"Ezra ""Penny"" Baxter",false
+1949,Actor -- Leading Role,Twelve O'Clock High,Gregory Peck,Brig. General Frank Savage,false
+1945,Actor -- Leading Role,The Keys of the Kingdom,Gregory Peck,Father Francis,false
+1947,Actor -- Leading Role,Gentleman's Agreement,Gregory Peck,Philip Schuyler Green,false
+1962,Actor -- Leading Role,To Kill a Mockingbird,Gregory Peck,Atticus Finch,true
+1985,Actor -- Leading Role,Witness,Harrison Ford,Detective Captain John Book,false
+2005,Actor -- Leading Role,Brokeback Mountain,Heath Ledger,Ennis Del Mar,false
+1981,Actor -- Leading Role,On Golden Pond,Henry Fonda,Norman Thayer Jr.,true
+2012,Actor -- Leading Role,Les Miserables,Hugh Jackman,Jean Valjean,false
+1954,Actor -- Leading Role,The Caine Mutiny,Humphrey Bogart,Lt. Cmdr. Philip Francis Queeg,false
+1951,Actor -- Leading Role,The African Queen,Humphrey Bogart,Charlie Allnut,true
+1998,Actor -- Leading Role,Gods and Monsters,Ian McKellen,James Whale,false
+1980,Actor -- Leading Role,Tribute,Jack Lemmon,Scottie Templeton,false
+1959,Actor -- Leading Role,Some Like It Hot,Jack Lemmon,Jerry,false
+1982,Actor -- Leading Role,Missing,Jack Lemmon,Ed Horman,false
+1962,Actor -- Leading Role,Days of Wine and Roses,Jack Lemmon,Joe Clay,false
+1979,Actor -- Leading Role,The China Syndrome,Jack Lemmon,Jack Godell,false
+1960,Actor -- Leading Role,The Apartment,Jack Lemmon,"C. C. ""Bud"" Baxter",false
+1973,Actor -- Leading Role,Save the Tiger,Jack Lemmon,Harry Stoner,true
+1985,Actor -- Leading Role,Prizzi's Honor,Jack Nicholson,Charley Partanna,false
+1973,Actor -- Leading Role,The Last Detail,Jack Nicholson,"Signalman First Class Billy L. ""Badass"" Buddusky",false
+1987,Actor -- Leading Role,Ironweed,Jack Nicholson,Francis Phelan,false
+1970,Actor -- Leading Role,Five Easy Pieces,Jack Nicholson,Robert Eroica Dupea,false
+1974,Actor -- Leading Role,Chinatown,Jack Nicholson,"J. J. ""Jake"" Gittes",false
+2002,Actor -- Leading Role,About Schmidt,Jack Nicholson,Warren R. Schmidt,false
+1975,Actor -- Leading Role,One Flew Over the Cuckoo's Nest,Jack Nicholson,"Randle Patrick ""Mac"" McMurphy",true
+1997,Actor -- Leading Role,As Good as It Gets,Jack Nicholson,Melvin Udall,true
+1955,Actor -- Leading Role,Love Me or Leave Me,James Cagney,Martin Snyder,false
+1956,Actor -- Leading Role,Giant,James Dean,Jett Rink,false
+1955,Actor -- Leading Role,East of Eden,James Dean,Cal Trask,false
+1970,Actor -- Leading Role,The Great White Hope,James Earl Jones,Jack Jefferson,false
+2010,Actor -- Leading Role,127 Hours,James Franco,Aron Ralston,false
+1985,Actor -- Leading Role,Murphy's Romance,James Garner,Murphy Jones,false
+1954,Actor -- Leading Role,A Star Is Born,James Mason,Norman Maine,false
+1946,Actor -- Leading Role,It's a Wonderful Life,James Stewart,George Bailey,false
+1950,Actor -- Leading Role,Harvey,James Stewart,Elwood P. Dowd,false
+1959,Actor -- Leading Role,Anatomy of a Murder,James Stewart,Paul Biegler,false
+1975,Actor -- Leading Role,Give 'em Hell Harry!,James Whitmore,Harry S. Truman,false
+1986,Actor -- Leading Role,Salvador,James Woods,Richard Boyle,false
+2004,Actor -- Leading Role,Ray,Jamie Foxx,Ray Charles,true
+2010,Actor -- Leading Role,Biutiful,Javier Bardem,Uxbal,false
+2000,Actor -- Leading Role,Before Night Falls,Javier Bardem,Reinaldo Arenas,false
+2011,Actor -- Leading Role,The Artist,Jean Dujardin,George Valentin,true
+2010,Actor -- Leading Role,True Grit,Jeff Bridges,"Reuben J. ""Rooster"" Cogburn",false
+1984,Actor -- Leading Role,Starman,Jeff Bridges,Starman,false
+2009,Actor -- Leading Role,Crazy Heart,Jeff Bridges,"Otis ""Bad"" Blake",true
+1990,Actor -- Leading Role,Reversal of Fortune,Jeremy Irons,Claus von Balow,true
+2009,Actor -- Leading Role,The Hurt Locker,Jeremy Renner,Sergeant First Class William James,false
+2010,Actor -- Leading Role,The Social Network,Jesse Eisenberg,Mark Zuckerberg,false
+2005,Actor -- Leading Role,Walk the Line,Joaquin Phoenix,Johnny Cash,false
+2012,Actor -- Leading Role,The Master,Joaquin Phoenix,Freddie Quell,false
+1947,Actor -- Leading Role,Body and Soul,John Garfield,Charlie Davis,false
+1980,Actor -- Leading Role,The Elephant Man,John Hurt,John Merrick,false
+1977,Actor -- Leading Role,Saturday Night Fever,John Travolta,"Anthony ""Tony"" Manero",false
+1994,Actor -- Leading Role,Pulp Fiction,John Travolta,Vincent Vega,false
+1949,Actor -- Leading Role,Sands of Iwo Jima,John Wayne,Sergeant John M. Stryker,false
+1969,Actor -- Leading Role,True Grit,John Wayne,"Reuben J. ""Rooster"" Cogburn",true
+2007,Actor -- Leading Role,Sweeney Todd: The Demon Barber of Fleet Street,Johnny Depp,Sweeney Todd/Benjamin Barker,false
+2003,Actor -- Leading Role,Pirates of the Caribbean: The Curse of the Black Pearl,Johnny Depp,Jack Sparrow,false
+2004,Actor -- Leading Role,Finding Neverland,Johnny Depp,J. M. Barrie,false
+1985,Actor -- Leading Role,Runaway Train,Jon Voight,"Oscar ""Manny"" Manheim",false
+1969,Actor -- Leading Role,Midnight Cowboy,Jon Voight,Joe Buck,false
+1978,Actor -- Leading Role,Coming Home,Jon Voight,Luke Martin,true
+1952,Actor -- Leading Role,Moulin Rouge,Jose Ferrer,Henri de Toulouse-Lautrec,false
+1950,Actor -- Leading Role,Cyrano de Bergerac,Jose Ferrer,Cyrano de Bergerac,true
+2003,Actor -- Leading Role,Cold Mountain,Jude Law,W. P. Inman,false
+1989,Actor -- Leading Role,Henry V,Kenneth Branagh,King Henry V of England,false
+1990,Actor -- Leading Role,Dances with Wolves,Kevin Costner,Lieutenant John J. Dunbar,false
+1999,Actor -- Leading Role,American Beauty,Kevin Spacey,Lester Burnham,true
+1956,Actor -- Leading Role,Lust for Life,Kirk Douglas,Vincent van Gogh,false
+1949,Actor -- Leading Role,Champion,Kirk Douglas,"Michael ""Midge"" Kelly",false
+1952,Actor -- Leading Role,The Bad and the Beautiful,Kirk Douglas,Jonathan Shields,false
+1946,Actor -- Leading Role,The Jolson Story,Larry Parks,Al Jolson,false
+1993,Actor -- Leading Role,What's Love Got to Do with It,Laurence Fishburne,Ike Turner,false
+1959,Actor -- Leading Role,Room at the Top,Laurence Harvey,Joe Lampton,false
+1972,Actor -- Leading Role,Sleuth,Laurence Olivier,Andrew Wyke,false
+1956,Actor -- Leading Role,Richard III,Laurence Olivier,King Richard III of England,false
+1965,Actor -- Leading Role,Othello,Laurence Olivier,Othello,false
+1946,Actor -- Leading Role,Henry V,Laurence Olivier,King Henry V of England,false
+1960,Actor -- Leading Role,The Entertainer,Laurence Olivier,Archie Rice,false
+1978,Actor -- Leading Role,The Boys from Brazil,Laurence Olivier,Ezra Lieberman,false
+1948,Actor -- Leading Role,Hamlet,Laurence Olivier,Hamlet Prince of Denmark,true
+1965,Actor -- Leading Role,Cat Ballou,Lee Marvin,Kid Shelleen,true
+2013,Actor -- Leading Role,The Wolf of Wall Street,Leonardo DiCaprio,Jordan Belfort,false
+2006,Actor -- Leading Role,Blood Diamond,Leonardo DiCaprio,Danny Archer,false
+2004,Actor -- Leading Role,The Aviator,Leonardo DiCaprio,Howard Hughes,false
+1948,Actor -- Leading Role,Johnny Belinda,Lew Ayres,Dr. Robert Richardson,false
+1993,Actor -- Leading Role,Schindler's List,Liam Neeson,Oskar Schindler,false
+1950,Actor -- Leading Role,The Magnificent Yankee,Louis Calhern,Oliver Wendell Holmes,false
+1977,Actor -- Leading Role,A Special Day,Marcello Mastroianni,Gabriele,false
+1962,Actor -- Leading Role,Divorce Italian Style,Marcello Mastroianni,Ferdinando Cefal,false
+1987,Actor -- Leading Role,Dark Eyes,Marcello Mastroianni,Romano,false
+1952,Actor -- Leading Role,Viva Zapata!,Marlon Brando,Emiliano Zapata,false
+1951,Actor -- Leading Role,A Streetcar Named Desire,Marlon Brando,Stanley Kowalski,false
+1957,Actor -- Leading Role,Sayonara,Marlon Brando,"Major Lloyd ""Ace"" Gruver USAF",false
+1973,Actor -- Leading Role,Last Tango in Paris,Marlon Brando,Paul,false
+1953,Actor -- Leading Role,Julius Caesar,Marlon Brando,Mark Antony,false
+1972,Actor -- Leading Role,The Godfather,Marlon Brando,Vito Corleone,false
+1954,Actor -- Leading Role,On the Waterfront,Marlon Brando,Terry Malloy,true
+1995,Actor -- Leading Role,Il Postino,Massimo Troisi,Mario Ruoppolo,false
+1997,Actor -- Leading Role,Good Will Hunting,Matt Damon,Will Hunting,false
+2013,Actor -- Leading Role,Dallas Buyers Club,Matthew McConaughey,Ron Woodroof,true
+1988,Actor -- Leading Role,Pelle the Conqueror,Max von Sydow,Lassefar,false
+1975,Actor -- Leading Role,The Man in the Glass Booth,Maximilian Schell,Arthur Goldman,false
+1961,Actor -- Leading Role,Judgment at Nuremberg,Maximilian Schell,Hans Rolfe,true
+1970,Actor -- Leading Role,I Never Sang for My Father,Melvyn Douglas,Tom Garrison,false
+1972,Actor -- Leading Role,Sleuth,Michael Caine,Milo Tindle,false
+2002,Actor -- Leading Role,The Quiet American,Michael Caine,Thomas Fowler,false
+1983,Actor -- Leading Role,Educating Rita,Michael Caine,Dr. Frank Bryant,false
+1966,Actor -- Leading Role,Alfie,Michael Caine,Alfie Elkins,false
+1987,Actor -- Leading Role,Wall Street,Michael Douglas,Gordon Gekko,true
+2014,Actor -- Leading Role,Birdman,Michael Keaton,Riggan Thomson,false
+1947,Actor -- Leading Role,Mourning Becomes Electra,Michael Redgrave,Orin Mannon,false
+2008,Actor -- Leading Role,The Wrestler,Mickey Rourke,"Randy ""The Ram"" Robinson",false
+1948,Actor -- Leading Role,The Search,Montgomery Clift,"Ralph ""Steve"" Stevenson",false
+1951,Actor -- Leading Role,A Place in the Sun,Montgomery Clift,George Eastman,false
+1953,Actor -- Leading Role,From Here to Eternity,Montgomery Clift,Pvt. Robert E. Lee 'Prew' Prewitt,false
+1994,Actor -- Leading Role,The Shawshank Redemption,Morgan Freeman,"Ellis Boyd ""Red"" Redding",false
+2009,Actor -- Leading Role,Invictus,Morgan Freeman,Nelson Mandela,false
+1989,Actor -- Leading Role,Driving Miss Daisy,Morgan Freeman,Hoke Colburn,false
+1991,Actor -- Leading Role,The Prince of Tides,Nick Nolte,Tom Wingo,false
+1998,Actor -- Leading Role,Affliction,Nick Nolte,Wade Whitehouse,false
+2002,Actor -- Leading Role,Adaptation,Nicolas Cage,Charlie Kaufman,false
+1995,Actor -- Leading Role,Leaving Las Vegas,Nicolas Cage,Ben Sanderson,true
+1994,Actor -- Leading Role,The Madness of King George,Nigel Hawthorne,King George III,false
+1965,Actor -- Leading Role,Ship of Fools,Oskar Werner,Willie Schumann,false
+1959,Actor -- Leading Role,The Last Angry Man,Paul Muni,Dr. Sam Abelman,false
+1982,Actor -- Leading Role,The Verdict,Paul Newman,Frank Galvin,false
+1994,Actor -- Leading Role,Nobody's Fool,Paul Newman,"Donald ""Sully"" Sullivan",false
+1961,Actor -- Leading Role,The Hustler,Paul Newman,Eddie Felson,false
+1963,Actor -- Leading Role,Hud,Paul Newman,Hud Bannon,false
+1967,Actor -- Leading Role,Cool Hand Luke,Paul Newman,"Lucas ""Cool Hand Luke"" Jackson",false
+1958,Actor -- Leading Role,Cat on a Hot Tin Roof,Paul Newman,Brick Pollitt,false
+1981,Actor -- Leading Role,Absence of Malice,Paul Newman,Michael Colin Gallagher,false
+1986,Actor -- Leading Role,The Color of Money,Paul Newman,Fast Eddie Felson,true
+1966,Actor -- Leading Role,A Man for All Seasons,Paul Scofield,Sir Thomas More,true
+1972,Actor -- Leading Role,Sounder,Paul Winfield,Nathan Lee Morgan,false
+1971,Actor -- Leading Role,Sunday Bloody Sunday,Peter Finch,Dr. Daniel Hirsh,false
+1976,Actor -- Leading Role,Network,Peter Finch ^[39],Howard Beale,false
+1997,Actor -- Leading Role,Ulee's Gold,Peter Fonda,"Ulysses ""Ulee"" Jackson",false
+2006,Actor -- Leading Role,Venus,Peter O'Toole,Maurice,false
+1980,Actor -- Leading Role,The Stunt Man,Peter O'Toole,Eli Cross,false
+1972,Actor -- Leading Role,The Ruling Class,Peter O'Toole,Jack Gurney 14th Earl of Gurney,false
+1982,Actor -- Leading Role,My Favorite Year,Peter O'Toole,Alan Swann,false
+1968,Actor -- Leading Role,The Lion in Winter,Peter O'Toole,King Henry II of England,false
+1962,Actor -- Leading Role,Lawrence of Arabia,Peter O'Toole,T. E. Lawrence,false
+1969,Actor -- Leading Role,Goodbye Mr. Chips,Peter O'Toole,Arthur Chipping,false
+1964,Actor -- Leading Role,Becket,Peter O'Toole,King Henry II of England,false
+1964,Actor -- Leading Role,Dr. Strangelove,Peter Sellers,Group Captain Lionel Mandrake,false
+1979,Actor -- Leading Role,Being There,Peter Sellers,Chance the Gardener aka Chauncey Gardiner,false
+2005,Actor -- Leading Role,Capote,Philip Seymour Hoffman,Truman Capote,true
+1996,Actor -- Leading Role,The English Patient,Ralph Fiennes,Count Laszlo de Almasy,false
+1945,Actor -- Leading Role,The Lost Weekend,Ray Milland,Don Birnam,true
+1963,Actor -- Leading Role,Cleopatra,Rex Harrison,Julius Caesar,false
+1964,Actor -- Leading Role,My Fair Lady,Rex Harrison,Professor Henry Higgins,true
+1966,Actor -- Leading Role,Who's Afraid of Virginia Woolf?,Richard Burton,George,false
+1965,Actor -- Leading Role,The Spy Who Came in from the Cold,Richard Burton,Alec Leamas,false
+1953,Actor -- Leading Role,The Robe,Richard Burton,Marcellus Gallio,false
+1977,Actor -- Leading Role,Equus,Richard Burton,Martin Dysart,false
+1964,Actor -- Leading Role,Becket,Richard Burton,Thomas Becket,false
+1969,Actor -- Leading Role,Anne of the Thousand Days,Richard Burton,King Henry VIII of England,false
+1995,Actor -- Leading Role,Mr. Holland's Opus,Richard Dreyfuss,Glenn Holland,false
+1977,Actor -- Leading Role,The Goodbye Girl,Richard Dreyfuss,Elliot Garfield,true
+1999,Actor -- Leading Role,The Straight Story,Richard Farnsworth,Alvin Straight,false
+1963,Actor -- Leading Role,This Sporting Life,Richard Harris,Frank Machin,false
+1990,Actor -- Leading Role,The Field,Richard Harris,Bull McCabe,false
+2008,Actor -- Leading Role,The Visitor,Richard Jenkins,Walter Vale,false
+1949,Actor -- Leading Role,The Hasty Heart,Richard Todd,"Cpl. Lachlan ""Lachie"" MacLachlan",false
+1976,Actor -- Leading Role,Taxi Driver,Robert De Niro,Travis Bickle,false
+1978,Actor -- Leading Role,The Deer Hunter,Robert De Niro,Michael Vronsky,false
+1991,Actor -- Leading Role,Cape Fear,Robert De Niro,"Maximilian ""Max"" Cady",false
+1990,Actor -- Leading Role,Awakenings,Robert De Niro,Leonard Lowe,false
+1980,Actor -- Leading Role,Raging Bull,Robert De Niro,Jake LaMotta,true
+1992,Actor -- Leading Role,Chaplin,Robert Downey Jr.,Charlie Chaplin,false
+1980,Actor -- Leading Role,The Great Santini,Robert Duvall,"Lieutenant Colonel Wilbur ""Bull"" Meechum",false
+1997,Actor -- Leading Role,The Apostle,Robert Duvall,"Euliss ""Sonny"" Dewey",false
+1983,Actor -- Leading Role,Tender Mercies,Robert Duvall,Mac Sledge,true
+1973,Actor -- Leading Role,The Sting,Robert Redford,"Johnny ""Kelly"" Hooker",false
+1998,Actor -- Leading Role,Life Is Beautiful,Roberto Benigni,Guido Orefice,true
+1987,Actor -- Leading Role,Good Morning Vietnam,Robin Williams,Adrian Cronauer,false
+1991,Actor -- Leading Role,The Fisher King,Robin Williams,"Henry ""Parry"" Sagan",false
+1989,Actor -- Leading Role,Dead Poets Society,Robin Williams,"John Charles ""Keats"" Keating",false
+1956,Actor -- Leading Role,Giant,Rock Hudson,"Jordan ""Bick"" Benedict Jr.",false
+1965,Actor -- Leading Role,The Pawnbroker,Rod Steiger,Sol Nazerman,false
+1967,Actor -- Leading Role,In the Heat of the Night,Rod Steiger,Police Chief Bill Gillespie,true
+1968,Actor -- Leading Role,Oliver!,Ron Moody,Fagin,false
+1947,Actor -- Leading Role,A Double Life,Ronald Colman,Anthony John,true
+1979,Actor -- Leading Role,All That Jazz,Roy Scheider,Joe Gideon,false
+1999,Actor -- Leading Role,The Insider,Russell Crowe,Jeffrey Wigand,false
+2001,Actor -- Leading Role,A Beautiful Mind,Russell Crowe,John Forbes Nash Jr.,false
+2000,Actor -- Leading Role,Gladiator,Russell Crowe,Maximus Decimus Meridius,true
+2006,Actor -- Leading Role,Half Nelson,Ryan Gosling,Dan Dunne,false
+1970,Actor -- Leading Role,Love Story,Ryan O'Neal,Oliver Barrett IV,false
+1984,Actor -- Leading Role,The Killing Fields,Sam Waterston,Sydney Schanberg,false
+1999,Actor -- Leading Role,Sweet and Lowdown,Sean Penn,Emmet Ray,false
+2001,Actor -- Leading Role,I Am Sam,Sean Penn,Sam Dawson,false
+1995,Actor -- Leading Role,Dead Man Walking,Sean Penn,Matthew Poncelet,false
+2003,Actor -- Leading Role,Mystic River,Sean Penn,Jimmy Markum,true
+2008,Actor -- Leading Role,Milk,Sean Penn,Harvey Milk,true
+1958,Actor -- Leading Role,The Defiant Ones,Sidney Poitier,Noah Cullen,false
+1963,Actor -- Leading Role,Lilies of the Field,Sidney Poitier,Homer Smith,true
+1958,Actor -- Leading Role,The Old Man and the Sea,Spencer Tracy,The Old Man,false
+1961,Actor -- Leading Role,Judgment at Nuremberg,Spencer Tracy,Chief Judge Dan Haywood,false
+1960,Actor -- Leading Role,Inherit the Wind,Spencer Tracy,Henry Drummond,false
+1950,Actor -- Leading Role,Father of the Bride,Spencer Tracy,Stanley T. Banks,false
+1955,Actor -- Leading Role,Bad Day at Black Rock,Spencer Tracy,John J. Macreedy,false
+1967,Actor -- Leading Role,Guess Who's Coming to Dinner,Spencer Tracy,Matt Drayton,false
+1992,Actor -- Leading Role,The Crying Game,Stephen Rea,Fergus,false
+2014,Actor -- Leading Role,Foxcatcher,Steve Carell,John du Pont,false
+1966,Actor -- Leading Role,The Sand Pebbles,Steve McQueen,Jake Holman,false
+1961,Actor -- Leading Role,The Mark,Stuart Whitman,Jim Fuller,false
+1976,Actor -- Leading Role,Rocky,Sylvester Stallone,Rocky Balboa,false
+2005,Actor -- Leading Role,Hustle & Flow,Terrence Howard,Djay,false
+1983,Actor -- Leading Role,Reuben Reuben,Tom Conti,Gowan McGland,false
+1983,Actor -- Leading Role,The Dresser,Tom Courtenay,Norman,false
+1996,Actor -- Leading Role,Jerry Maguire,Tom Cruise,Jerry Maguire,false
+1989,Actor -- Leading Role,Born on the Fourth of July,Tom Cruise,Ron Kovic,false
+1998,Actor -- Leading Role,Saving Private Ryan,Tom Hanks,Captain John Miller,false
+2000,Actor -- Leading Role,Cast Away,Tom Hanks,Chuck Noland,false
+1988,Actor -- Leading Role,Big,Tom Hanks,Josh Baskin,false
+1993,Actor -- Leading Role,Philadelphia,Tom Hanks,Andrew Beckett,true
+1994,Actor -- Leading Role,Forrest Gump,Tom Hanks,Forrest Gump,true
+1984,Actor -- Leading Role,Amadeus,Tom Hulce,Wolfgang Amadeus Mozart,false
+2001,Actor -- Leading Role,In the Bedroom,Tom Wilkinson,Dr. Matt Fowler,false
+2007,Actor -- Leading Role,In the Valley of Elah,Tommy Lee Jones,Hank Deerfield,false
+1958,Actor -- Leading Role,The Defiant Ones,Tony Curtis,John 'Joker' Jackson,false
+1971,Actor -- Leading Role,Fiddler on the Roof,Topol,Tevye,false
+1960,Actor -- Leading Role,Sons and Lovers,Trevor Howard,Walter Morel,false
+2007,Actor -- Leading Role,Eastern Promises,Viggo Mortensen,Nikolai Luzhin,false
+1975,Actor -- Leading Role,The Sunshine Boys,Walter Matthau,Willy Clark,false
+1971,Actor -- Leading Role,Kotch,Walter Matthau,Joseph P. Kotcher,false
+1981,Actor -- Leading Role,Reds,Warren Beatty,"John Silas ""Jack"" Reed",false
+1978,Actor -- Leading Role,Heaven Can Wait,Warren Beatty,Joe Pendleton,false
+1991,Actor -- Leading Role,Bugsy,Warren Beatty,"Benjamin ""Bugsy"" Siegel",false
+1967,Actor -- Leading Role,Bonnie and Clyde,Warren Beatty,Clyde Barrow,false
+2006,Actor -- Leading Role,The Pursuit of Happyness,Will Smith,Chris Gardner,false
+2001,Actor -- Leading Role,Ali,Will Smith,Muhammad Ali,false
+1950,Actor -- Leading Role,Sunset Boulevard,William Holden,Joe Gillis,false
+1976,Actor -- Leading Role,Network,William Holden,Max Schumacher,false
+1953,Actor -- Leading Role,Stalag 17,William Holden,Sgt. J.J. Sefton,true
+1986,Actor -- Leading Role,Children of a Lesser God,William Hurt,James Leeds,false
+1987,Actor -- Leading Role,Broadcast News,William Hurt,Tom Grunick,false
+1985,Actor -- Leading Role,Kiss of the Spider Woman,William Hurt,Luis Molina,true
+1947,Actor -- Leading Role,Life with Father,William Powell,Clarence Day Sr.,false
+1977,Actor -- Leading Role,Annie Hall,Woody Allen,Alvy Singer,false
+1996,Actor -- Leading Role,The People vs. Larry Flynt,Woody Harrelson,Larry Flynt,false
+1956,Actor -- Leading Role,The King and I,Yul Brynner,King Mongkut of Siam,true
+1945,Actor -- Supporting Role,A Medal for Benny,J. Carrol Naish,Charley Martin,false
+1945,Actor -- Supporting Role,A Tree Grows in Brooklyn,James Dunn,Johnny Nolan,true
+1945,Actor -- Supporting Role,The Corn Is Green,John Dall,Morgan Evans,false
+1945,Actor -- Supporting Role,Spellbound,Michael Chekhov,"Dr. Alexander ""Alex"" Brulov",false
+1945,Actor -- Supporting Role,The Story of G.I. Joe,Robert Mitchum,Lt. Capt. Bill Walker,false
+1946,Actor -- Supporting Role,The Green Years,Charles Coburn,Alexander Gow,false
+1946,Actor -- Supporting Role,Notorious,Claude Rains,Alexander Sebastian,false
+1946,Actor -- Supporting Role,The Razor's Edge,Clifton Webb,Elliott Templeton,false
+1946,Actor -- Supporting Role,The Best Years of Our Lives,Harold Russell,Homer Parrish,true
+1946,Actor -- Supporting Role,The Jolson Story,William Demarest,Steve Martin,false
+1947,Actor -- Supporting Role,The Farmer's Daughter,Charles Bickford,Joseph Clancy,false
+1947,Actor -- Supporting Role,Miracle on 34th Street,Edmund Gwenn,Kris Kringle,true
+1947,Actor -- Supporting Role,Kiss of Death,Richard Widmark,Tommy Udo,false
+1947,Actor -- Supporting Role,Crossfire,Robert Ryan,Montgomery,false
+1947,Actor -- Supporting Role,Ride the Pink Horse,Thomas Gomez,Pancho,false
+1948,Actor -- Supporting Role,The Luck of the Irish,Cecil Kellaway,Horace (A Leprechaun),false
+1948,Actor -- Supporting Role,Johnny Belinda,Charles Bickford,Black McDonald,false
+1948,Actor -- Supporting Role,Joan of Arc,Jos_ Ferrer,The Dauphin Charles VII later King of France,false
+1948,Actor -- Supporting Role,I Remember Mama,Oskar Homolka,Uncle Chris Halverson,false
+1948,Actor -- Supporting Role,The Treasure of the Sierra Madre,Walter Huston,Howard,true
+1949,Actor -- Supporting Role,Champion,Arthur Kennedy,Connie Kelly,false
+1949,Actor -- Supporting Role,Twelve O'Clock High,Dean Jagger,Major Harvey Stovall,true
+1949,Actor -- Supporting Role,Battleground,James Whitmore,Sgt. Kinnie,false
+1949,Actor -- Supporting Role,All the King's Men,John Ireland,Jack Burden,false
+1949,Actor -- Supporting Role,The Heiress,Ralph Richardson,Dr. Austin Sloper,false
+1950,Actor -- Supporting Role,Mister 880,Edmund Gwenn,Skipper Miller,false
+1950,Actor -- Supporting Role,Sunset Boulevard,Erich von Stroheim,Max von Meyerling,false
+1950,Actor -- Supporting Role,All About Eve,George Sanders,Addison De Witt,true
+1950,Actor -- Supporting Role,Broken Arrow,Jeff Chandler,Cochise,false
+1950,Actor -- Supporting Role,The Asphalt Jungle,Sam Jaffe,Dr. Erwin Riedenschneider,false
+1951,Actor -- Supporting Role,Come Fill the Cup,Gig Young,Boyd Copeland,false
+1951,Actor -- Supporting Role,A Streetcar Named Desire,Karl Malden,"Harold ""Mitch"" Mitchell",true
+1951,Actor -- Supporting Role,Death of a Salesman,Kevin McCarthy,Biff Loman,false
+1951,Actor -- Supporting Role,Quo Vadis,Leo Genn,Petronius,false
+1951,Actor -- Supporting Role,Quo Vadis,Peter Ustinov,Nero,false
+1952,Actor -- Supporting Role,Viva Zapata!,Anthony Quinn,Eufemio Zapata,true
+1952,Actor -- Supporting Role,The Big Sky,Arthur Hunnicutt,Zeb Calloway,false
+1952,Actor -- Supporting Role,Sudden Fear,Jack Palance,Lester Blaine,false
+1952,Actor -- Supporting Role,My Cousin Rachel,Richard Burton,Philip Ashley,false
+1952,Actor -- Supporting Role,The Quiet Man,Victor McLaglen,"Will ""Red"" Danaher",false
+1953,Actor -- Supporting Role,Shane,Brandon deWilde,Joey Starrett,false
+1953,Actor -- Supporting Role,Roman Holiday,Eddie Albert,Irving Radovich,false
+1953,Actor -- Supporting Role,From Here to Eternity,Frank Sinatra,Pvt. Angelo Maggio,true
+1953,Actor -- Supporting Role,Shane,Jack Palance,Jack Wilson,false
+1953,Actor -- Supporting Role,Stalag 17,Robert Strauss,"Sgt. Stanislas ""Animal"" Kasava",false
+1954,Actor -- Supporting Role,The Barefoot Contessa,Edmond O'Brien,Oscar Muldoon,true
+1954,Actor -- Supporting Role,On the Waterfront,Karl Malden,Father Barry,false
+1954,Actor -- Supporting Role,On the Waterfront,Lee J. Cobb,Johnny Friendly,false
+1954,Actor -- Supporting Role,On the Waterfront,Rod Steiger,"Charley ""The Gent"" Malloy",false
+1954,Actor -- Supporting Role,The Caine Mutiny,Tom Tully,Commander DeVriess,false
+1955,Actor -- Supporting Role,Trial,Arthur Kennedy,Barney Castle,false
+1955,Actor -- Supporting Role,Picnic,Arthur O'Connell,Howard Bevans,false
+1955,Actor -- Supporting Role,Mister Roberts,Jack Lemmon,Ens. Frank Thurlowe Pulver,true
+1955,Actor -- Supporting Role,Marty,Joe Mantell,Angie,false
+1955,Actor -- Supporting Role,Rebel Without a Cause,Sal Mineo,"John ""Plato"" Crawford",false
+1956,Actor -- Supporting Role,Friendly Persuasion,Anthony Perkins,Josh Birdwell,false
+1956,Actor -- Supporting Role,Lust for Life,Anthony Quinn,Paul Gauguin,true
+1956,Actor -- Supporting Role,Bus Stop,Don Murray,"Beauregard ""Bo"" Decker",false
+1956,Actor -- Supporting Role,The Bold and the Brave,Mickey Rooney,Dooley,false
+1956,Actor -- Supporting Role,Written on the Wind,Robert Stack,Kyle Hadley,false
+1957,Actor -- Supporting Role,Peyton Place,Arthur Kennedy,Lucas Cross,false
+1957,Actor -- Supporting Role,Sayonara,Red Buttons,Airman Joe Kelly,true
+1957,Actor -- Supporting Role,Peyton Place,Russ Tamblyn,Norman Page,false
+1957,Actor -- Supporting Role,The Bridge on the River Kwai,Sessue Hayakawa,Colonel Saito,false
+1957,Actor -- Supporting Role,A Farewell to Arms,Vittorio De Sica,Major Alessandro Rinaldi,false
+1958,Actor -- Supporting Role,Some Came Running,Arthur Kennedy,Frank Hirsh,false
+1958,Actor -- Supporting Role,The Big Country,Burl Ives,Rufus Hannassey,true
+1958,Actor -- Supporting Role,Teacher's Pet,Gig Young,Dr. Hugo Pine,false
+1958,Actor -- Supporting Role,The Brothers Karamazov,Lee J. Cobb,Fyodor Karamazov,false
+1958,Actor -- Supporting Role,The Defiant Ones,Theodore Bikel,Sheriff Max Muller,false
+1959,Actor -- Supporting Role,Anatomy of a Murder,Arthur O'Connell,Parnell Emmett McCarthy,false
+1959,Actor -- Supporting Role,The Diary of Anne Frank,Ed Wynn,Albert Dussell,false
+1959,Actor -- Supporting Role,Anatomy of a Murder,George C. Scott,Asst. State Atty. Gen. Claude Dancer,false
+1959,Actor -- Supporting Role,Ben-Hur,Hugh Griffith,Sheik Ilderim,true
+1959,Actor -- Supporting Role,The Young Philadelphians,Robert Vaughn,"Chester ""Chet"" Gwynn",false
+1960,Actor -- Supporting Role,The Alamo,Chill Wills,Beekeeper,false
+1960,Actor -- Supporting Role,The Apartment,Jack Kruschen,Dr. Dreyfuss,false
+1960,Actor -- Supporting Role,Murder Inc.,Peter Falk,"Abe ""Kid Twist"" Reles",false
+1960,Actor -- Supporting Role,Spartacus,Peter Ustinov,Lentulus Batiatus,true
+1960,Actor -- Supporting Role,Exodus,Sal Mineo,Dov Landau,false
+1961,Actor -- Supporting Role,The Hustler,George C. Scott [A],Bert Gordon,false
+1961,Actor -- Supporting Role,West Side Story,George Chakiris,Bernardo Nunez,true
+1961,Actor -- Supporting Role,The Hustler,Jackie Gleason,Minnesota Fats,false
+1961,Actor -- Supporting Role,Judgment at Nuremberg,Montgomery Clift,Rudolph Petersen,false
+1961,Actor -- Supporting Role,Pocketful of Miracles,Peter Falk,Joy Boy,false
+1962,Actor -- Supporting Role,Sweet Bird of Youth,Ed Begley,"Tom ""Boss"" Finley",true
+1962,Actor -- Supporting Role,Lawrence of Arabia,Omar Sharif,Sherif Ali ibn el Kharish,false
+1962,Actor -- Supporting Role,Birdman of Alcatraz,Telly Savalas,Feto Gomez,false
+1962,Actor -- Supporting Role,Billy Budd,Terence Stamp,Billy Budd,false
+1962,Actor -- Supporting Role,What Ever Happened to Baby Jane?,Victor Buono,Edwin Flagg,false
+1963,Actor -- Supporting Role,Captain Newman M.D.,Bobby Darin,Corporal Jim Tompkins,false
+1963,Actor -- Supporting Role,Tom Jones,Hugh Griffith,Squire Western,false
+1963,Actor -- Supporting Role,The Cardinal,John Huston,Cardinal Glennon,false
+1963,Actor -- Supporting Role,Hud,Melvyn Douglas,Homer Bannon,true
+1963,Actor -- Supporting Role,Twilight of Honor,Nick Adams,Ben Brown,false
+1964,Actor -- Supporting Role,Seven Days in May,Edmond O'Brien,Senator Raymond Clark,false
+1964,Actor -- Supporting Role,Becket,John Gielgud,Louis VII of France,false
+1964,Actor -- Supporting Role,The Best Man,Lee Tracy,President Art Hockstader,false
+1964,Actor -- Supporting Role,Topkapi,Peter Ustinov,Arthur Simon Simpson,true
+1964,Actor -- Supporting Role,My Fair Lady,Stanley Holloway,Alfred Doolittle,false
+1965,Actor -- Supporting Role,Othello,Frank Finlay,Iago,false
+1965,Actor -- Supporting Role,The Flight of the Phoenix,Ian Bannen,Ratbags Crow,false
+1965,Actor -- Supporting Role,A Thousand Clowns,Martin Balsam,Arnold Burns,true
+1965,Actor -- Supporting Role,Ship of Fools,Michael Dunn,Carl Glocken,false
+1965,Actor -- Supporting Role,Doctor Zhivago,Tom Courtenay,Pasha Antipov (Strelnikov),false
+1966,Actor -- Supporting Role,Who's Afraid of Virginia Woolf?,George Segal,Nick,false
+1966,Actor -- Supporting Role,Georgy Girl,James Mason,James Leamington,false
+1966,Actor -- Supporting Role,The Sand Pebbles,Mako,Po-han,false
+1966,Actor -- Supporting Role,A Man for All Seasons,Robert Shaw,Henry VIII of England,false
+1966,Actor -- Supporting Role,The Fortune Cookie,Walter Matthau,Willie Gingrich,true
+1967,Actor -- Supporting Role,Guess Who's Coming to Dinner,Cecil Kellaway,Monsignor Mike Ryan,false
+1967,Actor -- Supporting Role,Bonnie and Clyde,Gene Hackman,Buck Barrow,false
+1967,Actor -- Supporting Role,Cool Hand Luke,George Kennedy,Dragline,true
+1967,Actor -- Supporting Role,The Dirty Dozen,John Cassavetes,Victor P. Franko,false
+1967,Actor -- Supporting Role,Bonnie and Clyde,Michael J. Pollard,C.W. Moss,false
+1968,Actor -- Supporting Role,Star!,Daniel Massey,Noel Coward,false
+1968,Actor -- Supporting Role,The Producers,Gene Wilder,Leo Bloom,false
+1968,Actor -- Supporting Role,The Subject Was Roses,Jack Albertson,John Cleary,true
+1968,Actor -- Supporting Role,Oliver!,Jack Wild,The Artful Dodger,false
+1968,Actor -- Supporting Role,Faces,Seymour Cassel,Chet,false
+1969,Actor -- Supporting Role,Anne of the Thousand Days,Anthony Quayle,Cardinal Wolsey,false
+1969,Actor -- Supporting Role,Bob & Carol & Ted & Alice,Elliott Gould,Ted Henderson,false
+1969,Actor -- Supporting Role,They Shoot Horses Don't They?,Gig Young,Rocky Graver,true
+1969,Actor -- Supporting Role,Easy Rider,Jack Nicholson,George Hanson,false
+1969,Actor -- Supporting Role,The Reivers,Rupert Crosse,Ned McCaslin,false
+1970,Actor -- Supporting Role,Little Big Man,Chief Dan George,Old Lodge Skins,false
+1970,Actor -- Supporting Role,I Never Sang for My Father,Gene Hackman,Gene Garrison,false
+1970,Actor -- Supporting Role,Love Story,John Marley,Phil Cavalleri,false
+1970,Actor -- Supporting Role,Ryan's Daughter,John Mills,Michael,true
+1970,Actor -- Supporting Role,Lovers and Other Strangers,Richard S. Castellano,Frank Vecchio,false
+1971,Actor -- Supporting Role,The Last Picture Show,Ben Johnson,Sam the Lion,true
+1971,Actor -- Supporting Role,The Last Picture Show,Jeff Bridges,Duane Jackson,false
+1971,Actor -- Supporting Role,Fiddler on the Roof,Leonard Frey,Motel Kamzoil,false
+1971,Actor -- Supporting Role,Sometimes a Great Notion,Richard Jaeckel,Joe Ben Stamper,false
+1971,Actor -- Supporting Role,The French Connection,Roy Scheider,"Det. Buddy ""Cloudy"" Russo",false
+1972,Actor -- Supporting Role,The Godfather,Al Pacino,Michael Corleone,false
+1972,Actor -- Supporting Role,The Heartbreak Kid,Eddie Albert,Mr. Corcoran,false
+1972,Actor -- Supporting Role,The Godfather,James Caan,Sonny Corleone,false
+1972,Actor -- Supporting Role,Cabaret,Joel Grey,Master of Ceremonies,true
+1972,Actor -- Supporting Role,The Godfather,Robert Duvall,Tom Hagen,false
+1973,Actor -- Supporting Role,Save the Tiger,Jack Gilford,Phil Greene,false
+1973,Actor -- Supporting Role,The Exorcist,Jason Miller,Father Damien Karras,false
+1973,Actor -- Supporting Role,The Paper Chase,John Houseman,Charles W. Kingsfield Jr.,true
+1973,Actor -- Supporting Role,The Last Detail,Randy Quaid,Larry Meadows,false
+1973,Actor -- Supporting Role,Bang the Drum Slowly,Vincent Gardenia,Dutch Schnell,false
+1974,Actor -- Supporting Role,The Towering Inferno,Fred Astaire,Harlee Claiborne,false
+1974,Actor -- Supporting Role,Thunderbolt and Lightfoot,Jeff Bridges,Lightfoot,false
+1974,Actor -- Supporting Role,The Godfather Part II,Lee Strasberg,Hyman Roth,false
+1974,Actor -- Supporting Role,The Godfather Part II,Michael V. Gazzo,Frank Pentangeli,false
+1974,Actor -- Supporting Role,The Godfather Part II,Robert De Niro,Vito Corleone,true
+1975,Actor -- Supporting Role,One Flew Over the Cuckoo's Nest,Brad Dourif,Billy Bibbit,false
+1975,Actor -- Supporting Role,The Day of the Locust,Burgess Meredith,Harry Greener,false
+1975,Actor -- Supporting Role,Dog Day Afternoon,Chris Sarandon,Leon Shermer,false
+1975,Actor -- Supporting Role,The Sunshine Boys,George Burns,Al Lewis,true
+1975,Actor -- Supporting Role,Shampoo,Jack Warden,Lester Karpf,false
+1976,Actor -- Supporting Role,Rocky,Burgess Meredith,Mickey Goldmill,false
+1976,Actor -- Supporting Role,Rocky,Burt Young,Paulie Pennino,false
+1976,Actor -- Supporting Role,All the President's Men,Jason Robards,Ben Bradlee,true
+1976,Actor -- Supporting Role,Marathon Man,Laurence Olivier,Dr. Christian Szell,false
+1976,Actor -- Supporting Role,Network,Ned Beatty,Arthur Jensen,false
+1977,Actor -- Supporting Role,Star Wars,Alec Guinness,Obi-Wan Kenobi,false
+1977,Actor -- Supporting Role,Julia,Jason Robards,Dashiell Hammett,true
+1977,Actor -- Supporting Role,Julia,Maximilian Schell,Johann,false
+1977,Actor -- Supporting Role,The Turning Point,Mikhail Baryshnikov,Yuri Kopeikine,false
+1977,Actor -- Supporting Role,Equus,Peter Firth,Alan Strang,false
+1978,Actor -- Supporting Role,Coming Home,Bruce Dern,Capt. Bob Hyde,false
+1978,Actor -- Supporting Role,The Deer Hunter,Christopher Walken,"Nikonar ""Nick"" Chevotarevich",true
+1978,Actor -- Supporting Role,Heaven Can Wait,Jack Warden,Max Corkle,false
+1978,Actor -- Supporting Role,Midnight Express,John Hurt,Max,false
+1978,Actor -- Supporting Role,Comes a Horseman,Richard Farnsworth,Dodger,false
+1979,Actor -- Supporting Role,The Rose,Frederic Forrest,Houston Dyer,false
+1979,Actor -- Supporting Role,Kramer vs. Kramer,Justin Henry,Billy Kramer,false
+1979,Actor -- Supporting Role,Being There,Melvyn Douglas,Benjamin Turnbull Rand,true
+1979,Actor -- Supporting Role,The Black Stallion,Mickey Rooney,Henry Dailey,false
+1979,Actor -- Supporting Role,Apocalypse Now,Robert Duvall,Lt. Col. Bill Kilgore,false
+1980,Actor -- Supporting Role,Melvin and Howard,Jason Robards,Howard Hughes,false
+1980,Actor -- Supporting Role,Raging Bull,Joe Pesci,Joey LaMotta,false
+1980,Actor -- Supporting Role,Ordinary People,Judd Hirsch,Dr. Tyrone C. Berger,false
+1980,Actor -- Supporting Role,The Great Santini,Michael O'Keefe,Ben Meechum,false
+1980,Actor -- Supporting Role,Ordinary People,Timothy Hutton,Conrad Jarrett,true
+1981,Actor -- Supporting Role,Ragtime,Howard Rollins,Coalhouse Walker Jr.,false
+1981,Actor -- Supporting Role,Chariots of Fire,Ian Holm,Sam Mussabini,false
+1981,Actor -- Supporting Role,Reds,Jack Nicholson,Eugene O'Neill,false
+1981,Actor -- Supporting Role,Only When I Laugh,James Coco,Jimmy Perry,false
+1981,Actor -- Supporting Role,Arthur,John Gielgud,Hobson,true
+1982,Actor -- Supporting Role,The Best Little Whorehouse in Texas,Charles Durning,Governor,false
+1982,Actor -- Supporting Role,The Verdict,James Mason,Ed Concannon,false
+1982,Actor -- Supporting Role,The World According to Garp,John Lithgow,Roberta Muldoon,false
+1982,Actor -- Supporting Role,An Officer and a Gentleman,Louis Gossett Jr.,Gunnery Sgt. Emil Foley,true
+1982,Actor -- Supporting Role,Victor Victoria,Robert Preston,"Carroll ""Toddy"" Todd",false
+1983,Actor -- Supporting Role,To Be or Not to Be,Charles Durning,Colonel Erhardt,false
+1983,Actor -- Supporting Role,Terms of Endearment,Jack Nicholson,Garrett Breedlove,true
+1983,Actor -- Supporting Role,Terms of Endearment,John Lithgow,Sam Burns,false
+1983,Actor -- Supporting Role,Cross Creek,Rip Torn,Marsh Turner,false
+1983,Actor -- Supporting Role,The Right Stuff,Sam Shepard,Chuck Yeager,false
+1984,Actor -- Supporting Role,A Soldier's Story,Adolph Caesar,Sgt. Waters,false
+1984,Actor -- Supporting Role,The Killing Fields,Haing S. Ngor,Dith Pran,true
+1984,Actor -- Supporting Role,Places in the Heart,John Malkovich,Mr. Will,false
+1984,Actor -- Supporting Role,The Karate Kid,Pat Morita,Kesuke Miyagi,false
+1984,Actor -- Supporting Role,Greystoke: The Legend of Tarzan Lord of the Apes,Ralph Richardson *[58],The Sixth Earl of Greystoke,false
+1985,Actor -- Supporting Role,Cocoon,Don Ameche,Arthur Selwyn,true
+1985,Actor -- Supporting Role,Runaway Train,Eric Roberts,Buck,false
+1985,Actor -- Supporting Role,Out of Africa,Klaus Maria Brandauer,Baron Bror von Blixen-Finecke,false
+1985,Actor -- Supporting Role,Jagged Edge,Robert Loggia,Sam Ransom,false
+1985,Actor -- Supporting Role,Prizzi's Honor,William Hickey,Don Corrado Prizzi,false
+1986,Actor -- Supporting Role,A Room with a View,Denholm Elliott,Mr. Emerson,false
+1986,Actor -- Supporting Role,Hoosiers,Dennis Hopper,"Wilbur ""Shooter"" Flatch",false
+1986,Actor -- Supporting Role,Hannah and Her Sisters,Michael Caine,Elliott Daniels,true
+1986,Actor -- Supporting Role,Platoon,Tom Berenger,Sgt. Bob Barnes,false
+1986,Actor -- Supporting Role,Platoon,Willem Dafoe,Sgt. Elias Grodin,false
+1987,Actor -- Supporting Role,Broadcast News,Albert Brooks,Aaron Altman,false
+1987,Actor -- Supporting Role,Cry Freedom,Denzel Washington,Steve Biko,false
+1987,Actor -- Supporting Role,Street Smart,Morgan Freeman,"Leo ""Fast Black"" Smalls Jr.",false
+1987,Actor -- Supporting Role,The Untouchables,Sean Connery,Jim Malone,true
+1987,Actor -- Supporting Role,Moonstruck,Vincent Gardenia,Cosmo Castorini,false
+1988,Actor -- Supporting Role,Little Dorrit,Alec Guinness,William Dorrit,false
+1988,Actor -- Supporting Role,Married to the Mob,Dean Stockwell,"Tony ""The Tiger"" Russo",false
+1988,Actor -- Supporting Role,A Fish Called Wanda,Kevin Kline,Otto West,true
+1988,Actor -- Supporting Role,Tucker: The Man and His Dream,Martin Landau,Abe Karatz,false
+1988,Actor -- Supporting Role,Running on Empty,River Phoenix,Danny Pope,false
+1989,Actor -- Supporting Role,Driving Miss Daisy,Dan Aykroyd,Boolie Werthan,false
+1989,Actor -- Supporting Role,Do the Right Thing,Danny Aiello,Sal Frangione,false
+1989,Actor -- Supporting Role,Glory,Denzel Washington,Pvt. Silas Trip,true
+1989,Actor -- Supporting Role,A Dry White Season,Marlon Brando,Ian Mackenzie,false
+1989,Actor -- Supporting Role,Crimes and Misdemeanors,Martin Landau,Judah Rosenthal,false
+1990,Actor -- Supporting Role,Dick Tracy,Al Pacino,"Alphonse ""Big Boy"" Caprice",false
+1990,Actor -- Supporting Role,The Godfather Part III,Andy Garcia,Vincent Mancini,false
+1990,Actor -- Supporting Role,Longtime Companion,Bruce Davison,David,false
+1990,Actor -- Supporting Role,Dances with Wolves,Graham Greene,Kicking Bird,false
+1990,Actor -- Supporting Role,Goodfellas,Joe Pesci,Tommy DeVito,true
+1991,Actor -- Supporting Role,Bugsy,Ben Kingsley,Meyer Lansky,false
+1991,Actor -- Supporting Role,Bugsy,Harvey Keitel,Mickey Cohen,false
+1991,Actor -- Supporting Role,City Slickers,Jack Palance,Curly Washburn,true
+1991,Actor -- Supporting Role,Barton Fink,Michael Lerner,Jack Lipnick,false
+1991,Actor -- Supporting Role,JFK,Tommy Lee Jones,Clay Shaw,false
+1992,Actor -- Supporting Role,Glengarry Glen Ross,Al Pacino,"Richard ""Ricky"" Roma",false
+1992,Actor -- Supporting Role,Mr. Saturday Night,David Paymer,Stan Young,false
+1992,Actor -- Supporting Role,Unforgiven,Gene Hackman,Little Bill Daggett,true
+1992,Actor -- Supporting Role,A Few Good Men,Jack Nicholson,Colonel Nathan R. Jessep,false
+1992,Actor -- Supporting Role,The Crying Game,Jaye Davidson,Dil,false
+1993,Actor -- Supporting Role,In the Line of Fire,John Malkovich,Mitch Leary,false
+1993,Actor -- Supporting Role,What's Eating Gilbert Grape,Leonardo DiCaprio,Arnie Grape,false
+1993,Actor -- Supporting Role,In the Name of the Father,Pete Postlethwaite,Giuseppe Conlon,false
+1993,Actor -- Supporting Role,Schindler's List,Ralph Fiennes,Amon G_eth,false
+1993,Actor -- Supporting Role,The Fugitive,Tommy Lee Jones,U.S. Marshal Samuel Gerard,true
+1994,Actor -- Supporting Role,Bullets over Broadway,Chazz Palminteri,Cheech,false
+1994,Actor -- Supporting Role,Forrest Gump,Gary Sinise,Lt. Dan Taylor,false
+1994,Actor -- Supporting Role,Ed Wood,Martin Landau,B_la Lugosi,true
+1994,Actor -- Supporting Role,Quiz Show,Paul Scofield,Mark Van Doren,false
+1994,Actor -- Supporting Role,Pulp Fiction,Samuel L. Jackson,Jules Winnfield,false
+1995,Actor -- Supporting Role,12 Monkeys,Brad Pitt,Jeffrey Goines,false
+1995,Actor -- Supporting Role,Apollo 13,Ed Harris,Gene Kranz,false
+1995,Actor -- Supporting Role,Babe,James Cromwell,Farmer Arthur Hoggett,false
+1995,Actor -- Supporting Role,The Usual Suspects,Kevin Spacey,"Roger ""Verbal"" Kint",true
+1995,Actor -- Supporting Role,Rob Roy,Tim Roth,Archibald Cunningham,false
+1996,Actor -- Supporting Role,Shine,Armin Mueller-Stahl,Peter Helfgott,false
+1996,Actor -- Supporting Role,Jerry Maguire,Cuba Gooding Jr.,Rod Tidwell,true
+1996,Actor -- Supporting Role,Primal Fear,Edward Norton,Aaron Stampler,false
+1996,Actor -- Supporting Role,Ghosts of Mississippi,James Woods,Byron De La Beckwith,false
+1996,Actor -- Supporting Role,Fargo,William H. Macy,Jerry Lundegaard,false
+1997,Actor -- Supporting Role,Amistad,Anthony Hopkins,John Quincy Adams,false
+1997,Actor -- Supporting Role,Boogie Nights,Burt Reynolds,Jack Horner,false
+1997,Actor -- Supporting Role,As Good as It Gets,Greg Kinnear,Simon Bishop,false
+1997,Actor -- Supporting Role,Jackie Brown,Robert Forster,Max Cherry,false
+1997,Actor -- Supporting Role,Good Will Hunting,Robin Williams,Dr. Sean Maguire,true
+1998,Actor -- Supporting Role,A Simple Plan,Billy Bob Thornton,Jacob Mitchell,false
+1998,Actor -- Supporting Role,The Truman Show,Ed Harris,Christof,false
+1998,Actor -- Supporting Role,Shakespeare in Love,Geoffrey Rush,Philip Henslowe,false
+1998,Actor -- Supporting Role,Affliction,James Coburn,Glen Whitehouse,true
+1998,Actor -- Supporting Role,A Civil Action,Robert Duvall,Jerome Facher,false
+1999,Actor -- Supporting Role,The Sixth Sense,Haley Joel Osment,Cole Sear,false
+1999,Actor -- Supporting Role,The Talented Mr. Ripley,Jude Law,Dickie Greenleaf,false
+1999,Actor -- Supporting Role,The Cider House Rules,Michael Caine,Dr. Wilbur Larch,true
+1999,Actor -- Supporting Role,The Green Mile,Michael Clarke Duncan,John Coffey,false
+1999,Actor -- Supporting Role,Magnolia,Tom Cruise,Frank T.J. Mackey,false
+2000,Actor -- Supporting Role,Erin Brockovich,Albert Finney,Edward L. Masry,false
+2000,Actor -- Supporting Role,Traffic,Benicio del Toro,Javier Rodriguez,true
+2000,Actor -- Supporting Role,The Contender,Jeff Bridges,Jackson Evans,false
+2000,Actor -- Supporting Role,Gladiator,Joaquin Phoenix,Commodus,false
+2000,Actor -- Supporting Role,Shadow of the Vampire,Willem Dafoe,Max Schreck,false
+2001,Actor -- Supporting Role,Sexy Beast,Ben Kingsley,Don Logan,false
+2001,Actor -- Supporting Role,Training Day,Ethan Hawke,Officer Jake Hoyt,false
+2001,Actor -- Supporting Role,The Lord of the Rings: The Fellowship of the Ring,Ian McKellen,Gandalf the Grey,false
+2001,Actor -- Supporting Role,Iris,Jim Broadbent,John Bayley,true
+2001,Actor -- Supporting Role,Ali,Jon Voight,Howard Cosell,false
+2002,Actor -- Supporting Role,Adaptation,Chris Cooper,John Laroche,true
+2002,Actor -- Supporting Role,Catch Me If You Can,Christopher Walken,Frank Abagnale Sr.,false
+2002,Actor -- Supporting Role,The Hours,Ed Harris,"Richard ""Richie"" Brown",false
+2002,Actor -- Supporting Role,Chicago,John C. Reilly,Amos Hart,false
+2002,Actor -- Supporting Role,Road to Perdition,Paul Newman,John Rooney,false
+2003,Actor -- Supporting Role,The Cooler,Alec Baldwin,Shelly Kaplow,false
+2003,Actor -- Supporting Role,21 Grams,Benicio del Toro,Jack Jordan,false
+2003,Actor -- Supporting Role,In America,Djimon Hounsou,Mateo,false
+2003,Actor -- Supporting Role,The Last Samurai,Ken Watanabe,Lord Moritsugu Katsumoto,false
+2003,Actor -- Supporting Role,Mystic River,Tim Robbins,Dave Boyle,true
+2004,Actor -- Supporting Role,The Aviator,Alan Alda,Owen Brewster,false
+2004,Actor -- Supporting Role,Closer,Clive Owen,Larry Gray,false
+2004,Actor -- Supporting Role,Collateral,Jamie Foxx,Max Durocher,false
+2004,Actor -- Supporting Role,Million Dollar Baby,Morgan Freeman,"Eddie ""Scrap-Iron"" Dupris",true
+2004,Actor -- Supporting Role,Sideways,Thomas Haden Church,Jack Cole,false
+2005,Actor -- Supporting Role,Syriana,George Clooney,Robert Barnes,true
+2005,Actor -- Supporting Role,Brokeback Mountain,Jake Gyllenhaal,Jack Twist,false
+2005,Actor -- Supporting Role,Crash,Matt Dillon,Officer John Ryan,false
+2005,Actor -- Supporting Role,Cinderella Man,Paul Giamatti,Joe Gould,false
+2005,Actor -- Supporting Role,A History of Violence,William Hurt,Richie Cusack,false
+2006,Actor -- Supporting Role,Little Miss Sunshine,Alan Arkin,Edwin Hoover,true
+2006,Actor -- Supporting Role,Blood Diamond,Djimon Hounsou,Solomon Vandy,false
+2006,Actor -- Supporting Role,Dreamgirls,Eddie Murphy,"James ""Thunder"" Early",false
+2006,Actor -- Supporting Role,Little Children,Jackie Earle Haley,Ronald James McGorvey,false
+2006,Actor -- Supporting Role,The Departed,Mark Wahlberg,Staff Sgt. Sean Dignam,false
+2007,Actor -- Supporting Role,The Assassination of Jesse James by the Coward Robert Ford,Casey Affleck,Robert Ford,false
+2007,Actor -- Supporting Role,Into the Wild,Hal Holbrook,Ron Franz,false
+2007,Actor -- Supporting Role,No Country for Old Men,Javier Bardem,Anton Chigurh,true
+2007,Actor -- Supporting Role,Charlie Wilson's War,Philip Seymour Hoffman,Gust Avrakotos,false
+2007,Actor -- Supporting Role,Michael Clayton,Tom Wilkinson,Arthur Edens,false
+2008,Actor -- Supporting Role,The Dark Knight,Heath Ledger ^[8],The Joker,false
+2008,Actor -- Supporting Role,Milk,Josh Brolin,Dan White,false
+2008,Actor -- Supporting Role,Revolutionary Road,Michael Shannon,John Givings Jr.,false
+2008,Actor -- Supporting Role,Doubt,Philip Seymour Hoffman,Father Brendan Flynn,false
+2008,Actor -- Supporting Role,Tropic Thunder,Robert Downey Jr.,Kirk Lazarus,false
+2009,Actor -- Supporting Role,Inglourious Basterds,Christoph Waltz,Col. Hans Landa,true
+2009,Actor -- Supporting Role,The Last Station,Christopher Plummer,Leo Tolstoy,false
+2009,Actor -- Supporting Role,Invictus,Matt Damon,Francois Pienaar,false
+2009,Actor -- Supporting Role,The Lovely Bones,Stanley Tucci,George Harvey,false
+2009,Actor -- Supporting Role,The Messenger,Woody Harrelson,Capt. Tony Stone,false
+2010,Actor -- Supporting Role,The Fighter,Christian Bale,Dicky Eklund,true
+2010,Actor -- Supporting Role,The King's Speech,Geoffrey Rush,Lionel Logue,false
+2010,Actor -- Supporting Role,The Town,Jeremy Renner,"James ""Jem"" Coughlin",false
+2010,Actor -- Supporting Role,Winter's Bone,John Hawkes,Teardrop Dolly,false
+2010,Actor -- Supporting Role,The Kids Are All Right,Mark Ruffalo,Paul Hatfield,false
+2011,Actor -- Supporting Role,Beginners,Christopher Plummer,Hal Fields,true
+2011,Actor -- Supporting Role,Moneyball,Jonah Hill,Peter Brand,false
+2011,Actor -- Supporting Role,My Week with Marilyn,Kenneth Branagh,Laurence Olivier,false
+2011,Actor -- Supporting Role,Extremely Loud and Incredibly Close,Max von Sydow,The Renter,false
+2011,Actor -- Supporting Role,Warrior,Nick Nolte,Paddy Conlon,false
+2012,Actor -- Supporting Role,Argo,Alan Arkin,Lester Siegel,false
+2012,Actor -- Supporting Role,Django Unchained,Christoph Waltz,Dr. King Schultz,true
+2012,Actor -- Supporting Role,The Master,Philip Seymour Hoffman,Lancaster Dodd,false
+2012,Actor -- Supporting Role,Silver Linings Playbook,Robert De Niro,"Patrizio ""Pat"" Solitano Sr.",false
+2012,Actor -- Supporting Role,Lincoln,Tommy Lee Jones,Thaddeus Stevens,false
+2013,Actor -- Supporting Role,Captain Phillips,Barkhad Abdi,Abduwali Muse,false
+2013,Actor -- Supporting Role,American Hustle,Bradley Cooper,"Richard ""Richie"" DiMaso",false
+2013,Actor -- Supporting Role,Dallas Buyers Club,Jared Leto,Rayon,true
+2013,Actor -- Supporting Role,The Wolf of Wall Street,Jonah Hill,Donnie Azoff,false
+2013,Actor -- Supporting Role,12 Years a Slave,Michael Fassbender,Edwin Epps,false
+2014,Actor -- Supporting Role,Birdman,Edward Norton,Mike Shiner,false
+2014,Actor -- Supporting Role,Boyhood,Ethan Hawke,Mason Evans Sr.,false
+2014,Actor -- Supporting Role,Whiplash,J. K. Simmons,Terrence Fletcher,true
+2014,Actor -- Supporting Role,Foxcatcher,Mark Ruffalo,David Schultz,false
+2014,Actor -- Supporting Role,The Judge,Robert Duvall,Joseph Palmer,false
+1945,Actress -- Leading Role,The Bells of St. Mary's,Ingrid Bergman,Mary Benedict,false
+1945,Actress -- Leading Role,Mildred Pierce,Joan Crawford,Mildred Pierce Beragon,true
+1945,Actress -- Leading Role,The Valley of Decision,Greer Garson,Mary Rafferty,false
+1945,Actress -- Leading Role,Love Letters,Jennifer Jones,Singleton,false
+1945,Actress -- Leading Role,Leave Her to Heaven,Gene Tierney,Ellen Berent Harland,false
+1946,Actress -- Leading Role,To Each His Own,Olivia de Havilland,Josephine 'Jody' Norris,true
+1946,Actress -- Leading Role,Brief Encounter,Celia Johnson,Laura Jesson,false
+1946,Actress -- Leading Role,Duel in the Sun,Jennifer Jones,Pearl Chavez,false
+1946,Actress -- Leading Role,Sister Kenny,Rosalind Russell,Elizabeth Kenny,false
+1946,Actress -- Leading Role,The Yearling,Jane Wyman,Orry Baxter,false
+1947,Actress -- Leading Role,Possessed,Joan Crawford,Louise Howell,false
+1947,Actress -- Leading Role,Smash-Up the Story of a Woman,Susan Hayward,Angelica Evans Conway,false
+1947,Actress -- Leading Role,Gentleman's Agreement,Dorothy McGuire,Kathy Lacy,false
+1947,Actress -- Leading Role,Mourning Becomes Electra,Rosalind Russell,Lavinia Mannon,false
+1947,Actress -- Leading Role,The Farmer's Daughter,Loretta Young,Katie Holstrom,true
+1948,Actress -- Leading Role,Joan of Arc,Ingrid Bergman,Joan of Arc,false
+1948,Actress -- Leading Role,The Snake Pit,Olivia de Havilland,Virginia Stuart Cunningham,false
+1948,Actress -- Leading Role,I Remember Mama,Irene Dunne,Martha Hanson,false
+1948,Actress -- Leading Role,Sorry Wrong Number,Barbara Stanwyck,Leona Stevenson,false
+1948,Actress -- Leading Role,Johnny Belinda,Jane Wyman,Belinda McDonald,true
+1949,Actress -- Leading Role,Pinky,Jeanne Crain,Patricia 'Pinky' Johnson,false
+1949,Actress -- Leading Role,The Heiress,Olivia de Havilland,Catherine Sloper,true
+1949,Actress -- Leading Role,My Foolish Heart,Susan Hayward,Eloise Winters,false
+1949,Actress -- Leading Role,Edward My Son,Deborah Kerr,Evelyn Boult,false
+1949,Actress -- Leading Role,Come to the Stable,Loretta Young,Margaret,false
+1950,Actress -- Leading Role,All About Eve,Anne Baxter,Eve Harrington,false
+1950,Actress -- Leading Role,All About Eve,Bette Davis,Margo Channing,false
+1950,Actress -- Leading Role,Born Yesterday,Judy Holliday,Emma 'Billie' Dawn,true
+1950,Actress -- Leading Role,Caged,Eleanor Parker,Marie Allen,false
+1950,Actress -- Leading Role,Sunset Boulevard,Gloria Swanson,Norma Desmond,false
+1951,Actress -- Leading Role,The African Queen,Katharine Hepburn,Rose Sayer,false
+1951,Actress -- Leading Role,A Streetcar Named Desire,Vivien Leigh,Blanche DuBois,true
+1951,Actress -- Leading Role,Detective Story,Eleanor Parker,Mary McLeod,false
+1951,Actress -- Leading Role,A Place in the Sun,Shelley Winters,Alice Tripp,false
+1951,Actress -- Leading Role,The Blue Veil,Jane Wyman,Louise Mason,false
+1952,Actress -- Leading Role,Come Back Little Sheba,Shirley Booth,Lola Delaney,true
+1952,Actress -- Leading Role,Sudden Fear,Joan Crawford,Myra Hudson,false
+1952,Actress -- Leading Role,The Star,Bette Davis,Margaret Elliot,false
+1952,Actress -- Leading Role,The Member of the Wedding,Julie Harris,Frances 'Frankie' Addams,false
+1952,Actress -- Leading Role,With a Song in My Heart,Susan Hayward,Jane Froman,false
+1953,Actress -- Leading Role,Lili,Leslie Caron,Lili Daurier,false
+1953,Actress -- Leading Role,Mogambo,Ava Gardner,"Eloise ""Honey Bear"" Kelly",false
+1953,Actress -- Leading Role,Roman Holiday,Audrey Hepburn,Princess Ann,true
+1953,Actress -- Leading Role,From Here to Eternity,Deborah Kerr,Karen Holmes,false
+1953,Actress -- Leading Role,The Moon Is Blue,Maggie McNamara,Patty O'Neill,false
+1954,Actress -- Leading Role,Carmen Jones,Dorothy Dandridge,Carmen Jones,false
+1954,Actress -- Leading Role,A Star is Born,Judy Garland,Esther Victoria Blodgett / Vicki Lester,false
+1954,Actress -- Leading Role,Sabrina,Audrey Hepburn,Sabrina Fairchild,false
+1954,Actress -- Leading Role,The Country Girl,Grace Kelly,Georgie Elgin,true
+1954,Actress -- Leading Role,Magnificent Obsession,Jane Wyman,Helen Phillips,false
+1955,Actress -- Leading Role,I'll Cry Tomorrow,Susan Hayward,Lillian Roth,false
+1955,Actress -- Leading Role,Summertime,Katharine Hepburn,Jane Hudson,false
+1955,Actress -- Leading Role,Love is a Many-Splendored Thing,Jennifer Jones,Han Suyin,false
+1955,Actress -- Leading Role,The Rose Tattoo,Anna Magnani,Serafina Delle Rose,true
+1955,Actress -- Leading Role,Interrupted Melody,Eleanor Parker,Marjorie Lawrence,false
+1956,Actress -- Leading Role,Baby Doll,Carroll Baker,Baby Doll Meighan,false
+1956,Actress -- Leading Role,Anastasia,Ingrid Bergman,Anna Koreff / Anastasia,true
+1956,Actress -- Leading Role,The Rainmaker,Katharine Hepburn,Lizzie Curry,false
+1956,Actress -- Leading Role,The Bad Seed,Nancy Kelly,Christine Penmark,false
+1956,Actress -- Leading Role,The King and I,Deborah Kerr,Anna Leonowens,false
+1957,Actress -- Leading Role,Heaven Knows Mr. Allison,Deborah Kerr,Angela,false
+1957,Actress -- Leading Role,Wild Is the Wind,Anna Magnani,Gioia,false
+1957,Actress -- Leading Role,Raintree County,Elizabeth Taylor,Susanna Drake,false
+1957,Actress -- Leading Role,Peyton Place,Lana Turner,Constance MacKenzie,false
+1957,Actress -- Leading Role,The Three Faces of Eve,Joanne Woodward,Eve White / Eve Black / Jane,true
+1958,Actress -- Leading Role,I Want to Live!,Susan Hayward,Barbara Graham,true
+1958,Actress -- Leading Role,Separate Tables,Deborah Kerr,Sibyl Railton-Bell,false
+1958,Actress -- Leading Role,Some Came Running,Shirley MacLaine,Ginnie Moorehead,false
+1958,Actress -- Leading Role,Auntie Mame,Rosalind Russell,Mame Dennis,false
+1958,Actress -- Leading Role,Cat on a Hot Tin Roof,Elizabeth Taylor,Margaret 'Maggie the Cat' Pollitt,false
+1959,Actress -- Leading Role,Pillow Talk,Doris Day,Jan Morrow,false
+1959,Actress -- Leading Role,The Nun's Story,Audrey Hepburn,Gabrielle van der Mal,false
+1959,Actress -- Leading Role,Suddenly Last Summer,Katharine Hepburn,Violet Venable,false
+1959,Actress -- Leading Role,Room at the Top,Simone Signoret,Alice Aisgill,true
+1959,Actress -- Leading Role,Suddenly Last Summer,Elizabeth Taylor,Catherine Holly,false
+1960,Actress -- Leading Role,Sunrise at Campobello,Greer Garson,Eleanor Roosevelt,false
+1960,Actress -- Leading Role,The Sundowners,Deborah Kerr,Ida Carmody,false
+1960,Actress -- Leading Role,The Apartment,Shirley MacLaine,Fran Kubelik,false
+1960,Actress -- Leading Role,Never on Sunday,Melina Mercouri,Ilya,false
+1960,Actress -- Leading Role,BUtterfield 8,Elizabeth Taylor,Gloria Wandrous,true
+1961,Actress -- Leading Role,Breakfast at Tiffany's,Audrey Hepburn,Holly Golightly,false
+1961,Actress -- Leading Role,The Hustler,Piper Laurie,Sarah Packard,false
+1961,Actress -- Leading Role,Two Women,Sophia Loren,Cesira,true
+1961,Actress -- Leading Role,Summer and Smoke,Geraldine Page,Alma Winemiller,false
+1961,Actress -- Leading Role,Splendor in the Grass,Natalie Wood,Wilma Dean 'Deanie' Loomis,false
+1962,Actress -- Leading Role,The Miracle Worker,Anne Bancroft,Annie Sullivan,true
+1962,Actress -- Leading Role,What Ever Happened to Baby Jane?,Bette Davis,Baby Jane Hudson,false
+1962,Actress -- Leading Role,Long Day's Journey into Night,Katharine Hepburn,Mary Cavan Tyrone,false
+1962,Actress -- Leading Role,Sweet Bird of Youth,Geraldine Page,Alexandra Del Lago,false
+1962,Actress -- Leading Role,Days of Wine and Roses,Lee Remick,Kirsten Arnesen Clay,false
+1963,Actress -- Leading Role,The L-Shaped Room,Leslie Caron,Jane Fossett,false
+1963,Actress -- Leading Role,Irma la Douce,Shirley MacLaine,Irma La Douce,false
+1963,Actress -- Leading Role,Hud,Patricia Neal,Alma Brown,true
+1963,Actress -- Leading Role,This Sporting Life,Rachel Roberts,Margaret Hammond,false
+1963,Actress -- Leading Role,Love with the Proper Stranger,Natalie Wood,Angie Rossini,false
+1964,Actress -- Leading Role,Mary Poppins,Julie Andrews,Mary Poppins,true
+1964,Actress -- Leading Role,The Pumpkin Eater,Anne Bancroft,Jo Armitage,false
+1964,Actress -- Leading Role,Marriage Italian Style,Sophia Loren,Filumena Marturano,false
+1964,Actress -- Leading Role,The Unsinkable Molly Brown,Debbie Reynolds,Molly Brown,false
+1964,Actress -- Leading Role,S_ance on a Wet Afternoon,Kim Stanley,Myra Savage,false
+1965,Actress -- Leading Role,The Sound of Music,Julie Andrews,Maria von Trapp,false
+1965,Actress -- Leading Role,Darling,Julie Christie,Diana Scott,true
+1965,Actress -- Leading Role,The Collector,Samantha Eggar,Miranda Grey,false
+1965,Actress -- Leading Role,A Patch of Blue,Elizabeth Hartman,Selina D'Arcy,false
+1965,Actress -- Leading Role,Ship of Fools,Simone Signoret,La Contessa,false
+1966,Actress -- Leading Role,A Man and a Woman,Anouk Aim_e,Anne Gauthier,false
+1966,Actress -- Leading Role,The Shop on Main Street,Ida Kami_ska,Rozalie Lautmann,false
+1966,Actress -- Leading Role,Georgy Girl,Lynn Redgrave,Georgina 'Georgy' Parkin,false
+1966,Actress -- Leading Role,Morgan!,Vanessa Redgrave,Leonie Delt,false
+1966,Actress -- Leading Role,Who's Afraid of Virginia Woolf?,Elizabeth Taylor,Martha,true
+1967,Actress -- Leading Role,The Graduate,Anne Bancroft,Mrs. Robinson,false
+1967,Actress -- Leading Role,Bonnie and Clyde,Faye Dunaway,Bonnie Parker,false
+1967,Actress -- Leading Role,The Whisperers,Edith Evans,Maggie Ross,false
+1967,Actress -- Leading Role,Wait Until Dark,Audrey Hepburn,Susy Hendrix,false
+1967,Actress -- Leading Role,Guess Who's Coming to Dinner,Katharine Hepburn,Christina Drayton,true
+1968,Actress -- Leading Role,The Lion in Winter,Katharine Hepburn[C],Eleanor of Aquitaine,true
+1968,Actress -- Leading Role,The Subject was Roses,Patricia Neal,Nettie Cleary,false
+1968,Actress -- Leading Role,Isadora,Vanessa Redgrave,Isadora Duncan,false
+1968,Actress -- Leading Role,Funny Girl,Barbra Streisand[C],Fanny Brice,true
+1968,Actress -- Leading Role,Rachel Rachel,Joanne Woodward,Rachel Cameron,false
+1969,Actress -- Leading Role,Anne of the Thousand Days,Genevieve Bujold,Anne Boleyn,false
+1969,Actress -- Leading Role,They Shoot Horses Don't They?,Jane Fonda,Gloria Beatty,false
+1969,Actress -- Leading Role,The Sterile Cuckoo,Liza Minnelli,Mary Ann 'Pookie' Adams,false
+1969,Actress -- Leading Role,The Happy Ending,Jean Simmons,Mary Wilson,false
+1969,Actress -- Leading Role,The Prime of Miss Jean Brodie,Maggie Smith,Jean Brodie,true
+1970,Actress -- Leading Role,The Great White Hope,Jane Alexander,Eleanor Backman,false
+1970,Actress -- Leading Role,Women in Love,Glenda Jackson,Gudrun Brangwen,true
+1970,Actress -- Leading Role,Love Story,Ali MacGraw,Jennifer Cavalleri,false
+1970,Actress -- Leading Role,Ryan's Daughter,Sarah Miles,Rosy Ryan,false
+1970,Actress -- Leading Role,Diary of a Mad Housewife,Carrie Snodgress,"Bettina ""Tina"" Balser",false
+1971,Actress -- Leading Role,McCabe & Mrs. Miller,Julie Christie,Constance Miller,false
+1971,Actress -- Leading Role,Klute,Jane Fonda,Bree Daniels,true
+1971,Actress -- Leading Role,Sunday Bloody Sunday,Glenda Jackson,Alex Greville,false
+1971,Actress -- Leading Role,Mary Queen of Scots,Vanessa Redgrave,Mary Queen of Scots,false
+1971,Actress -- Leading Role,Nicholas and Alexandra,Janet Suzman,Empress Alexandra of Russia,false
+1972,Actress -- Leading Role,Cabaret,Liza Minnelli,Sally Bowles,true
+1972,Actress -- Leading Role,Lady Sings the Blues,Diana Ross,Billie Holiday,false
+1972,Actress -- Leading Role,Travels with My Aunt,Maggie Smith,Augusta Bertram,false
+1972,Actress -- Leading Role,Sounder,Cicely Tyson,Rebecca Morgan,false
+1972,Actress -- Leading Role,The Emigrants,Liv Ullmann,Kristina Nilsson,false
+1973,Actress -- Leading Role,The Exorcist,Ellen Burstyn,Chris MacNeil,false
+1973,Actress -- Leading Role,A Touch of Class,Glenda Jackson,Vicki Allessio,true
+1973,Actress -- Leading Role,Cinderella Liberty,Marsha Mason,Maggie Paul,false
+1973,Actress -- Leading Role,The Way We Were,Barbra Streisand,Katie Morosky,false
+1973,Actress -- Leading Role,Summer Wishes Winter Dreams,Joanne Woodward,Rita Walden,false
+1974,Actress -- Leading Role,Alice Doesn't Live Here Anymore,Ellen Burstyn,Alice Hyatt,true
+1974,Actress -- Leading Role,Claudine,Diahann Carroll,Claudine Price,false
+1974,Actress -- Leading Role,Chinatown,Faye Dunaway,Evelyn Cross Mulwray,false
+1974,Actress -- Leading Role,Lenny,Valerie Perrine,Honey Bruce,false
+1974,Actress -- Leading Role,A Woman Under the Influence,Gena Rowlands,Mabel Longhetti,false
+1975,Actress -- Leading Role,The Story of Adele H.,Isabelle Adjani,Adele Hugo / Adele Lewry,false
+1975,Actress -- Leading Role,Tommy,Ann-Margret,Nora Walker,false
+1975,Actress -- Leading Role,One Flew Over the Cuckoo's Nest,Louise Fletcher,Nurse Mildred Ratched,true
+1975,Actress -- Leading Role,Hedda,Glenda Jackson,Hedda Gabler,false
+1975,Actress -- Leading Role,Hester Street,Carol Kane,Gitl,false
+1976,Actress -- Leading Role,Cousin Cousine,Marie-Christine Barrault,Marthe,false
+1976,Actress -- Leading Role,Network,Faye Dunaway,Diana Christensen,true
+1976,Actress -- Leading Role,Rocky,Talia Shire,Adrian Pennino,false
+1976,Actress -- Leading Role,Carrie,Sissy Spacek,Carrie White,false
+1976,Actress -- Leading Role,Face to Face,Liv Ullmann,Jenny Isaksson,false
+1977,Actress -- Leading Role,The Turning Point,Anne Bancroft,Emma Jacklin,false
+1977,Actress -- Leading Role,Julia,Jane Fonda,Lillian Hellman,false
+1977,Actress -- Leading Role,Annie Hall,Diane Keaton,Annie Hall,true
+1977,Actress -- Leading Role,The Turning Point,Shirley MacLaine,Deedee Rodgers,false
+1977,Actress -- Leading Role,The Goodbye Girl,Marsha Mason,Paula McFadden,false
+1978,Actress -- Leading Role,Autumn Sonata,Ingrid Bergman,Charlotte Andergast,false
+1978,Actress -- Leading Role,Same Time Next Year,Ellen Burstyn,Doris,false
+1978,Actress -- Leading Role,An Unmarried Woman,Jill Clayburgh,Erica Benton,false
+1978,Actress -- Leading Role,Coming Home,Jane Fonda,Sally Hyde,true
+1978,Actress -- Leading Role,Interiors,Geraldine Page,Eve,false
+1979,Actress -- Leading Role,Starting Over,Jill Clayburgh,Marilyn Holmberg,false
+1979,Actress -- Leading Role,Norma Rae,Sally Field,Norma Rae Webster,true
+1979,Actress -- Leading Role,The China Syndrome,Jane Fonda,Kimberly Wells,false
+1979,Actress -- Leading Role,Chapter Two,Marsha Mason,Jennie MacLaine,false
+1979,Actress -- Leading Role,The Rose,Bette Midler,Mary Rose Foster,false
+1980,Actress -- Leading Role,Resurrection,Ellen Burstyn,Edna Mae McCauley,false
+1980,Actress -- Leading Role,Private Benjamin,Goldie Hawn,Judy Benjamin,false
+1980,Actress -- Leading Role,Ordinary People,Mary Tyler Moore,Beth Jarrett,false
+1980,Actress -- Leading Role,Gloria,Gena Rowlands,Gloria Swenson,false
+1980,Actress -- Leading Role,Coal Miner's Daughter,Sissy Spacek,Loretta Lynn,true
+1981,Actress -- Leading Role,On Golden Pond,Katharine Hepburn,Ethel Thayer,true
+1981,Actress -- Leading Role,Reds,Diane Keaton,Louise Bryant,false
+1981,Actress -- Leading Role,Only When I Laugh,Marsha Mason,Georgia Hines,false
+1981,Actress -- Leading Role,Atlantic City,Susan Sarandon,Sally Matthews,false
+1981,Actress -- Leading Role,The French Lieutenant's Woman,Meryl Streep,Anna / Sara Woodruff,false
+1982,Actress -- Leading Role,Victor Victoria,Julie Andrews,Victoria Grant,false
+1982,Actress -- Leading Role,Frances,Jessica Lange,Frances Farmer,false
+1982,Actress -- Leading Role,Missing,Sissy Spacek,Beth Horman,false
+1982,Actress -- Leading Role,Sophie's Choice,Meryl Streep,Sophie Zawistowska,true
+1982,Actress -- Leading Role,An Officer and a Gentleman,Debra Winger,Paula Pokrifki,false
+1983,Actress -- Leading Role,Testament,Jane Alexander,Carol Wetherly,false
+1983,Actress -- Leading Role,Terms of Endearment,Shirley MacLaine,Aurora Greenway,true
+1983,Actress -- Leading Role,Silkwood,Meryl Streep,Karen Silkwood,false
+1983,Actress -- Leading Role,Educating Rita,Julie Walters,Susan White / Rita,false
+1983,Actress -- Leading Role,Terms of Endearment,Debra Winger,Emma Greenway Horton,false
+1984,Actress -- Leading Role,A Passage to India,Judy Davis,Adela Quested,false
+1984,Actress -- Leading Role,Places in the Heart,Sally Field,Edna Spalding,true
+1984,Actress -- Leading Role,Country,Jessica Lange,Jewell Ivy,false
+1984,Actress -- Leading Role,The Bostonians,Vanessa Redgrave,Olive Chancellor,false
+1984,Actress -- Leading Role,The River,Sissy Spacek,Mae Garvey,false
+1985,Actress -- Leading Role,Agnes of God,Anne Bancroft,Miriam Ruth,false
+1985,Actress -- Leading Role,The Color Purple,Whoopi Goldberg,Celie Harris Johnson,false
+1985,Actress -- Leading Role,Sweet Dreams,Jessica Lange,Patsy Cline,false
+1985,Actress -- Leading Role,The Trip to Bountiful,Geraldine Page,Carrie Watts,true
+1985,Actress -- Leading Role,Out of Africa,Meryl Streep,Karen Blixen,false
+1986,Actress -- Leading Role,The Morning After,Jane Fonda,Alex Sternbergen,false
+1986,Actress -- Leading Role,Children of a Lesser God,Marlee Matlin,Sarah Norman,true
+1986,Actress -- Leading Role,Crimes of the Heart,Sissy Spacek,Babe Magrath,false
+1986,Actress -- Leading Role,Peggy Sue Got Married,Kathleen Turner,Peggy Sue Bodell,false
+1986,Actress -- Leading Role,Aliens,Sigourney Weaver,Ellen Ripley,false
+1987,Actress -- Leading Role,Moonstruck,Cher,Loretta Castorini,true
+1987,Actress -- Leading Role,Fatal Attraction,Glenn Close,Alex Forrest,false
+1987,Actress -- Leading Role,Broadcast News,Holly Hunter,Jane Craig,false
+1987,Actress -- Leading Role,Anna,Sally Kirkland,Anna,false
+1987,Actress -- Leading Role,Ironweed,Meryl Streep,Helen Archer,false
+1988,Actress -- Leading Role,Dangerous Liaisons,Glenn Close,Marquise Isabelle de Merteuil,false
+1988,Actress -- Leading Role,The Accused,Jodie Foster,Sarah Tobias,true
+1988,Actress -- Leading Role,Working Girl,Melanie Griffith,Tess McGill,false
+1988,Actress -- Leading Role,A Cry in the Dark,Meryl Streep,Lindy Chamberlain-Creighton,false
+1988,Actress -- Leading Role,Gorillas in the Mist,Sigourney Weaver,Dian Fossey,false
+1989,Actress -- Leading Role,Camille Claudel,Isabelle Adjani,Camille Claudel,false
+1989,Actress -- Leading Role,Shirley Valentine,Pauline Collins,Shirley Valentine-Bradshaw,false
+1989,Actress -- Leading Role,Music Box,Jessica Lange,Ann Talbot,false
+1989,Actress -- Leading Role,The Fabulous Baker Boys,Michelle Pfeiffer,Susie Diamond,false
+1989,Actress -- Leading Role,Driving Miss Daisy,Jessica Tandy,Daisy Werthan,true
+1990,Actress -- Leading Role,Misery,Kathy Bates,Annie Wilkes,true
+1990,Actress -- Leading Role,The Grifters,Anjelica Huston,Lilly Dillon,false
+1990,Actress -- Leading Role,Pretty Woman,Julia Roberts,Vivian Ward,false
+1990,Actress -- Leading Role,Postcards from the Edge,Meryl Streep,Suzanne Vale,false
+1990,Actress -- Leading Role,Mr. & Mrs. Bridge,Joanne Woodward,India Bridge,false
+1991,Actress -- Leading Role,Thelma & Louise,Geena Davis,Thelma Dickinson,false
+1991,Actress -- Leading Role,Rambling Rose,Laura Dern,Rose,false
+1991,Actress -- Leading Role,The Silence of the Lambs,Jodie Foster,Clarice Starling,true
+1991,Actress -- Leading Role,For the Boys,Bette Midler,Dixie Leonard,false
+1991,Actress -- Leading Role,Thelma & Louise,Susan Sarandon,Louise Sawyer,false
+1992,Actress -- Leading Role,Indochine,Catherine Deneuve,Eliane Devries,false
+1992,Actress -- Leading Role,Passion Fish,Mary McDonnell,May-Alice Culhane,false
+1992,Actress -- Leading Role,Love Field,Michelle Pfeiffer,Lurene Hallett,false
+1992,Actress -- Leading Role,Lorenzo's Oil,Susan Sarandon,Michaela Odone,false
+1992,Actress -- Leading Role,Howards End,Emma Thompson,Margaret Schlegel,true
+1993,Actress -- Leading Role,What's Love Got to Do with It,Angela Bassett,Tina Turner,false
+1993,Actress -- Leading Role,Six Degrees of Separation,Stockard Channing,Ouisa Kittredge,false
+1993,Actress -- Leading Role,The Piano,Holly Hunter,Ada McGrath,true
+1993,Actress -- Leading Role,The Remains of the Day,Emma Thompson,"Sarah ""Sally"" Kenton",false
+1993,Actress -- Leading Role,Shadowlands,Debra Winger,Joy Gresham,false
+1994,Actress -- Leading Role,Nell,Jodie Foster,Nell Kellty,false
+1994,Actress -- Leading Role,Blue Sky,Jessica Lange,Carly Marshall,true
+1994,Actress -- Leading Role,Tom & Viv,Miranda Richardson,Vivienne Haigh-Wood,false
+1994,Actress -- Leading Role,Little Women,Winona Ryder,"Josephine ""Jo"" March",false
+1994,Actress -- Leading Role,The Client,Susan Sarandon,"Regina ""Reggie"" Love",false
+1995,Actress -- Leading Role,Dead Man Walking,Susan Sarandon,Helen Prejean,true
+1995,Actress -- Leading Role,Leaving Las Vegas,Elisabeth Shue,Sera,false
+1995,Actress -- Leading Role,Casino,Sharon Stone,Ginger McKenna,false
+1995,Actress -- Leading Role,The Bridges of Madison County,Meryl Streep,Francesca Johnson,false
+1995,Actress -- Leading Role,Sense and Sensibility,Emma Thompson,Elinor Dashwood,false
+1996,Actress -- Leading Role,Secrets & Lies,Brenda Blethyn,Cynthia Rose Purley,false
+1996,Actress -- Leading Role,Marvin's Room,Diane Keaton,Bessie Wakefield,false
+1996,Actress -- Leading Role,Fargo,Frances McDormand,Marge Gunderson,true
+1996,Actress -- Leading Role,The English Patient,Kristin Scott Thomas,Katharine Clifton,false
+1996,Actress -- Leading Role,Breaking the Waves,Emily Watson,Bess McNeill,false
+1997,Actress -- Leading Role,The Wings of the Dove,Helena Bonham Carter,Kate Croy,false
+1997,Actress -- Leading Role,Afterglow,Julie Christie,Phyllis Mann,false
+1997,Actress -- Leading Role,Mrs Brown,Judi Dench,Queen Victoria,false
+1997,Actress -- Leading Role,As Good as It Gets,Helen Hunt,Carol Connelly,true
+1997,Actress -- Leading Role,Titanic,Kate Winslet,Rose DeWitt Bukater,false
+1998,Actress -- Leading Role,Elizabeth,Cate Blanchett,Elizabeth I of England,false
+1998,Actress -- Leading Role,Central Station,Fernanda Montenegro,"Isadora ""Dora"" Teixeira",false
+1998,Actress -- Leading Role,Shakespeare in Love,Gwyneth Paltrow,Viola De Lesseps,true
+1998,Actress -- Leading Role,One True Thing,Meryl Streep,Kate Gulden,false
+1998,Actress -- Leading Role,Hilary and Jackie,Emily Watson,Jacqueline du Pr_,false
+1999,Actress -- Leading Role,American Beauty,Annette Bening,Carolyn Burnham,false
+1999,Actress -- Leading Role,Tumbleweeds,Janet McTeer,Mary Jo Walker,false
+1999,Actress -- Leading Role,The End of the Affair,Julianne Moore,Sarah Miles,false
+1999,Actress -- Leading Role,Music of the Heart,Meryl Streep,Roberta Guaspari,false
+1999,Actress -- Leading Role,Boys Don't Cry,Hilary Swank,Brandon Teena,true
+2000,Actress -- Leading Role,The Contender,Joan Allen,Laine Hanson,false
+2000,Actress -- Leading Role,Chocolat,Juliette Binoche,Vianne Rocher,false
+2000,Actress -- Leading Role,Requiem for a Dream,Ellen Burstyn,Sara Goldfarb,false
+2000,Actress -- Leading Role,You Can Count on Me,Laura Linney,Sammy Prescott,false
+2000,Actress -- Leading Role,Erin Brockovich,Julia Roberts,Erin Brockovich,true
+2001,Actress -- Leading Role,Monster's Ball,Halle Berry,Leticia Musgrove,true
+2001,Actress -- Leading Role,Iris,Judi Dench,Iris Murdoch,false
+2001,Actress -- Leading Role,Moulin Rouge!,Nicole Kidman,Satine,false
+2001,Actress -- Leading Role,In the Bedroom,Sissy Spacek,Ruth Fowler,false
+2001,Actress -- Leading Role,Bridget Jones's Diary,Ren_e Zellweger,Bridget Jones,false
+2002,Actress -- Leading Role,Frida,Salma Hayek,Frida Kahlo,false
+2002,Actress -- Leading Role,The Hours,Nicole Kidman,Virginia Woolf,true
+2002,Actress -- Leading Role,Unfaithful,Diane Lane,Constance 'Connie' Sumner,false
+2002,Actress -- Leading Role,Far from Heaven,Julianne Moore,Cathy Whitaker,false
+2002,Actress -- Leading Role,Chicago,Ren_e Zellweger,Roxie Hart,false
+2003,Actress -- Leading Role,Whale Rider,Keisha Castle-Hughes,Paikea Apirana,false
+2003,Actress -- Leading Role,Something's Gotta Give,Diane Keaton,Erika Berry,false
+2003,Actress -- Leading Role,In America,Samantha Morton,Sarah Sullivan,false
+2003,Actress -- Leading Role,Monster,Charlize Theron,Aileen Wuornos,true
+2003,Actress -- Leading Role,21 Grams,Naomi Watts,"Cristina ""Cris"" Williams-Peck",false
+2004,Actress -- Leading Role,Being Julia,Annette Bening,Julia Lambert,false
+2004,Actress -- Leading Role,Maria Full of Grace,Catalina Sandino Moreno,Maria Alvarez,false
+2004,Actress -- Leading Role,Vera Drake,Imelda Staunton,Vera Rose Drake,false
+2004,Actress -- Leading Role,Million Dollar Baby,Hilary Swank,Maggie Fitzgerald,true
+2004,Actress -- Leading Role,Eternal Sunshine of the Spotless Mind,Kate Winslet,Clementine Kruczynski,false
+2005,Actress -- Leading Role,Mrs Henderson Presents,Judi Dench,Laura Henderson,false
+2005,Actress -- Leading Role,Transamerica,Felicity Huffman,"Sabrina ""Bree"" Osbourne / Stanley Schupak",false
+2005,Actress -- Leading Role,Pride & Prejudice,Keira Knightley,Elizabeth Bennet,false
+2005,Actress -- Leading Role,North Country,Charlize Theron,Josey Aimes,false
+2005,Actress -- Leading Role,Walk the Line,Reese Witherspoon,June Carter,true
+2006,Actress -- Leading Role,Volver,Pen_lope Cruz,Raimunda,false
+2006,Actress -- Leading Role,Notes on a Scandal,Judi Dench,Barbara Covett,false
+2006,Actress -- Leading Role,The Queen,Helen Mirren,Queen Elizabeth II,true
+2006,Actress -- Leading Role,The Devil Wears Prada,Meryl Streep,Miranda Priestly,false
+2006,Actress -- Leading Role,Little Children,Kate Winslet,Sarah Pierce,false
+2007,Actress -- Leading Role,Elizabeth: The Golden Age,Cate Blanchett,Queen Elizabeth I of England,false
+2007,Actress -- Leading Role,Away from Her,Julie Christie,Fiona Anderson,false
+2007,Actress -- Leading Role,La Vie en Rose,Marion Cotillard,Edith Piaf,true
+2007,Actress -- Leading Role,The Savages,Laura Linney,Wendy Savage,false
+2007,Actress -- Leading Role,Juno,Ellen Page,Juno MacGuff,false
+2008,Actress -- Leading Role,Rachel Getting Married,Anne Hathaway,Kym Buchman,false
+2008,Actress -- Leading Role,Changeling,Angelina Jolie,Christine Dunne Collins,false
+2008,Actress -- Leading Role,Frozen River,Melissa Leo,Ray Eddy,false
+2008,Actress -- Leading Role,Doubt,Meryl Streep,Aloysius Beauvier,false
+2008,Actress -- Leading Role,The Reader,Kate Winslet,Hanna Schmitz,true
+2009,Actress -- Leading Role,The Blind Side,Sandra Bullock,Leigh Anne Tuohy,true
+2009,Actress -- Leading Role,The Last Station,Helen Mirren,Sophia Tolstaya,false
+2009,Actress -- Leading Role,An Education,Carey Mulligan,Jenny Mellor,false
+2009,Actress -- Leading Role,Precious,Gabourey Sidibe,"Claireece ""Precious"" Jones",false
+2009,Actress -- Leading Role,Julie & Julia,Meryl Streep,Julia Child,false
+2010,Actress -- Leading Role,The Kids Are All Right,Annette Bening,"Nicole ""Nic"" Allgood",false
+2010,Actress -- Leading Role,Rabbit Hole,Nicole Kidman,Becca Corbett,false
+2010,Actress -- Leading Role,Winter's Bone,Jennifer Lawrence,Ree Dolly,false
+2010,Actress -- Leading Role,Black Swan,Natalie Portman,Nina Sayers,true
+2010,Actress -- Leading Role,Blue Valentine,Michelle Williams,"Cynthia ""Cindy"" Heller",false
+2011,Actress -- Leading Role,Albert Nobbs,Glenn Close,Albert Nobbs,false
+2011,Actress -- Leading Role,The Help,Viola Davis,Aibileen Clark,false
+2011,Actress -- Leading Role,The Girl with the Dragon Tattoo,Rooney Mara,Lisbeth Salander,false
+2011,Actress -- Leading Role,The Iron Lady,Meryl Streep,Margaret Thatcher,true
+2011,Actress -- Leading Role,My Week with Marilyn,Michelle Williams,Marilyn Monroe,false
+2012,Actress -- Leading Role,Zero Dark Thirty,Jessica Chastain,Maya,false
+2012,Actress -- Leading Role,Silver Linings Playbook,Jennifer Lawrence,Tiffany Maxwell,true
+2012,Actress -- Leading Role,Amour,Emmanuelle Riva,Anne Laurent,false
+2012,Actress -- Leading Role,Beasts of the Southern Wild,Quvenzhan_ Wallis,Hushpuppy,false
+2012,Actress -- Leading Role,The Impossible,Naomi Watts,Maria Bennett,false
+2013,Actress -- Leading Role,American Hustle,Amy Adams,Sydney Prosser/Edith Greensly,false
+2013,Actress -- Leading Role,Blue Jasmine,Cate Blanchett,"Jeanette ""Jasmine"" Francis",true
+2013,Actress -- Leading Role,Gravity,Sandra Bullock,Ryan Stone,false
+2013,Actress -- Leading Role,Philomena,Judi Dench,Philomena Lee,false
+2013,Actress -- Leading Role,August: Osage County,Meryl Streep,Violet Weston,false
+2014,Actress -- Leading Role,Two Days One Night,Marion Cotillard,Sandra Bya,false
+2014,Actress -- Leading Role,The Theory of Everything,Felicity Jones,Jane Wilde Hawking,false
+2014,Actress -- Leading Role,Still Alice,Julianne Moore,Alice Howland,true
+2014,Actress -- Leading Role,Gone Girl,Rosamund Pike,Amy Elliott-Dunne,false
+2014,Actress -- Leading Role,Wild,Reese Witherspoon,Cheryl Strayed,false
+1945,Actress -- Supporting Role,National Velvet,Anne Revere,Araminty Brown,true
+1945,Actress -- Supporting Role,Mildred Pierce,Eve Arden,Ida Corwin,false
+1945,Actress -- Supporting Role,Mildred Pierce,Ann Blyth,Veda Pierce Forrester,false
+1945,Actress -- Supporting Role,The Picture of Dorian Gray,Angela Lansbury,Sibyl Vane,false
+1945,Actress -- Supporting Role,The Corn is Green,Joan Lorring,Bessie Watty,false
+1946,Actress -- Supporting Role,Saratoga Trunk,Flora Robson,Angelique Buiton,false
+1946,Actress -- Supporting Role,The Razor's Edge,Anne Baxter,Sophie Nelson MacDonald,true
+1946,Actress -- Supporting Role,Duel in the Sun,Lillian Gish,Laura Belle McCanles,false
+1946,Actress -- Supporting Role,Anna and the King of Siam,Gale Sondergaard,Lady Thiang,false
+1946,Actress -- Supporting Role,The Spiral Staircase,Ethel Barrymore,Mrs. Warren,false
+1947,Actress -- Supporting Role,Gentleman's Agreement,Celeste Holm,Anne Dettrey,true
+1947,Actress -- Supporting Role,Gentleman's Agreement,Anne Revere,Mrs. Green,false
+1947,Actress -- Supporting Role,The Paradine Case,Ethel Barrymore,Sophie Horfield,false
+1947,Actress -- Supporting Role,The Egg and I,Marjorie Main,Ma Kettle,false
+1947,Actress -- Supporting Role,Crossfire,Gloria Grahame,Ginny Tremaine,false
+1948,Actress -- Supporting Role,Key Largo,Claire Trevor,Gaye Dawn,true
+1948,Actress -- Supporting Role,I Remember Mama,Barbara Bel Geddes,Katrin Hanson,false
+1948,Actress -- Supporting Role,Johnny Belinda,Agnes Moorehead,Aggie McDonald,false
+1948,Actress -- Supporting Role,Hamlet,Jean Simmons,Ophelia,false
+1948,Actress -- Supporting Role,I Remember Mama,Ellen Corby,Trina,false
+1949,Actress -- Supporting Role,All the King's Men,Mercedes McCambridge,Sadie Burke,true
+1949,Actress -- Supporting Role,Pinky,Ethel Barrymore,Miss Em,false
+1949,Actress -- Supporting Role,Pinky,Ethel Waters,Dicey Johnson,false
+1949,Actress -- Supporting Role,Come to the Stable,Elsa Lanchester,Amelia Potts,false
+1949,Actress -- Supporting Role,Come to the Stable,Celeste Holm,Sister Scholastica,false
+1950,Actress -- Supporting Role,Caged,Hope Emerson,Evelyn Harper,false
+1950,Actress -- Supporting Role,All About Eve,Thelma Ritter,Birdie Kumen,false
+1950,Actress -- Supporting Role,All About Eve,Celeste Holm,Karen Richards,false
+1950,Actress -- Supporting Role,Sunset Boulevard,Nancy Olson,Betty Schaefer,false
+1950,Actress -- Supporting Role,Harvey,Josephine Hull,Veta Louise Simmons,true
+1951,Actress -- Supporting Role,Death of a Salesman,Mildred Dunnock,Linda Loman,false
+1951,Actress -- Supporting Role,The Mating Season,Thelma Ritter,Ellen McNulty,false
+1951,Actress -- Supporting Role,The Blue Veil,Joan Blondell,Annie Rawlins,false
+1951,Actress -- Supporting Role,A Streetcar Named Desire,Kim Hunter,Stella Kowalski,true
+1951,Actress -- Supporting Role,Detective Story,Lee Grant,The Shoplifter,false
+1952,Actress -- Supporting Role,The Bad and the Beautiful,Gloria Grahame,Rosemary Bartlow,true
+1952,Actress -- Supporting Role,"Come Back, Little Sheba",Terry Moore,Marie Buckholder,false
+1952,Actress -- Supporting Role,Moulin Rouge,Colette Marchand,Marie Charlet,false
+1952,Actress -- Supporting Role,With a Song in My Heart,Thelma Ritter,Clancy,false
+1952,Actress -- Supporting Role,Singin' in the Rain,Jean Hagen,Lina Lamont,false
+1953,Actress -- Supporting Role,From Here to Eternity,Donna Reed,Alma Burke/Lorene,true
+1953,Actress -- Supporting Role,Hondo,Geraldine Page,Angie Lowe,false
+1953,Actress -- Supporting Role,Pickup on South Street,Thelma Ritter,Moe Williams,false
+1953,Actress -- Supporting Role,Mogambo,Grace Kelly,Linda Nordley,false
+1953,Actress -- Supporting Role,Torch Song,Marjorie Rambeau,Mrs. Stewart,false
+1954,Actress -- Supporting Role,Broken Lance,Katy Jurado,Senora Devereaux,false
+1954,Actress -- Supporting Role,On the Waterfront,Eva Marie Saint,Edie Doyle,true
+1954,Actress -- Supporting Role,The High and the Mighty,Claire Trevor,May Holst,false
+1954,Actress -- Supporting Role,Executive Suite,Nina Foch,Erica Martin,false
+1954,Actress -- Supporting Role,The High and the Mighty,Jan Sterling,Sally McKee,false
+1955,Actress -- Supporting Role,East of Eden,Jo Van Fleet,Cathy Ames/Kate Trask,true
+1955,Actress -- Supporting Role,Pete Kelly's Blues,Peggy Lee,Rose Hopkins,false
+1955,Actress -- Supporting Role,Rebel Without a Cause,Natalie Wood,Judy,false
+1955,Actress -- Supporting Role,The Rose Tattoo,Marisa Pavan,Rosa Delle Rose,false
+1955,Actress -- Supporting Role,Marty,Betsy Blair,Clara Snyder,false
+1956,Actress -- Supporting Role,Giant,Mercedes McCambridge,Luz Benedict,false
+1956,Actress -- Supporting Role,Baby Doll,Mildred Dunnock,Rose Comfort,false
+1956,Actress -- Supporting Role,The Bad Seed,Eileen Heckart,Hortense Daigle,false
+1956,Actress -- Supporting Role,Written on the Wind,Dorothy Malone,Marylee Hadley,true
+1956,Actress -- Supporting Role,The Bad Seed,Patty McCormack,Rhoda Penmark,false
+1957,Actress -- Supporting Role,Peyton Place,Hope Lange,Selena Cross,false
+1957,Actress -- Supporting Role,The Bachelor Party,Carolyn Jones,The Existentialist,false
+1957,Actress -- Supporting Role,Sayonara,Miyoshi Umeki,Katsumi Kelly,true
+1957,Actress -- Supporting Role,Peyton Place,Diane Varsi,Allison MacKenzie,false
+1957,Actress -- Supporting Role,Witness for the Prosecution,Elsa Lanchester,Miss Plimsoll,false
+1958,Actress -- Supporting Role,The Defiant Ones,Cara Williams,Billy's Mother,false
+1958,Actress -- Supporting Role,Separate Tables,Wendy Hiller,Pat Cooper,true
+1958,Actress -- Supporting Role,Lonelyhearts,Maureen Stapleton,Fay Doyle,false
+1958,Actress -- Supporting Role,Some Came Running,Martha Hyer,Gwen French,false
+1958,Actress -- Supporting Role,Auntie Mame,Peggy Cass,Agnes Gooch,false
+1959,Actress -- Supporting Role,Pillow Talk,Thelma Ritter,Alma,false
+1959,Actress -- Supporting Role,Room at the Top,Hermione Baddeley,Elspeth,false
+1959,Actress -- Supporting Role,Imitation of Life,Juanita Moore,Annie Johnson,false
+1959,Actress -- Supporting Role,Imitation of Life,Susan Kohner,Sarah Jane Johnson,false
+1959,Actress -- Supporting Role,The Diary of Anne Frank,Shelley Winters,Petronella van Daan,true
+1960,Actress -- Supporting Role,Elmer Gantry,Shirley Jones,Lulu Baines,true
+1960,Actress -- Supporting Role,Psycho,Janet Leigh,Marion Crane,false
+1960,Actress -- Supporting Role,Sons and Lovers,Mary Ure,Clara Dawes,false
+1960,Actress -- Supporting Role,The Sundowners,Glynis Johns,Mrs. Firth,false
+1960,Actress -- Supporting Role,The Dark at the Top of the Stairs,Shirley Knight,Reenie Flood,false
+1961,Actress -- Supporting Role,West Side Story,Rita Moreno,Anita del Carmen,true
+1961,Actress -- Supporting Role,The Roman Spring of Mrs. Stone,Lotte Lenya,Magda Terribili-Gonzales,false
+1961,Actress -- Supporting Role,The Children's Hour,Fay Bainter,Amelia Tilford,false
+1961,Actress -- Supporting Role,Judgment at Nuremberg,Judy Garland,Irene Hoffman Wallner,false
+1961,Actress -- Supporting Role,Summer and Smoke,Una Merkel,Mrs. Winemiller,false
+1962,Actress -- Supporting Role,To Kill a Mockingbird,Mary Badham,"Jean Louise ""Scout"" Finch",false
+1962,Actress -- Supporting Role,Sweet Bird of Youth,Shirley Knight,Heavenly Finley,false
+1962,Actress -- Supporting Role,The Manchurian Candidate,Angela Lansbury,Eleanor Iselin,false
+1962,Actress -- Supporting Role,The Miracle Worker,Patty Duke,Helen Keller,true
+1962,Actress -- Supporting Role,Birdman of Alcatraz,Thelma Ritter,Elizabeth McCartney Stroud,false
+1963,Actress -- Supporting Role,The V.I.P.s,Margaret Rutherford,The Duchess of Brighton,true
+1963,Actress -- Supporting Role,Lilies of the Field,Lilia Skala,Mother Maria Marthe,false
+1963,Actress -- Supporting Role,Tom Jones,Diane Cilento,Molly Seagrim,false
+1963,Actress -- Supporting Role,Tom Jones,Joyce Redman,Mrs. Waters/Jenny Jones,false
+1963,Actress -- Supporting Role,Tom Jones,Edith Evans,Miss Western,false
+1964,Actress -- Supporting Role,"Hushe Hush, Sweet Charlotte",Agnes Moorehead,Velma Cruther,false
+1964,Actress -- Supporting Role,The Night of the Iguana,Grayson Hall,Judith Fellowes,false
+1964,Actress -- Supporting Role,My Fair Lady,Gladys Cooper,Mrs. Higgins,false
+1964,Actress -- Supporting Role,Zorba the Greek,Lila Kedrova,Madame Hortense,true
+1964,Actress -- Supporting Role,The Chalk Garden,Edith Evans,Mrs. St. Maugham,false
+1965,Actress -- Supporting Role,The Sound of Music,Peggy Wood,"Virgilia, Mother Abbess",false
+1965,Actress -- Supporting Role,Inside Daisy Clover,Ruth Gordon,Mrs. Clover/The Dealer,false
+1965,Actress -- Supporting Role,A Patch of Blue,Shelley Winters,Rose-ann D'Arcey,true
+1965,Actress -- Supporting Role,Othello,Maggie Smith,Desdemona,false
+1965,Actress -- Supporting Role,Othello,Joyce Redman,Emilia,false
+1966,Actress -- Supporting Role,You're a Big Boy Now,Geraldine Page,Margery Chanticleer,false
+1966,Actress -- Supporting Role,Alfie,Vivien Merchant,Lily Clamacraft,false
+1966,Actress -- Supporting Role,Who's Afraid of Virginia Woolf?,Sandy Dennis,Honey,true
+1966,Actress -- Supporting Role,Hawaii,Jocelyne LaGarde,Malama Kanakoa,false
+1966,Actress -- Supporting Role,A Man for All Seasons,Wendy Hiller,Alice More,false
+1967,Actress -- Supporting Role,Barefoot in the Park,Mildred Natwick,Ethel Banks,false
+1967,Actress -- Supporting Role,Bonnie and Clyde,Estelle Parsons,Blanche Barrow,true
+1967,Actress -- Supporting Role,Guess Who's Coming to Dinner,Beah Richards,Mary Prentice,false
+1967,Actress -- Supporting Role,The Graduate,Katharine Ross,Elaine Robinson,false
+1967,Actress -- Supporting Role,Thoroughly Modern Millie,Carol Channing,Muzzy van Hossmere,false
+1968,Actress -- Supporting Role,Funny Girl,Kay Medford,Rose Stern Borach,false
+1968,Actress -- Supporting Role,Rosemary's Baby,Ruth Gordon,Minnie Castevet,true
+1968,Actress -- Supporting Role,Faces,Lynn Carlin,Maria Forst,false
+1968,Actress -- Supporting Role,The Heart Is a Lonely Hunter,Sondra Locke,Mick Kelly,false
+1968,Actress -- Supporting Role,"Rachel, Rachel",Estelle Parsons,Calla Mackie,false
+1969,Actress -- Supporting Role,Midnight Cowboy,Sylvia Miles,Cass,false
+1969,Actress -- Supporting Role,Bob & Carol & Ted & Alice,Dyan Cannon,Alice Henderson,false
+1969,Actress -- Supporting Role,"They Shoot Horses, Don't They?",Susannah York,Alice LeBlanc,false
+1969,Actress -- Supporting Role,Last Summer,Catherine Burns,Rhoda,false
+1969,Actress -- Supporting Role,Cactus Flower,Goldie Hawn,Toni Simmons,true
+1970,Actress -- Supporting Role,Five Easy Pieces,Karen Black,Rayette Dipesto,false
+1970,Actress -- Supporting Role,The Landlord,Lee Grant,Joyce Enders,false
+1970,Actress -- Supporting Role,Airport,Maureen Stapleton,Inez Guerrero,false
+1970,Actress -- Supporting Role,MASH,Sally Kellerman,Margaret O'Houlihan,false
+1970,Actress -- Supporting Role,Airport,Helen Hayes,Ada Quonsett,true
+1971,Actress -- Supporting Role,Carnal Knowledge,Ann-Margret,Bobbie,false
+1971,Actress -- Supporting Role,Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?,Barbara Harris,Allison Densmore,false
+1971,Actress -- Supporting Role,The Last Picture Show,Ellen Burstyn,Lois Farrow,false
+1971,Actress -- Supporting Role,The Go-Between,Margaret Leighton,Mrs. Maudsley,false
+1971,Actress -- Supporting Role,The Last Picture Show,Cloris Leachman,Ruth Popper,true
+1972,Actress -- Supporting Role,Butterflies Are Free,Eileen Heckart,Mrs. Baker,true
+1972,Actress -- Supporting Role,Pete 'n' Tillie,Geraldine Page,Gertrude Wilson,false
+1972,Actress -- Supporting Role,The Heartbreak Kid,Jeannie Berlin,Lila Kolodny,false
+1972,Actress -- Supporting Role,Fat City,Susan Tyrrell,Oma Lee Greer,false
+1972,Actress -- Supporting Role,The Poseidon Adventure,Shelley Winters,Belle Rosen,false
+1973,Actress -- Supporting Role,Paper Moon,Madeline Kahn,Trixie Delight,false
+1973,Actress -- Supporting Role,American Graffiti,Candy Clark,Debbie Dunham,false
+1973,Actress -- Supporting Role,Paper Moon,Tatum O'Neal,Addie Loggins,true
+1973,Actress -- Supporting Role,The Exorcist,Linda Blair,Regan MacNeil,false
+1973,Actress -- Supporting Role,"Summer Wishes, Winter Dreams",Sylvia Sidney,Mrs. Pritchett,false
+1974,Actress -- Supporting Role,Alice Doesn't Live Here Anymore,Diane Ladd,"Florence ""Flo"" Castleberry",false
+1974,Actress -- Supporting Role,The Godfather Part II,Talia Shire,"Constanzia ""Connie"" Corleone",false
+1974,Actress -- Supporting Role,Murder on the Orient Express,Ingrid Bergman,Greta Ohlsson,true
+1974,Actress -- Supporting Role,Day for Night,Valentina Cortese,Severine,false
+1974,Actress -- Supporting Role,Blazing Saddles,Madeline Kahn,Lili von Shtupp,false
+1975,Actress -- Supporting Role,"Farewell, My Lovely",Sylvia Miles,Jessie Halstead Florian,false
+1975,Actress -- Supporting Role,Nashville,Ronee Blakley,Barbara Jean,false
+1975,Actress -- Supporting Role,Shampoo,Lee Grant,Felicia Karpf,true
+1975,Actress -- Supporting Role,Nashville,Lily Tomlin,Linnea Reese,false
+1975,Actress -- Supporting Role,Jacqueline Susann's Once Is Not Enough,Brenda Vaccaro,Linda Riggs,false
+1976,Actress -- Supporting Role,All the President's Men,Jane Alexander,Judy Graham Hoback,false
+1976,Actress -- Supporting Role,Voyage of the Damned,Lee Grant,Lillian Rosen,false
+1976,Actress -- Supporting Role,Network,Beatrice Straight,Louise Schumacher,true
+1976,Actress -- Supporting Role,Taxi Driver,Jodie Foster,Iris Steensma,false
+1976,Actress -- Supporting Role,Carrie,Piper Laurie,Margaret White,false
+1977,Actress -- Supporting Role,Looking for Mr. Goodbar,Tuesday Weld,Katherine Dunn,false
+1977,Actress -- Supporting Role,Close Encounters of the Third Kind,Melinda Dillon,Gillian Guiler,false
+1977,Actress -- Supporting Role,Julia,Vanessa Redgrave,Julia,true
+1977,Actress -- Supporting Role,The Goodbye Girl,Quinn Cummings,Lucy McFadden,false
+1977,Actress -- Supporting Role,The Turning Point,Leslie Browne,Emilia Rodgers,false
+1978,Actress -- Supporting Role,California Suite,Maggie Smith,Diane Barrie,true
+1978,Actress -- Supporting Role,Heaven Can Wait,Dyan Cannon,Julia Farnsworth,false
+1978,Actress -- Supporting Role,The Deer Hunter,Meryl Streep,Linda,false
+1978,Actress -- Supporting Role,Coming Home,Penelope Milford,Vi Munson,false
+1978,Actress -- Supporting Role,Interiors,Maureen Stapleton,Pearl,false
+1979,Actress -- Supporting Role,Kramer vs. Kramer,Meryl Streep,Joanna Kramer,true
+1979,Actress -- Supporting Role,Kramer vs. Kramer,Jane Alexander,Margaret Phelps,false
+1979,Actress -- Supporting Role,Starting Over,Candice Bergen,Jessica Potter,false
+1979,Actress -- Supporting Role,Breaking Away,Barbara Barrie,Evelyn Stoller,false
+1979,Actress -- Supporting Role,Manhattan,Mariel Hemingway,Tracy,false
+1980,Actress -- Supporting Role,Raging Bull,Cathy Moriarty,Vicki Thailer LaMotta,false
+1980,Actress -- Supporting Role,Private Benjamin,Eileen Brennan,Doreen Lewis,false
+1980,Actress -- Supporting Role,Inside Moves,Diana Scarwid,Louise,false
+1980,Actress -- Supporting Role,Melvin and Howard,Mary Steenburgen,Lynda West Dummar,true
+1980,Actress -- Supporting Role,Resurrection,Eva Le Gallienne,Pearl,false
+1981,Actress -- Supporting Role,Reds,Maureen Stapleton,Emma Goldman,true
+1981,Actress -- Supporting Role,Only When I Laugh,Joan Hackett,Toby Landau,false
+1981,Actress -- Supporting Role,Ragtime,Elizabeth McGovern,Evelyn Nesbit,false
+1981,Actress -- Supporting Role,Absence of Malice,Melinda Dillon,Teresa Perrone,false
+1981,Actress -- Supporting Role,On Golden Pond,Jane Fonda,Chelsea Thayer Wayne,false
+1982,Actress -- Supporting Role,Victor Victoria,Lesley Ann Warren,Norma Cassady,false
+1982,Actress -- Supporting Role,Frances,Kim Stanley,Lillian van Ornum Farmer,false
+1982,Actress -- Supporting Role,The World According to Garp,Glenn Close,Jenny Fields,false
+1982,Actress -- Supporting Role,Tootsie,Teri Garr,Sandy Lester,false
+1982,Actress -- Supporting Role,Tootsie,Jessica Lange,Julie Nichols,true
+1983,Actress -- Supporting Role,Cross Creek,Alfre Woodard,"Beatrice ""Geechee""",false
+1983,Actress -- Supporting Role,The Big Chill,Glenn Close,Sarah Cooper,false
+1983,Actress -- Supporting Role,Yentl,Amy Irving,Hadass Vishkower,false
+1983,Actress -- Supporting Role,The Year of Living Dangerously,Linda Hunt,Billy Kwan,true
+1983,Actress -- Supporting Role,Silkwood,Cher,Dolly Pelliker,false
+1984,Actress -- Supporting Role,The Natural,Glenn Close,Iris Gaines,false
+1984,Actress -- Supporting Role,Places in the Heart,Lindsay Crouse,Margaret Lomax,false
+1984,Actress -- Supporting Role,A Passage to India,Peggy Ashcroft,Mrs. Moore,true
+1984,Actress -- Supporting Role,The Pope of Greenwich Village,Geraldine Page,Mrs. Ritter,false
+1984,Actress -- Supporting Role,Swing Shift,Christine Lahti,Hazel Zanussi,false
+1985,Actress -- Supporting Role,Agnes of God,Meg Tilly,Sister Agnes,false
+1985,Actress -- Supporting Role,The Color Purple,Margaret Avery,Shug Avery,false
+1985,Actress -- Supporting Role,The Color Purple,Oprah Winfrey,Sofia Johnson,false
+1985,Actress -- Supporting Role,Prizzi's Honor,Anjelica Huston,Maerose Prizzi,true
+1985,Actress -- Supporting Role,Twice in a Lifetime,Amy Madigan,Sunny MacKenzie-Sobel,false
+1986,Actress -- Supporting Role,A Room with a View,Maggie Smith,Charlotte Bartlett,false
+1986,Actress -- Supporting Role,Crimes of the Heart,Tess Harper,Chick Boyle,false
+1986,Actress -- Supporting Role,The Color of Money,Mary Elizabeth Mastrantonio,Carmen,false
+1986,Actress -- Supporting Role,Hannah and Her Sisters,Dianne Wiest,Holly,true
+1986,Actress -- Supporting Role,Children of a Lesser God,Piper Laurie,Mrs. Norman,false
+1987,Actress -- Supporting Role,Moonstruck,Olympia Dukakis,Rose Castorini,true
+1987,Actress -- Supporting Role,The Whales of August,Ann Sothern,Tisha Doughty,false
+1987,Actress -- Supporting Role,Fatal Attraction,Anne Archer,Beth Gallagher,false
+1987,Actress -- Supporting Role,Throw Momma from the Train,Anne Ramsey,Mrs. Lift,false
+1987,Actress -- Supporting Role,Gaby: A True Story,Norma Aleandro,Florencia Sanchez Morales,false
+1988,Actress -- Supporting Role,Working Girl,Joan Cusack,Cyn,false
+1988,Actress -- Supporting Role,Dangerous Liaisons,Michelle Pfeiffer,Madame Marie de Tourvel,false
+1988,Actress -- Supporting Role,Working Girl,Sigourney Weaver,Katharine Parker,false
+1988,Actress -- Supporting Role,Mississippi Burning,Frances McDormand,Mrs. Pell,false
+1988,Actress -- Supporting Role,The Accidental Tourist,Geena Davis,Muriel Pritchett,true
+1989,Actress -- Supporting Role,My Left Foot,Brenda Fricker,Bridget Fagan Brown,true
+1989,Actress -- Supporting Role,"Enemies, A Love Story",Anjelica Huston,Tamara Broder,false
+1989,Actress -- Supporting Role,Parenthood,Dianne Wiest,Helen Buckman,false
+1989,Actress -- Supporting Role,Steel Magnolias,Julia Roberts,Shelby Eatenton Latcherie,false
+1989,Actress -- Supporting Role,"Enemies, A Love Story",Lena Olin,Masha,false
+1990,Actress -- Supporting Role,Ghost,Whoopi Goldberg,Oda Mae Brown,true
+1990,Actress -- Supporting Role,Wild at Heart,Diane Ladd,Marietta Fortune,false
+1990,Actress -- Supporting Role,Goodfellas,Lorraine Bracco,Karen Friedman Hill,false
+1990,Actress -- Supporting Role,The Grifters,Annette Bening,Myra Langtry,false
+1990,Actress -- Supporting Role,Dances with Wolves,Mary McDonnell,Stands With a Fist,false
+1991,Actress -- Supporting Role,Cape Fear,Juliette Lewis,Danielle Bowden,false
+1991,Actress -- Supporting Role,Rambling Rose,Diane Ladd,Mrs. Hillyer,false
+1991,Actress -- Supporting Role,The Fisher King,Mercedes Ruehl,Anne Napolitano,true
+1991,Actress -- Supporting Role,The Prince of Tides,Kate Nelligan,Lila Wingo Newbury,false
+1991,Actress -- Supporting Role,Fried Green Tomatoes,Jessica Tandy,"Virginia ""Ninny"" Threadgoode",false
+1992,Actress -- Supporting Role,Enchanted April,Joan Plowright,Mrs. Fisher,false
+1992,Actress -- Supporting Role,Damage,Miranda Richardson,Ingrid Fleming,false
+1992,Actress -- Supporting Role,My Cousin Vinny,Marisa Tomei,Mona Lisa Vito,true
+1992,Actress -- Supporting Role,Husbands and Wives,Judy Davis,Sally,false
+1992,Actress -- Supporting Role,Howards End,Vanessa Redgrave,Ruth Wilcox,false
+1993,Actress -- Supporting Role,The Firm,Holly Hunter,"Tamara ""Tammy"" Hemphill",false
+1993,Actress -- Supporting Role,The Piano,Anna Paquin,Flora McGrath,true
+1993,Actress -- Supporting Role,In the Name of the Father,Emma Thompson,Gareth Peirce,false
+1993,Actress -- Supporting Role,Fearless,Rosie Perez,Carla Rodrigo,false
+1993,Actress -- Supporting Role,The Age of Innocence,Winona Ryder,May Welland,false
+1994,Actress -- Supporting Role,The Madness of King George,Helen Mirren,Queen Charlotte,false
+1994,Actress -- Supporting Role,Tom & Viv,Rosemary Harris,Rose Robinson Haigh-Wood,false
+1994,Actress -- Supporting Role,Bullets over Broadway,Jennifer Tilly,Olive Neal,false
+1994,Actress -- Supporting Role,Bullets over Broadway,Dianne Wiest,Helen Sinclair,true
+1994,Actress -- Supporting Role,Pulp Fiction,Uma Thurman,Mia Wallace,false
+1995,Actress -- Supporting Role,Mighty Aphrodite,Mira Sorvino,Leslie/Linda Ash,true
+1995,Actress -- Supporting Role,Sense and Sensibility,Kate Winslet,Marianne Dashwood,false
+1995,Actress -- Supporting Role,Georgia,Mare Winningham,Georgia Flood,false
+1995,Actress -- Supporting Role,Apollo 13,Kathleen Quinlan,Marilyn Gerlach Lovell,false
+1995,Actress -- Supporting Role,Nixon,Joan Allen,Pat Nixon,false
+1996,Actress -- Supporting Role,Secrets & Lies,Marianne Jean-Baptiste,Hortense Cumberbatch,false
+1996,Actress -- Supporting Role,The English Patient,Juliette Binoche,Hana,true
+1996,Actress -- Supporting Role,The Portrait of a Lady,Barbara Hershey,Madame Serena Merle,false
+1996,Actress -- Supporting Role,The Mirror Has Two Faces,Lauren Bacall,Hannah Morgan,false
+1996,Actress -- Supporting Role,The Crucible,Joan Allen,Elizabeth Proctor,false
+1997,Actress -- Supporting Role,L.A. Confidential,Kim Basinger,Lynn Bracken,true
+1997,Actress -- Supporting Role,Titanic,Gloria Stuart,Rose Dawson Calvert,false
+1997,Actress -- Supporting Role,Good Will Hunting,Minnie Driver,Skylar Satenstein,false
+1997,Actress -- Supporting Role,In & Out,Joan Cusack,Emily Montgomery,false
+1997,Actress -- Supporting Role,Boogie Nights,Julianne Moore,Amber Waves/Maggie,false
+1998,Actress -- Supporting Role,Shakespeare in Love,Judi Dench,Queen Elizabeth I,true
+1998,Actress -- Supporting Role,Gods and Monsters,Lynn Redgrave,Hanna,false
+1998,Actress -- Supporting Role,Hilary and Jackie,Rachel Griffiths,Hilary du Pre,false
+1998,Actress -- Supporting Role,Little Voice,Brenda Blethyn,Mari Hoff,false
+1998,Actress -- Supporting Role,Primary Colors,Kathy Bates,Libby Holden,false
+1999,Actress -- Supporting Role,Sweet and Lowdown,Samantha Morton,Hattie,false
+1999,Actress -- Supporting Role,Being John Malkovich,Catherine Keener,Maxine Lund,false
+1999,Actress -- Supporting Role,"Girl, Interrupted",Angelina Jolie,Lisa Rowe,true
+1999,Actress -- Supporting Role,The Sixth Sense,Toni Collette,Lynn Sear,false
+1999,Actress -- Supporting Role,Boys Don't Cry,Chloe Sevigny,Lana Tisdel,false
+2000,Actress -- Supporting Role,Pollock,Marcia Gay Harden,Lee Krasner,true
+2000,Actress -- Supporting Role,Almost Famous,Kate Hudson,Penny Lane,false
+2000,Actress -- Supporting Role,Almost Famous,Frances McDormand,Elaine Miller,false
+2000,Actress -- Supporting Role,Billy Elliot,Julie Walters,Georgia Wilkinson,false
+2000,Actress -- Supporting Role,Chocolat,Judi Dench,Armande Voizin,false
+2001,Actress -- Supporting Role,A Beautiful Mind,Jennifer Connelly,Alicia de Larde-Nash,true
+2001,Actress -- Supporting Role,Iris,Kate Winslet,Iris Murdoch,false
+2001,Actress -- Supporting Role,In the Bedroom,Marisa Tomei,Natalie Strout,false
+2001,Actress -- Supporting Role,Gosford Park,Maggie Smith,Constance Trentham,false
+2001,Actress -- Supporting Role,Gosford Park,Helen Mirren,Jane Wilson,false
+2002,Actress -- Supporting Role,The Hours,Julianne Moore,Laura McGrath Brown,false
+2002,Actress -- Supporting Role,About Schmidt,Kathy Bates,Roberta Hertzel,false
+2002,Actress -- Supporting Role,Chicago,Catherine Zeta-Jones,Velma Kelly,true
+2002,Actress -- Supporting Role,Chicago,Queen Latifah,Matron Mama Morton,false
+2002,Actress -- Supporting Role,Adaptation,Meryl Streep,Susan Orlean,false
+2003,Actress -- Supporting Role,House of Sand and Fog,Shohreh Aghdashloo,Nadereh Behrani,false
+2003,Actress -- Supporting Role,Mystic River,Marcia Gay Harden,Celeste Boyle,false
+2003,Actress -- Supporting Role,Pieces of April,Patricia Clarkson,Joy Burns,false
+2003,Actress -- Supporting Role,Thirteen,Holly Hunter,Melanie Freeland,false
+2003,Actress -- Supporting Role,Cold Mountain,Renee Zellweger,Ruby Thewes,true
+2004,Actress -- Supporting Role,Closer,Natalie Portman,Jane Jones/Alice Ayres,false
+2004,Actress -- Supporting Role,The Aviator,Cate Blanchett,Katharine Hepburn,true
+2004,Actress -- Supporting Role,Kinsey,Laura Linney,Clara McMillen,false
+2004,Actress -- Supporting Role,Sideways,Virginia Madsen,Maya Randall,false
+2004,Actress -- Supporting Role,Hotel Rwanda,Sophie Okonedo,Tatiana Rusesabagina,false
+2005,Actress -- Supporting Role,Brokeback Mountain,Michelle Williams,Alma Beers Del Mar,false
+2005,Actress -- Supporting Role,North Country,Frances McDormand,Glory Dodge,false
+2005,Actress -- Supporting Role,Junebug,Amy Adams,Ashley Johnsten,false
+2005,Actress -- Supporting Role,Capote,Catherine Keener,Nelle Harper Lee,false
+2005,Actress -- Supporting Role,The Constant Gardener,Rachel Weisz,Tessa Abbott Quayle,true
+2006,Actress -- Supporting Role,Notes on a Scandal,Cate Blanchett,"Bathsheba ""Sheba"" Hart",false
+2006,Actress -- Supporting Role,Babel,Adriana Barraza,Amelia Hernandez,false
+2006,Actress -- Supporting Role,Little Miss Sunshine,Abigail Breslin,Olive Hoover,false
+2006,Actress -- Supporting Role,Babel,Rinko Kikuchi,Chieko Wataya,false
+2006,Actress -- Supporting Role,Dreamgirls,Jennifer Hudson,Effie White,true
+2007,Actress -- Supporting Role,Michael Clayton,Tilda Swinton,Karen Crowder,true
+2007,Actress -- Supporting Role,American Gangster,Ruby Dee,Mahalee Jones Lucas,false
+2007,Actress -- Supporting Role,Gone Baby Gone,Amy Ryan,Helene McCready,false
+2007,Actress -- Supporting Role,I'm Not There,Cate Blanchett,Jude Quinn,false
+2007,Actress -- Supporting Role,Atonement,Saoirse Ronan,Briony Tallis,false
+2008,Actress -- Supporting Role,The Wrestler,Marisa Tomei,Cassidy/Pam,false
+2008,Actress -- Supporting Role,Vicky Cristina Barcelona,Penelope Cruz,Maria Elena,true
+2008,Actress -- Supporting Role,Doubt,Amy Adams,Sister James,false
+2008,Actress -- Supporting Role,Doubt,Viola Davis,Mrs. Miller,false
+2008,Actress -- Supporting Role,The Curious Case of Benjamin Button,Taraji P. Henson,Queenie,false
+2009,Actress -- Supporting Role,Nine,Penelope Cruz,Carla Albanese,false
+2009,Actress -- Supporting Role,Crazy Heart,Maggie Gyllenhaal,Jean Craddock,false
+2009,Actress -- Supporting Role,Up in the Air,Vera Farmiga,Alex Goran,false
+2009,Actress -- Supporting Role,Precious,Mo'Nique,Mary Lee Johnston,true
+2009,Actress -- Supporting Role,Up in the Air,Anna Kendrick,Natalie Keener,false
+2010,Actress -- Supporting Role,Animal Kingdom,Jacki Weaver,"Janine ""Smurf"" Cody",false
+2010,Actress -- Supporting Role,The Fighter,Melissa Leo,Alice Eklund-Ward,true
+2010,Actress -- Supporting Role,The King's Speech,Helena Bonham Carter,Queen Elizabeth,false
+2010,Actress -- Supporting Role,The Fighter,Amy Adams,Charlene Fleming,false
+2010,Actress -- Supporting Role,True Grit,Hailee Steinfeld,Mattie Ross,false
+2011,Actress -- Supporting Role,The Help,Jessica Chastain,Celia Rae Foote,false
+2011,Actress -- Supporting Role,The Help,Octavia Spencer,Minny Jackson,true
+2011,Actress -- Supporting Role,Bridesmaids,Melissa McCarthy,Megan Price,false
+2011,Actress -- Supporting Role,The Artist,Berenice Bejo,Peppy Miller,false
+2011,Actress -- Supporting Role,Albert Nobbs,Janet McTeer,Hubert Page,false
+2012,Actress -- Supporting Role,The Sessions,Helen Hunt,Cheryl Cohen-Greene,false
+2012,Actress -- Supporting Role,The Master,Amy Adams,"Margaret ""Peggy"" Dodd",false
+2012,Actress -- Supporting Role,Les Miserables,Anne Hathaway,Fantine,true
+2012,Actress -- Supporting Role,Lincoln,Sally Field,Mary Todd Lincoln,false
+2012,Actress -- Supporting Role,Silver Linings Playbook,Jacki Weaver,Dolores Solitano,false
+2013,Actress -- Supporting Role,Blue Jasmine,Sally Hawkins,Ginger,false
+2013,Actress -- Supporting Role,Nebraska,June Squibb,Kate Grant,false
+2013,Actress -- Supporting Role,12 Years a Slave,Lupita Nyong'o,Patsey,true
+2013,Actress -- Supporting Role,American Hustle,Jennifer Lawrence,Rosalyn Rosenfeld,false
+2013,Actress -- Supporting Role,August: Osage County,Julia Roberts,Barbara Weston-Fordham,false
+2014,Actress -- Supporting Role,The Imitation Game,Keira Knightley,Joan Clarke,false
+2014,Actress -- Supporting Role,Boyhood,Patricia Arquette,Olivia Evans,true
+2014,Actress -- Supporting Role,Wild,Laura Dern,Bobbi Grey,false
+2014,Actress -- Supporting Role,Birdman,Emma Stone,Sam Thomson,false
+2014,Actress -- Supporting Role,Into the Woods,Meryl Streep,The Witch,false
+1945,Directing,National Velvet,Clarence Brown,,false
+1945,Directing,Spellbound,Alfred Hitchcock,,false
+1945,Directing,The Bells of St. Mary's,Leo McCarey,,false
+1945,Directing,The Lost Weekend,Billy Wilder,,true
+1945,Directing,The Southerner,Jean Renoir,,false
+1946,Directing,Brief Encounter,David Lean,,false
+1946,Directing,It's a Wonderful Life,Frank Capra,,false
+1946,Directing,The Best Years of Our Lives,William Wyler,,true
+1946,Directing,The Killers,Robert Siodmak,,false
+1946,Directing,The Yearling,Clarence Brown,,false
+1947,Directing,A Double Life,George Cukor,,false
+1947,Directing,Crossfire,Edward Dmytryk,,false
+1947,Directing,Gentleman's Agreement,Elia Kazan,,true
+1947,Directing,Great Expectations,David Lean,,false
+1947,Directing,The Bishop's Wife,Henry Koster,,false
+1948,Directing,Hamlet,Laurence Olivier,,false
+1948,Directing,Johnny Belinda,Jean Negulesco,,false
+1948,Directing,The Search,Fred Zinnemann,,false
+1948,Directing,The Snake Pit,Anatole Litvak,,false
+1948,Directing,The Treasure of the Sierra Madre,John Huston,,true
+1949,Directing,A Letter to Three Wives,Joseph L. Mankiewicz,,true
+1949,Directing,All the King's Men,Robert Rossen,,false
+1949,Directing,Battleground,William A. Wellman,,false
+1949,Directing,The Fallen Idol,Carol Reed,,false
+1949,Directing,The Heiress,William Wyler,,false
+1950,Directing,All About Eve,Joseph L. Mankiewicz,,true
+1950,Directing,Born Yesterday,George Cukor,,false
+1950,Directing,Sunset Boulevard,Billy Wilder,,false
+1950,Directing,The Asphalt Jungle,John Huston,,false
+1950,Directing,The Third Man,Carol Reed,,false
+1951,Directing,A Place in the Sun,George Stevens,,true
+1951,Directing,A Streetcar Named Desire,Elia Kazan,,false
+1951,Directing,An American in Paris,Vincente Minnelli,,false
+1951,Directing,Detective Story,William Wyler,,false
+1951,Directing,The African Queen,John Huston,,false
+1952,Directing,5 Fingers,Joseph L. Mankiewicz,,false
+1952,Directing,High Noon,Fred Zinnemann,,false
+1952,Directing,Moulin Rouge,John Huston,,false
+1952,Directing,The Greatest Show on Earth,Cecil B. DeMille,,false
+1952,Directing,The Quiet Man,John Ford,,true
+1953,Directing,From Here to Eternity,Fred Zinnemann,,true
+1953,Directing,Lili,Charles Walters,,false
+1953,Directing,Roman Holiday,William Wyler,,false
+1953,Directing,Shane,George Stevens,,false
+1953,Directing,Stalag 17,Billy Wilder,,false
+1954,Directing,On the Waterfront,Elia Kazan,,true
+1954,Directing,Rear Window,Alfred Hitchcock,,false
+1954,Directing,Sabrina,Billy Wilder,,false
+1954,Directing,The Country Girl,George Seaton,,false
+1954,Directing,The High and the Mighty,William A. Wellman,,false
+1955,Directing,Bad Day at Black Rock,John Sturges,,false
+1955,Directing,East of Eden,Elia Kazan,,false
+1955,Directing,Marty,Delbert Mann,,true
+1955,Directing,Picnic,Joshua Logan,,false
+1955,Directing,Summertime,David Lean,,false
+1956,Directing,Around the World in 80 Days,Michael Anderson,,false
+1956,Directing,Friendly Persuasion,William Wyler,,false
+1956,Directing,Giant,George Stevens,,true
+1956,Directing,The King and I,Walter Lang,,false
+1956,Directing,War and Peace,King Vidor,,false
+1957,Directing,12 Angry Men,Sidney Lumet,,false
+1957,Directing,Peyton Place,Mark Robson,,false
+1957,Directing,Sayonara,Joshua Logan,,false
+1957,Directing,The Bridge on the River Kwai,David Lean,,true
+1957,Directing,Witness for the Prosecution,Billy Wilder,,false
+1958,Directing,Cat on a Hot Tin Roof,Richard Brooks,,false
+1958,Directing,Gigi,Vincente Minnelli,,true
+1958,Directing,I Want to Live!,Robert Wise,,false
+1958,Directing,The Defiant Ones,Stanley Kramer,,false
+1958,Directing,The Inn of the Sixth Happiness,Mark Robson,,false
+1959,Directing,Ben-Hur,William Wyler,,true
+1959,Directing,Room at the Top,Jack Clayton,,false
+1959,Directing,Some Like It Hot,Billy Wilder,,false
+1959,Directing,The Diary of Anne Frank,George Stevens,,false
+1959,Directing,The Nun's Story,Fred Zinnemann,,false
+1960,Directing,Never on Sunday,Jules Dassin,,false
+1960,Directing,Psycho,Alfred Hitchcock,,false
+1960,Directing,Sons and Lovers,Jack Cardiff,,false
+1960,Directing,The Apartment,Billy Wilder,,true
+1960,Directing,The Sundowners,Fred Zinnemann,,false
+1961,Directing,Judgment at Nuremberg,Stanley Kramer,,false
+1961,Directing,La Dolce Vita,Federico Fellini,,false
+1961,Directing,The Guns of Navarone,J. Lee Thompson,,false
+1961,Directing,The Hustler,Robert Rossen,,false
+1961,Directing,West Side Story,Robert Wise,,true
+1962,Directing,David and Lisa,Frank Perry,,false
+1962,Directing,Divorce Italian Style,Pietro Germi,,false
+1962,Directing,Lawrence of Arabia,David Lean,,true
+1962,Directing,The Miracle Worker,Arthur Penn,,false
+1962,Directing,To Kill a Mockingbird,Robert Mulligan,,false
+1963,Directing,8_,Federico Fellini,,false
+1963,Directing,America America,Elia Kazan,,false
+1963,Directing,Hud,Martin Ritt,,false
+1963,Directing,The Cardinal,Otto Preminger,,false
+1963,Directing,Tom Jones,Tony Richardson,,true
+1964,Directing,Becket,Peter Glenville,,false
+1964,Directing,Dr. Strangelove,Stanley Kubrick,,false
+1964,Directing,Mary Poppins,Robert Stevenson,,false
+1964,Directing,My Fair Lady,George Cukor,,true
+1964,Directing,Zorba the Greek,Michael Cacoyannis,,false
+1965,Directing,Darling,John Schlesinger,,false
+1965,Directing,Doctor Zhivago,David Lean,,false
+1965,Directing,The Collector,William Wyler,,false
+1965,Directing,The Sound of Music,Robert Wise,,true
+1965,Directing,The Woman in the Dunes,Hiroshi Teshigahara,,false
+1966,Directing,A Man and a Woman,Claude Lelouch,,false
+1966,Directing,A Man for All Seasons,Fred Zinnemann,,true
+1966,Directing,Blowup,Michelangelo Antonioni,,false
+1966,Directing,The Professionals,Richard Brooks,,false
+1966,Directing,Who's Afraid of Virginia Woolf?,Mike Nichols,,false
+1967,Directing,Bonnie and Clyde,Arthur Penn,,false
+1967,Directing,Guess Who's Coming to Dinner,Stanley Kramer,,false
+1967,Directing,In Cold Blood,Richard Brooks,,false
+1967,Directing,In the Heat of the Night,Norman Jewison,,false
+1967,Directing,The Graduate,Mike Nichols,,true
+1968,Directing,2001: A Space Odyssey,Stanley Kubrick,,false
+1968,Directing,Oliver,Carol Reed,,true
+1968,Directing,Romeo and Juliet,Franco Zeffirelli,,false
+1968,Directing,The Battle of Algiers,Gillo Pontecorvo,,false
+1968,Directing,The Lion in Winter,Anthony Harvey,,false
+1969,Directing,Alice's Restaurant,Arthur Penn,,false
+1969,Directing,Butch Cassidy and the Sundance Kid,George Roy Hill,,false
+1969,Directing,Midnight Cowboy,John Schlesinger,,true
+1969,Directing,They Shoot Horses Don't They?,Sydney Pollack,,false
+1969,Directing,Z,Costa Gavras,,false
+1970,Directing,Fellini Satyricon,Federico Fellini,,false
+1970,Directing,Love Story,Arthur Hiller,,false
+1970,Directing,MASH,Robert Altman,,false
+1970,Directing,Patton,Franklin J. Schaffner,,true
+1970,Directing,Women in Love,Ken Russell,,false
+1971,Directing,A Clockwork Orange,Stanley Kubrick,,false
+1971,Directing,Fiddler on the Roof,Norman Jewison,,false
+1971,Directing,Sunday Bloody Sunday,John Schlesinger,,false
+1971,Directing,The French Connection,William Friedkin,,true
+1971,Directing,The Last Picture Show,Peter Bogdanovich,,false
+1972,Directing,Cabaret,Bob Fosse,,true
+1972,Directing,Deliverance,John Boorman,,false
+1972,Directing,Sleuth,Joseph L. Mankiewicz,,false
+1972,Directing,The Emigrants,Jan Troell,,false
+1972,Directing,The Godfather,Francis Ford Coppola,,false
+1973,Directing,American Graffiti,George Lucas,,false
+1973,Directing,Cries and Whispers,Ingmar Bergman,,false
+1973,Directing,Last Tango in Paris,Bernardo Bertolucci,,false
+1973,Directing,The Exorcist,William Friedkin,,false
+1973,Directing,The Sting,George Roy Hill,,true
+1974,Directing,A Woman Under the Influence,John Cassavetes,,false
+1974,Directing,Chinatown,Roman Polanski,,false
+1974,Directing,Day for Night,Francois Truffaut,,false
+1974,Directing,Lenny,Bob Fosse,,false
+1974,Directing,The Godfather Part II,Francis Ford Coppola,,true
+1975,Directing,Amarcord,Federico Fellini,,false
+1975,Directing,Barry Lyndon,Stanley Kubrick,,false
+1975,Directing,Dog Day Afternoon,Sidney Lumet,,false
+1975,Directing,Nashville,Robert Altman,,false
+1975,Directing,One Flew Over the Cuckoo's Nest,Milo_ Forman,,true
+1976,Directing,All the President's Men,Alan J. Pakula,,false
+1976,Directing,Face to Face,Ingmar Bergman,,false
+1976,Directing,Network,Sidney Lumet,,false
+1976,Directing,Rocky,John G. Avildsen,,true
+1976,Directing,Seven Beauties,Lina Wertmuller,,false
+1977,Directing,Annie Hall,Woody Allen,,true
+1977,Directing,Close Encounters of the Third Kind,Steven Spielberg,,false
+1977,Directing,Julia,Fred Zinnemann,,false
+1977,Directing,Star Wars,George Lucas,,false
+1977,Directing,The Turning Point,Herbert Ross,,false
+1978,Directing,Coming Home,Hal Ashby,,false
+1978,Directing,Heaven Can Wait,Warren Beatty,,false
+1978,Directing,Interiors,Woody Allen,,false
+1978,Directing,Midnight Express,Alan Parker,,false
+1978,Directing,The Deer Hunter,Michael Cimino,,true
+1979,Directing,All That Jazz,Bob Fosse,,false
+1979,Directing,Apocalypse Now,Francis Ford Coppola,,false
+1979,Directing,Breaking Away,Peter Yates,,false
+1979,Directing,Kramer vs. Kramer,Robert Benton,,true
+1979,Directing,La Cage aux Folles,Edouard Molinaro,,false
+1980,Directing,Ordinary People,Robert Redford,,true
+1980,Directing,Raging Bull,Martin Scorsese,,false
+1980,Directing,Tess,Roman Polanski,,false
+1980,Directing,The Elephant Man,David Lynch,,false
+1980,Directing,The Stunt Man,Richard Rush,,false
+1981,Directing,Atlantic City,Louis Malle,,false
+1981,Directing,Chariots of Fire,Hugh Hudson,,false
+1981,Directing,On Golden Pond,Mark Rydell,,false
+1981,Directing,Raiders of the Lost Ark,Steven Spielberg,,false
+1981,Directing,Reds,Warren Beatty,,true
+1982,Directing,Das Boot,Wolfgang Petersen,,false
+1982,Directing,E.T. the Extra-Terrestrial,Steven Spielberg,,false
+1982,Directing,Gandhi,Richard Attenborough,,true
+1982,Directing,The Verdict,Sidney Lumet,,false
+1982,Directing,Tootsie,Sydney Pollack,,false
+1983,Directing,'Tender Mercies,Bruce Beresford,,false
+1983,Directing,Fanny and Alexander,Ingmar Bergman,,false
+1983,Directing,Silkwood,Mike Nichols,,false
+1983,Directing,Terms of Endearment,James L. Brooks,,true
+1983,Directing,The Dresser,Peter Yates,,false
+1984,Directing,A Passage to India,David Lean,,false
+1984,Directing,Amadeus,Milo_ Forman,,true
+1984,Directing,Broadway Danny Rose,Woody Allen,,false
+1984,Directing,Places in the Heart,Robert Benton,,false
+1984,Directing,The Killing Fields,Roland Joffe,,false
+1985,Directing,Kiss of the Spider Woman,Hector Babenco,,false
+1985,Directing,Out of Africa,Sydney Pollack,,true
+1985,Directing,Prizzi's Honor,John Huston,,false
+1985,Directing,Ran,Akira Kurosawa,,false
+1985,Directing,Witness,Peter Weir,,false
+1986,Directing,A Room with a View,James Ivory,,false
+1986,Directing,Blue Velvet,David Lynch,,false
+1986,Directing,Hannah and Her Sisters,Woody Allen,,false
+1986,Directing,Platoon,Oliver Stone,,true
+1986,Directing,The Mission,Roland Joffe,,false
+1987,Directing,Fatal Attraction,Adrian Lyne,,false
+1987,Directing,Hope and Glory,John Boorman,,false
+1987,Directing,Moonstruck,Norman Jewison,,false
+1987,Directing,My Life as a Dog,Lasse Hallstrom,,false
+1987,Directing,The Last Emperor,Bernardo Bertolucci,,true
+1988,Directing,'Working Girl,Mike Nichols,,false
+1988,Directing,A Fish Called Wanda,Charles Crichton,,false
+1988,Directing,Mississippi Burning,Alan Parker,,false
+1988,Directing,Rain Man,Barry Levinson,,true
+1988,Directing,The Last Temptation of Christ,Martin Scorsese,,false
+1989,Directing,Born on the Fourth of July,Oliver Stone,,true
+1989,Directing,Crimes and Misdemeanors,Woody Allen,,false
+1989,Directing,Dead Poets Society,Peter Weir,,false
+1989,Directing,Henry V,Kenneth Branagh,,false
+1989,Directing,My Left Foot,Jim Sheridan,,false
+1990,Directing,Dances with Wolves,Kevin Costner,,true
+1990,Directing,Goodfellas,Martin Scorsese,,false
+1990,Directing,Reversal of Fortune,Barbet Schroeder,,false
+1990,Directing,The Godfather Part III,Francis Ford Coppola,,false
+1990,Directing,The Grifters,Stephen Frears,,false
+1991,Directing,Boyz n the Hood,John Singleton,,false
+1991,Directing,Bugsy,Barry Levinson,,false
+1991,Directing,JFK,Oliver Stone,,false
+1991,Directing,The Silence of the Lambs,Jonathan Demme,,true
+1991,Directing,Thelma & Louise,Ridley Scott,,false
+1992,Directing,Howards End,James Ivory,,false
+1992,Directing,Scent of a Woman,Martin Brest,,false
+1992,Directing,The Crying Game,Neil Jordan,,false
+1992,Directing,The Player,Robert Altman,,false
+1992,Directing,Unforgiven,Clint Eastwood,,true
+1993,Directing,In the Name of the Father,Jim Sheridan,,false
+1993,Directing,Schindler's List,Steven Spielberg,,true
+1993,Directing,Short Cuts,Robert Altman,,false
+1993,Directing,The Piano,Jane Campion,,false
+1993,Directing,The Remains of the Day,James Ivory,,false
+1994,Directing,Bullets over Broadway,Woody Allen,,false
+1994,Directing,Forrest Gump,Robert Zemeckis,,true
+1994,Directing,Pulp Fiction,Quentin Tarantino,,false
+1994,Directing,Quiz Show,Robert Redford,,false
+1994,Directing,Three Colors: Red,Krzysztof Kie_lowski,,false
+1995,Directing,Babe,Chris Noonan,,false
+1995,Directing,Braveheart,Mel Gibson,,true
+1995,Directing,Dean Man Walking,Tim Robbins,,false
+1995,Directing,Il Postino: The Postman,Michael Radford,,false
+1995,Directing,Leaving Las Vegas,Mike Figgis,,false
+1996,Directing,Fargo,Joel Coen,,false
+1996,Directing,Secrets & Lies,Mike Leigh,,false
+1996,Directing,Shine,Scott Hicks,,false
+1996,Directing,The English Patient,Anthony Minghella,,true
+1996,Directing,The People vs. Larry Flynt,Milo_ Forman,,false
+1997,Directing,Good Will Hunting,Gus Van Sant,,false
+1997,Directing,L.A. Confidential,Curtis Hanson,,false
+1997,Directing,The Full Monty,Peter Cattaneo,,false
+1997,Directing,The Sweet Hereafter,Atom Egoyan,,false
+1997,Directing,Titanic,James Cameron,,true
+1998,Directing,Life Is Beautiful,Roberto Benigni,,false
+1998,Directing,Saving Private Ryan,Steven Spielberg,,true
+1998,Directing,Shakespeare in Love,John Madden,,false
+1998,Directing,The Thin Red Line,Terence Malick,,false
+1998,Directing,The Truman Show,Peter Weir,,false
+1999,Directing,American Beauty,Sam Mendes,,true
+1999,Directing,Being John Malkovich,Spike Jonze,,false
+1999,Directing,The Cider House Rules,Lasse Hallstrom,,false
+1999,Directing,The Insider,Michael Mann,,false
+1999,Directing,The Sixth Sense,M. Night Shyamalan,,false
+2000,Directing,Billy Elliot,Stephen Daldry,,false
+2000,Directing,Crouching Tiger Hidden Dragon,Ang Lee,,false
+2000,Directing,Erin Brockovich,Steven Soderbergh,,false
+2000,Directing,Gladiator,Ridley Scott,,false
+2000,Directing,Traffic,Steven Soderbergh,,true
+2001,Directing,A Beautiful Mind,Ron Howard,,true
+2001,Directing,Black Hawk Down,Ridley Scott,,false
+2001,Directing,Gosford Park,Robert Altman,,false
+2001,Directing,Mulholland Drive,David Lynch,,false
+2001,Directing,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,,false
+2002,Directing,Chicago,Rob Marshall,,false
+2002,Directing,Gangs of New York,Martin Scorsese,,false
+2002,Directing,Talk to Her,Pedro Almodovar,,false
+2002,Directing,The Hours,Stephen Daldry,,false
+2002,Directing,The Pianist,Roman Polanski,,true
+2003,Directing,City of God,Fernando Meirelles,,false
+2003,Directing,Lost in Translation',Sofia Coppola,,false
+2003,Directing,Master and Commander: The Far Side of the World,Peter Weir,,false
+2003,Directing,Mystic River,Clint Eastwood,,false
+2003,Directing,The Lord of the Rings: The Return of the King,Peter Jackson,,true
+2004,Directing,Million Dollar Baby,Clint Eastwood,,true
+2004,Directing,Ray,Taylor Hackford,,false
+2004,Directing,Sideways,Alexander Payne,,false
+2004,Directing,The Aviator,Martin Scorsese,,false
+2004,Directing,Vera Drake,Mike Leigh,,false
+2005,Directing,Brokeback Mountain,Ang Lee,,true
+2005,Directing,Capote,Bennett Miller,,false
+2005,Directing,Crash,Paul Haggis,,false
+2005,Directing,Good Night and Good Luck,George Clooney,,false
+2005,Directing,Munich,Steven Spielberg,,false
+2006,Directing,Babel,Alejandro Gonzalez Inarritu,,false
+2006,Directing,Letters from Iwo Jima,Clint Eastwood,,false
+2006,Directing,The Departed,Martin Scorsese,,true
+2006,Directing,The Queen,Stephen Frears,,false
+2006,Directing,United 93,Paul Greengrass,,false
+2007,Directing,Juno,Jason Reitman,,false
+2007,Directing,Michael Clayton,Tony Gilroy,,false
+2007,Directing,No Country for Old Men,Joel Coen,,true
+2007,Directing,The Diving Bell and the Butterfly,Julian Schnabel,,false
+2007,Directing,There Will Be Blood,Paul Thomas Anderson,,false
+2008,Directing,Frost/Nixon,Ron Howard,,false
+2008,Directing,Milk,Gus Van Sant,,false
+2008,Directing,Slumdog Millionaire,Danny Boyle,,true
+2008,Directing,The Curious Case of Benjamin Button,David Fincher,,false
+2008,Directing,The Reader,Stephen Daldry,,false
+2009,Directing,Avatar,James Cameron,,false
+2009,Directing,Inglourious Basterds,Quentin Tarantino,,false
+2009,Directing,Precious,Lee Daniels,,false
+2009,Directing,The Hurt Locker,Kathryn Bigelow,,true
+2009,Directing,Up in the Air,Jason Reitman,,false
+2010,Directing,Black Swan,Darren Aronofsky,,false
+2010,Directing,The Fighter,David O. Russell,,false
+2010,Directing,The King's Speech,Tom Hooper,,true
+2010,Directing,The Social Network,David Fincher,,false
+2010,Directing,Joel Coen,True Grit,,false
+2011,Directing,Hugo,Martin Scorsese,,false
+2011,Directing,Midnight in Paris,Woody Allen,,false
+2011,Directing,The Artist,Michel Hazanavicius,,true
+2011,Directing,The Descendants,Alexander Payne,,false
+2011,Directing,The Tree of Life,Terrence Malick,,false
+2012,Directing,Amour,Michael Haneke,,false
+2012,Directing,Beasts of the Southern Wild,Benh Zeitlin,,false
+2012,Directing,Life of Pi,Ang Lee,,true
+2012,Directing,Lincoln,Steven Spielberg,,false
+2012,Directing,Silver Linings Playbook,David O. Russell,,false
+2013,Directing,12 Years a Slave,Steve McQueen,,false
+2013,Directing,American Hustle,David O. Russell,,false
+2013,Directing,Gravity,Alfonso Cuaron,,true
+2013,Directing,Nebraska,Alexander Payne,,false
+2013,Directing,The Wolf of Wall Street,Martin Scorsese,,false
+2014,Directing,Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Inarritu,,true
+2014,Directing,Boyhood,Richard Linklater,,false
+2014,Directing,Foxcatcher,Bennett Miller,,false
+2014,Directing,The Grand Budapest Hotel,Wes Anderson,,false
+2014,Directing,The Imitation Game,Morten Tyldum,,false

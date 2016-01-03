@@ -8,22 +8,27 @@ require 'nokogiri'
 class NomineesParser
 	def initialize
 		@nominations = []
-		# parse_nominations
-		# parse_best_picture
+		parse_best_picture
 		parse_best_actor
-		# generate_csv
+		parse_best_supporting_actor
+		parse_best_actress
+		parse_best_supporting_actress
+		parse_best_director
+
+		generate_csv
 	end
 
 	def parse_best_picture
-		# https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture#Winners_and_nominees
-		doc = Nokogiri::HTML(File.open("best_picture_winners_wikipedia.html"))
+		doc = Nokogiri::HTML(File.open("raw_data/best_picture_winners_wikipedia.html"))
 		doc.xpath("//table").each do |table|
 			year = table.xpath("caption/big/a").text 
 			winner = table.xpath("tbody/tr/td/i/a").each_with_index do |movie_name, index|
 				nomination = Nomination.new
 				nomination.assign_year(year)
+				next if nomination.ditch_year?
 				nomination.category = "Best Picture"
 				nomination.film = movie_name.text
+				nomination.nominee = movie_name.text
 				if index == 0	
 					nomination.is_winner = true
 				else 
@@ -36,69 +41,65 @@ class NomineesParser
 
 	def parse_best_actor
 		# https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture#Winners_and_nominees
-		doc = Nokogiri::HTML(File.open("best_actor_winners_wikipedia.html"))
-		table = doc.xpath("//table").css('.wikitable.sortable.jquery-tablesorter')
-
-		table.xpath('//tbody/tr').each do |award_year|
+		CSV.foreach("raw_data/best_actor.csv") do |year, nominee, film, role|
 			nomination = Nomination.new
-			year = award_year.xpath('th').text
 			nomination.assign_year(year)
 			next if nomination.ditch_year?
-			nomination.year
-			nomination.category = "Best Picture"
-			
-			actor = award_year.xpath('td/span/a').inner_text
-			nomination.nominee = actor
-			puts nomination.nominee
-			
-			film = award_year.xpath('td/span/i/a')
-			# puts film
-			# next if nomination.ditch_film?
-			# byebug
-			
-			# nomination.film = movie_name.text
-			# if index == 0	
-			# 	nomination.is_winner = true
-			# else 
-			# 	nomination.is_winner = false
-			# end
-			# @nominations << nomination
-
+			nomination.film = film
+			nomination.assign_nominee(nominee)
+			nomination.role = role
+			nomination.category = "Actor -- Leading Role"
+			@nominations << nomination
 		end
-
-
-		# puts nomination.year
-
-		# .each do |table|
-		# 	year = table.xpath("caption/big/a").text 
-		# 	winner = table.xpath("tbody/tr/td/i/a").each_with_index do |movie_name, index|
-		# 		nomination = Nomination.new
-		# 		nomination.assign_year(year)
-		# 		
-		# 	end
-		# end
 	end
 
-	def parse_nominations
-		CSV.foreach("academy_awards_1945_2010.csv",  headers: true) do |nom|
-
+	def parse_best_supporting_actor
+		CSV.foreach("raw_data/best_support_actor.csv") do |year, nominee, film, role|
 			nomination = Nomination.new
+			nomination.assign_year(year)
+			next if nomination.ditch_year?
+			nomination.film = film
+			nomination.assign_nominee(nominee)
+			nomination.role = role
+			nomination.category = "Actor -- Supporting Role"
+			@nominations << nomination
+		end
+	end
 
-			nomination.nominee = nom[2]
-			next if nomination.is_tech_or_honorary?
-			
+	def parse_best_actress
+		CSV.foreach("raw_data/best_actress.csv") do |year, nominee, film, role|
+			nomination = Nomination.new
+			nomination.assign_year(year)
+			next if nomination.ditch_year?
+			nomination.film = film
+			nomination.assign_nominee(nominee)
+			nomination.role = role
+			nomination.category = "Actress -- Leading Role"
+			@nominations << nomination
+		end
+	end
 
-			nomination.assign_year(nom[0])
-			nomination.category = nom[1]
-			next unless nomination.is_eligible_category?
-			nomination.swap_nominee_and_film if nomination.category == "Directing"
+	def parse_best_supporting_actress
+		CSV.foreach("raw_data/best_support_actress.csv") do |year, nominee, film, role|
+			nomination = Nomination.new
+			nomination.assign_year(year)
+			next if nomination.ditch_year?
+			nomination.film = film
+			nomination.assign_nominee(nominee)
+			nomination.role = role
+			nomination.category = "Actress -- Supporting Role"
+			@nominations << nomination
+		end
+	end
 
-			nomination.assign_film(nom[3])
-			nomination.is_winner = nom[-1] 
-			# nomination.is_winner = nom.last if nomination.category == "Best Picture"
-			# find_age(nominee)
-			find_movie_information(nomination)
-
+	def parse_best_director
+		CSV.foreach("raw_data/best_director.csv") do |year, nominee, film|
+			nomination = Nomination.new
+			nomination.assign_year(year)
+			next if nomination.ditch_year?
+			nomination.film = film
+			nomination.assign_nominee(nominee)
+			nomination.category = "Directing"
 			@nominations << nomination
 		end
 	end
@@ -112,7 +113,7 @@ class NomineesParser
 					nomination.category,
 					nomination.film,
 					nomination.nominee,
-					nomination.character,
+					nomination.role,
 					nomination.is_winner
 		  	]
 			end
